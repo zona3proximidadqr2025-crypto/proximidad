@@ -1,0 +1,3836 @@
+[
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "AMBATO NORTE",
+    "circuito": "IZAMBA",
+    "subcircuito": "IZAMBA 1",
+    "id": "PARQUE-CENTRAL-DE-IZAMBA-Z3-T-A-I",
+    "nombre_punto": "PARQUE CENTRAL DE IZAMBA"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "QUERO",
+    "circuito": "QUERO",
+    "subcircuito": "QUERO 1",
+    "id": "BARRIO-FLORESTA-Z3-T-Q-Q",
+    "nombre_punto": "BARRIO FLORESTA"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "COLTA",
+    "circuito": "CAJABAMBA",
+    "subcircuito": "CAJABAMBA 1",
+    "id": "GASOLINERA-GRUDO-GAS-Z3-C-C-C",
+    "nombre_punto": "GASOLINERA GRUDO GAS"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "QUERO",
+    "circuito": "QUERO",
+    "subcircuito": "QUERO 1",
+    "id": "PILCO-Z3-T-Q-Q",
+    "nombre_punto": "PILCO"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LATACUNGA",
+    "circuito": "NUEVA VIDA",
+    "subcircuito": "NUEVA VIDA 1",
+    "id": "LA-CASA-DE-LAS-ALLUYAS-Z3-C-L-N",
+    "nombre_punto": "LA CASA DE LAS ALLUYAS"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LATACUNGA",
+    "circuito": "NUEVA VIDA",
+    "subcircuito": "NUEVA VIDA 1",
+    "id": "COOPERATIVA-COORCOTOPAXI-Z3-C-L-N",
+    "nombre_punto": "COOPERATIVA COORCOTOPAXI"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "COLTA",
+    "circuito": "PALMIRA",
+    "subcircuito": "PALMIRA 1",
+    "id": "GASOLINERA-PALMIRA-Z3-C-C-P",
+    "nombre_punto": "GASOLINERA PALMIRA"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LATACUNGA",
+    "circuito": "NUEVA VIDA",
+    "subcircuito": "NUEVA VIDA 1",
+    "id": "FARMACIAS-ECONÓMICAS-Z3-C-L-N",
+    "nombre_punto": "FARMACIAS ECONÓMICAS"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "PANGUA",
+    "circuito": "MORASPUNGO",
+    "subcircuito": "MORASPUNGO 1",
+    "id": "RESTOBAR-LA-FAVELA-Z3-C-P-M",
+    "nombre_punto": "RESTOBAR LA FAVELA"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "PANGUA",
+    "circuito": "MORASPUNGO",
+    "subcircuito": "MORASPUNGO 1",
+    "id": "FARMACIA-FARMA-AMIGO-Z3-C-P-M",
+    "nombre_punto": "FARMACIA FARMA AMIGO"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "PANGUA",
+    "circuito": "MORASPUNGO",
+    "subcircuito": "MORASPUNGO 1",
+    "id": "GASOLINERA-D'VIFER-Z3-C-P-M",
+    "nombre_punto": "GASOLINERA D'VIFER"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "PANGUA",
+    "circuito": "MORASPUNGO",
+    "subcircuito": "MORASPUNGO 1",
+    "id": "COOP.-DE-AHORRO-Y-CREDITO-VIRGEN-DEL-CISNE-Z3-C-P-M",
+    "nombre_punto": "COOP. DE AHORRO Y CREDITO VIRGEN DEL CISNE"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "PANGUA",
+    "circuito": "MORASPUNGO",
+    "subcircuito": "MORASPUNGO 1",
+    "id": "COAC-SOLIDARIA-LTDA.-Z3-C-P-M",
+    "nombre_punto": "COAC SOLIDARIA LTDA."
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "PANGUA",
+    "circuito": "MORASPUNGO",
+    "subcircuito": "MORASPUNGO 1",
+    "id": "COOP.-DE-AHORRO-Y-CREDITO-OCCIDENTAL-Z3-C-P-M",
+    "nombre_punto": "COOP. DE AHORRO Y CREDITO OCCIDENTAL"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "PANGUA",
+    "circuito": "MORASPUNGO",
+    "subcircuito": "MORASPUNGO 1",
+    "id": "COOP.-DE-AHORRO-Y-CREDITO-CACPECO-Z3-C-P-M",
+    "nombre_punto": "COOP. DE AHORRO Y CREDITO CACPECO"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "PANGUA",
+    "circuito": "MORASPUNGO",
+    "subcircuito": "MORASPUNGO 1",
+    "id": "GASOLINERA-P&S-MORASPUNGO-Z3-C-P-M",
+    "nombre_punto": "GASOLINERA P&S MORASPUNGO"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "GUANO",
+    "circuito": "GUANO",
+    "subcircuito": "GUANO 1",
+    "id": "SUPERMARKET-MONTALVO-Z3-C-G-G",
+    "nombre_punto": "PARQUE EL BATAN"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "GUANO",
+    "circuito": "GUANO",
+    "subcircuito": "GUANO 1",
+    "id": "RICAS-CHOLAS-Z3-C-G-G",
+    "nombre_punto": "PLAZA ROJA"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "RIOBAMBA",
+    "circuito": "CAMILO PONCE",
+    "subcircuito": "CAMILO PONCE 1",
+    "id": "FARMACIA-SUIZA-Z3-C-R-C",
+    "nombre_punto": "FARMACIA SUIZA"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LATACUNGA",
+    "circuito": "SAN CARLOS",
+    "subcircuito": "SAN CARLOS 1",
+    "id": "PAPITAS-DEL-VLADY-Z3-C-L-S",
+    "nombre_punto": "PAPITAS DEL VLADY"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LATACUNGA",
+    "circuito": "SAN CARLOS",
+    "subcircuito": "SAN CARLOS 1",
+    "id": "SUPERMERCADO-DICOLAIC-CALLE-UNIDAD-NACIONAL-Y-GALO-TORRES-Z3-C-L-S",
+    "nombre_punto": "SUPERMERCADO DICOLAIC CALLE UNIDAD NACIONAL Y GALO TORRES"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "ALAUSI",
+    "circuito": "ALAUSI",
+    "subcircuito": "ALAUSI 1",
+    "id": "MAGIGCELL-Z3-C-A-A",
+    "nombre_punto": "MAGIGCELL"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LATACUNGA",
+    "circuito": "SAN MARTIN",
+    "subcircuito": "SAN MARTIN 1",
+    "id": "FARMACIA-FYBECA-CALLES-UNIDAD-NACIONAL-Y-ANGEL-SUBIA-Z3-C-L-S",
+    "nombre_punto": "FARMACIA FYBECA CALLES UNIDAD NACIONAL Y ANGEL SUBIA"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LATACUNGA",
+    "circuito": "SAN CARLOS",
+    "subcircuito": "SAN CARLOS 1",
+    "id": "FARMACIA-CRUZ-AZUL-CALLES-UNIDAD-NACIONAL-Y-ATAHUALPA-Z3-C-L-S",
+    "nombre_punto": "FARMACIA CRUZ AZUL CALLES UNIDAD NACIONAL Y ATAHUALPA"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LATACUNGA",
+    "circuito": "SAN CARLOS",
+    "subcircuito": "SAN CARLOS 1",
+    "id": "FERRETERÍA-EL-MAESTRO-CALLES-UNIDAD-NACIONAL-Y-EMILIO-ZANDOVAL-Z3-C-L-S",
+    "nombre_punto": "FERRETERÍA EL MAESTRO CALLES UNIDAD NACIONAL Y EMILIO ZANDOVAL"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "ALAUSI",
+    "circuito": "ALAUSI",
+    "subcircuito": "ALAUSI 1",
+    "id": "MERCEDITAS-Z3-C-A-A",
+    "nombre_punto": "MERCEDITAS"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "BAÑOS",
+    "circuito": "BAÑOS",
+    "subcircuito": "BAÑOS 2",
+    "id": "GASOLINERA-SINDICATO-DE-CHOFERES-Z3-T-B-B",
+    "nombre_punto": "GASOLINERA SINDICATO DE CHOFERES"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "BAÑOS",
+    "circuito": "BAÑOS",
+    "subcircuito": "BAÑOS 1",
+    "id": "GASOLINERA-ALBAN-Z3-T-B-B",
+    "nombre_punto": "GASOLINERA ALBAN"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "BAÑOS",
+    "circuito": "BAÑOS",
+    "subcircuito": "BAÑOS 1",
+    "id": "GASOLINERA-SÁNCHEZ-Z3-T-B-B",
+    "nombre_punto": "GASOLINERA SÁNCHEZ"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "AMBATO NORTE",
+    "circuito": "JARDIN AMBATEÑO",
+    "subcircuito": "JARDIN AMBATEÑO 1",
+    "id": "FARMACIA-SAN-FERNANDO-Z3-T-A-J",
+    "nombre_punto": "FARMACIA SAN FERNANDO"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "GUANO",
+    "circuito": "SANTA FE DE GALAN",
+    "subcircuito": "SANTA FE DE GALAN 1",
+    "id": "VIVERES-DOÑA-PATY-Z3-C-G-S",
+    "nombre_punto": "CONJUNTO HABITACIONAL IRAZU"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "GUANO",
+    "circuito": "GUANO",
+    "subcircuito": "GUANO 2",
+    "id": "NEYMATEX-Z3-C-G-G",
+    "nombre_punto": "PARQUE CENTRAL (PARADA DE TAXIS)"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "AMBATO NORTE",
+    "circuito": "ATOCHA FICOA",
+    "subcircuito": "ATOCHA FICOA 1",
+    "id": "PARQUE-LOS-QUINDES-Z3-T-A-A",
+    "nombre_punto": "PARQUE LOS QUINDES"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "GUANO",
+    "circuito": "GUANO",
+    "subcircuito": "GUANO 2",
+    "id": "FERRETERÍA-SANTA-ANITA-Z3-C-G-G",
+    "nombre_punto": "PARQUE DE LOS ELENES"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "AMBATO NORTE",
+    "circuito": "ATOCHA FICOA",
+    "subcircuito": "ATOCHA FICOA 1",
+    "id": "FARMACIA-CUXIBAMBA-Z3-T-A-A",
+    "nombre_punto": "FARMACIA CUXIBAMBA"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "GUANO",
+    "circuito": "SANTA FE DE GALAN",
+    "subcircuito": "SANTA FE DE GALAN 1",
+    "id": "VIVERES-AREVALO-Z3-C-G-S",
+    "nombre_punto": "ESTACION DE COMBUSTIBLE COLSA"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "GUANO",
+    "circuito": "SANTA FE DE GALAN",
+    "subcircuito": "SANTA FE DE GALAN 1",
+    "id": "VÍVERES-MACARA-Z3-C-G-S",
+    "nombre_punto": "PARADA DE TAXIS SANTA TERESITA"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "GUANO",
+    "circuito": "SANTA FE DE GALAN",
+    "subcircuito": "SANTA FE DE GALAN 1",
+    "id": "VÍVERES-JHONATAN-Z3-C-G-S",
+    "nombre_punto": "ESCUELA DE EDUCACION BASICA JOSE ANTONIO LIZARZABURU"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "RIOBAMBA",
+    "circuito": "LA CONDAMINE",
+    "subcircuito": "LA CONDAMINE 2",
+    "id": "PANADERÍA-EL-CISNE-Z3-C-R-L",
+    "nombre_punto": "PANADERÍA EL CISNE"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "AMBATO NORTE",
+    "circuito": "JARDIN AMBATEÑO",
+    "subcircuito": "",
+    "id": "VIVERES-DON-PEPITO-PARQUE-DE-LAS-FLORES-Z3-T-A-J",
+    "nombre_punto": "VIVERES DON PEPITO PARQUE DE LAS FLORES"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "AMBATO NORTE",
+    "circuito": "ATAHUALPA",
+    "subcircuito": "ATAHUALPA 1",
+    "id": "LUIGI-VALDINI-Z3-T-A-A",
+    "nombre_punto": "LUIGI VALDINI"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "AMBATO NORTE",
+    "circuito": "ATAHUALPA",
+    "subcircuito": "ATAHUALPA 2",
+    "id": "CREDY-PASA-Z3-T-A-A",
+    "nombre_punto": "CREDY PASA"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "AMBATO NORTE",
+    "circuito": "INGAURCO",
+    "subcircuito": "INGAURCO 1",
+    "id": "GRAN-AKI-Z3-T-A-I",
+    "nombre_punto": "GRAN AKI"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "AMBATO NORTE",
+    "circuito": "INGAURCO",
+    "subcircuito": "INGAURCO 1",
+    "id": "MANABA-EL-ORIGINAL-Z3-T-A-I",
+    "nombre_punto": "MANABA EL ORIGINAL"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "GUANO",
+    "circuito": "SAN ANDRES",
+    "subcircuito": "SAN ANDRES 2",
+    "id": "TIENDA-DE-ABARROTES-MARIA-Z3-C-G-S",
+    "nombre_punto": "FABRICA DE CORTINAS DEL BARRIO PREMATUROS"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "GUANO",
+    "circuito": "SAN ANDRES",
+    "subcircuito": "SAN ANDRES 2",
+    "id": "FARMACIA-ECONÓMICA-Z3-C-G-S",
+    "nombre_punto": "SUBCENTRO DE BALZAYAN"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "PALLATANGA",
+    "circuito": "PALLATANGA",
+    "subcircuito": "PALLATANGA 1",
+    "id": "LIBRERÍA-PAQUITO-Z3-C-P-P",
+    "nombre_punto": "LIBRERÍA PAQUITO"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "GUANO",
+    "circuito": "SAN ANDRES",
+    "subcircuito": "SAN ANDRES 2",
+    "id": "FRIGO-MARKET-Z3-C-G-S",
+    "nombre_punto": "PARQUE DE BATZACON"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "AMBATO NORTE",
+    "circuito": "ATAHUALPA",
+    "subcircuito": "ATAHUALPA 2",
+    "id": "COOPERATIVA-UNIÓN-FAMILIAR-Z3-T-A-A",
+    "nombre_punto": "COOPERATIVA UNIÓN FAMILIAR"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "GUANO",
+    "circuito": "SAN ANDRES",
+    "subcircuito": "SAN ANDRES 2",
+    "id": "MOLINOS-DE-AGUA-SAN-ANDRÉS-Z3-C-G-S",
+    "nombre_punto": "PARQUE SAN ISIDRO"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "PALLATANGA",
+    "circuito": "PALLATANGA",
+    "subcircuito": "PALLATANGA 1",
+    "id": "COMISARIATO-PAÑORA-Z3-C-P-P",
+    "nombre_punto": "COMISARIATO PAÑORA"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "AMBATO SUR",
+    "circuito": "PICAIHUA",
+    "subcircuito": "PICAIHUA 1",
+    "id": "GAD-PARROQUIAL-DE-PICAIHUA-Z3-T-A-P",
+    "nombre_punto": "GAD PARROQUIAL DE PICAIHUA"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "PALLATANGA",
+    "circuito": "PALLATANGA",
+    "subcircuito": "PALLATANGA 1",
+    "id": "MEGA-CONSTRUCTOR-Z3-C-P-P",
+    "nombre_punto": "MEGA CONSTRUCTOR"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "PATATE",
+    "circuito": "EL TAMBO",
+    "subcircuito": "EL TAMBO 1",
+    "id": "PARQUE-HÉROES-DE-PAQUISHA-Z3-T-P-E",
+    "nombre_punto": "PARQUE HÉROES DE PAQUISHA"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "PALLATANGA",
+    "circuito": "PALLATANGA",
+    "subcircuito": "PALLATANGA 1",
+    "id": "FERRETERÍA-MULTIHERRAMIENTAS-Z3-C-P-P",
+    "nombre_punto": "FERRETERÍA MULTIHERRAMIENTAS"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "PATATE",
+    "circuito": "EL TAMBO",
+    "subcircuito": "EL TAMBO 1",
+    "id": "CENTRO-COMERCIAL-MEDINA-Z3-T-P-E",
+    "nombre_punto": "CENTRO COMERCIAL MEDINA"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "AMBATO SUR",
+    "circuito": "SAN ANTONIO",
+    "subcircuito": "SAN ANTONIO 1",
+    "id": "PARQUE-JUAN-BENIGNO-VELA-Z3-T-A-S",
+    "nombre_punto": "PARQUE JUAN BENIGNO VELA"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "AMBATO SUR",
+    "circuito": "SANTA ROSA",
+    "subcircuito": "SANTA ROSA 1",
+    "id": "PARQUE-SANTA-ROSA-Z3-T-A-S",
+    "nombre_punto": "PARQUE SANTA ROSA"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "AMBATO NORTE",
+    "circuito": "LA MATRIZ",
+    "subcircuito": "LA MATRIZ 2",
+    "id": "MERCADO-COLÓN-Z3-T-A-L",
+    "nombre_punto": "MERCADO COLÓN"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "AMBATO SUR",
+    "circuito": "SIMON BOLIVAR",
+    "subcircuito": "SIMON BOLIVAR 1",
+    "id": "MERCADO-MAYORISTA-Z3-T-A-S",
+    "nombre_punto": "MERCADO MAYORISTA"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "AMBATO NORTE",
+    "circuito": "LA MATRIZ",
+    "subcircuito": "LA MATRIZ 2",
+    "id": "UPC-LA-MERCED-Z3-T-A-L",
+    "nombre_punto": "UPC LA MERCED"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "AMBATO SUR",
+    "circuito": "HUACHI GRANDE",
+    "subcircuito": "HUACHI GRANDE 1",
+    "id": "PARQUE-DE-HUACHI-GRANDE-Z3-T-A-H",
+    "nombre_punto": "PARQUE DE HUACHI GRANDE"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "AMBATO SUR",
+    "circuito": "LETAMENDI",
+    "subcircuito": "LETAMENDI 1",
+    "id": "PARQUE-DE-DEL-BARRIO-AMAZONAS-Z3-T-A-L",
+    "nombre_punto": "PARQUE DE DEL BARRIO AMAZONAS"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "BAÑOS",
+    "circuito": "BAÑOS",
+    "subcircuito": "BAÑOS 2",
+    "id": "MINIMARKET-LIZ-Z3-T-B-B",
+    "nombre_punto": "MINIMARKET LIZ"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "BAÑOS",
+    "circuito": "RIO NEGRO",
+    "subcircuito": "RIO NEGRO 1",
+    "id": "PICANTERIA-LA-HORA-DEL-BUEN-SABOR-Z3-T-B-R",
+    "nombre_punto": "PICANTERIA LA HORA DEL BUEN SABOR"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "BAÑOS",
+    "circuito": "RIO NEGRO",
+    "subcircuito": "RIO NEGRO 1",
+    "id": "MINIMARKET-PAPÁ-JUAN-Z3-T-B-R",
+    "nombre_punto": "MINIMARKET PAPÁ JUAN"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "BAÑOS",
+    "circuito": "RIO NEGRO",
+    "subcircuito": "RIO NEGRO 1",
+    "id": "GASOLINERA-RIO-NEGRO-Z3-T-B-R",
+    "nombre_punto": "GASOLINERA RIO NEGRO"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "AMBATO SUR",
+    "circuito": "TECHO PROPIO",
+    "subcircuito": "TECHO PROPIO 1",
+    "id": "PARQUE-DE-TIUHUA-Z3-T-A-T",
+    "nombre_punto": "PARQUE DE TIUHUA"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "GUANO",
+    "circuito": "PENIPE",
+    "subcircuito": "",
+    "id": "LIBRERÍA-Y-BASAR-PATY-Z3-C-G-P",
+    "nombre_punto": "PARQUE CENTRAL DE PENIPE"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "AMBATO SUR",
+    "circuito": "PILAHUIN",
+    "subcircuito": "PILAHUIN 1",
+    "id": "PARQUE-CENTRAL-DE-LA-PARROQUIA-JBV-Z3-T-A-P",
+    "nombre_punto": "PARQUE CENTRAL DE LA PARROQUIA JBV"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "AMBATO SUR",
+    "circuito": "HUACHI EL BELEN",
+    "subcircuito": "HUACHI EL BELEN 2",
+    "id": "SECTOR-MERCADO-MAYORISTA-PARADA-DE-BUSES-A-PELILEO-Z3-T-A-H",
+    "nombre_punto": "SECTOR MERCADO MAYORISTA PARADA DE BUSES A PELILEO"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "SIGCHOS",
+    "circuito": "SIGCHOS",
+    "subcircuito": "SIGCHOS 1",
+    "id": "COMPLETO-JUDICIAL-SIGCHOS-Z3-C-S-S",
+    "nombre_punto": "COMPLETO JUDICIAL SIGCHOS"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "PILLARO",
+    "circuito": "PILLARO",
+    "subcircuito": "PILLARO 2",
+    "id": "COMERCIAL-MORALES-Z3-T-P-P",
+    "nombre_punto": "COMERCIAL MORALES"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "GUANO",
+    "circuito": "PENIPE",
+    "subcircuito": "PENIPE 1",
+    "id": "FARMACIAVID-Z3-C-G-P",
+    "nombre_punto": "PARQUE CENTRAL BAYUSHIG"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "SIGCHOS",
+    "circuito": "SIGCHOS",
+    "subcircuito": "SIGCHOS 1",
+    "id": "COOPERATIVA-DE-AHORRO-Y-CRÉDITO-SAN-MIGUEL-DE-SIGCHOS-Z3-C-S-S",
+    "nombre_punto": "COOPERATIVA DE AHORRO Y CRÉDITO SAN MIGUEL DE SIGCHOS"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "GUANO",
+    "circuito": "PENIPE",
+    "subcircuito": "PENIPE 1",
+    "id": "COMERCIAL-LARA-Z3-C-G-P",
+    "nombre_punto": "COMERCIAL LARA"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "PILLARO",
+    "circuito": "SAN MIGUELITO",
+    "subcircuito": "SAN MIGUELITO 1",
+    "id": "CYBER-Z3-T-P-S",
+    "nombre_punto": "CYBER"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "SIGCHOS",
+    "circuito": "SIGCHOS",
+    "subcircuito": "SIGCHOS 1",
+    "id": "ESTACIÓN-DE-SERVICIO-MAS-GAS-SIGCHOS-Z3-C-S-S",
+    "nombre_punto": "ESTACIÓN DE SERVICIO MAS GAS SIGCHOS"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "PATATE",
+    "circuito": "PELILEO SUR",
+    "subcircuito": "PELILEO SUR 1",
+    "id": "CIUDADELA-LA-PAZ-SEGUNDA-ETAPA-Z3-T-P-P",
+    "nombre_punto": "CIUDADELA LA PAZ SEGUNDA ETAPA"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "GUANO",
+    "circuito": "PENIPE",
+    "subcircuito": "PENIPE 1",
+    "id": "SALON-EL-RECREO-Z3-C-G-P",
+    "nombre_punto": "SALON EL RECREO"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "BAÑOS",
+    "circuito": "BAÑOS",
+    "subcircuito": "BAÑOS 2",
+    "id": "BANECUADOR-Z3-T-B-B",
+    "nombre_punto": "BANECUADOR"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "BAÑOS",
+    "circuito": "BAÑOS",
+    "subcircuito": "BAÑOS 1",
+    "id": "BANCO-PICHINCHA-Z3-T-B-B",
+    "nombre_punto": "BANCO PICHINCHA"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "AMBATO SUR",
+    "circuito": "SIMON BOLIVAR",
+    "subcircuito": "SIMON BOLIVAR 1",
+    "id": "COLEGIO-GUAYAQUIL-Z3-T-A-S",
+    "nombre_punto": "COLEGIO GUAYAQUIL"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LA MANA",
+    "circuito": "LA MANA SUR",
+    "subcircuito": "LA MANA SUR 1",
+    "id": "REGISTRO-CIVIL-Z3-C-L-L",
+    "nombre_punto": "REGISTRO CIVIL"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LA MANA",
+    "circuito": "LA MANA SUR",
+    "subcircuito": "LA MANA SUR 1",
+    "id": "CENTRO-DE-SALUD-LA-MANA-Z3-C-L-L",
+    "nombre_punto": "CENTRO DE SALUD LA MANA"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LA MANA",
+    "circuito": "LA MANA NORTE",
+    "subcircuito": "LA MANA NORTE 2",
+    "id": "GASOLINERA-MARÍA-BEATRIZ-Z3-C-L-L",
+    "nombre_punto": "GASOLINERA MARÍA BEATRIZ"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LA MANA",
+    "circuito": "LA MANA NORTE",
+    "subcircuito": "LA MANA NORTE 1",
+    "id": "COMISARIATO-KERLY-Z3-C-L-L",
+    "nombre_punto": "COMISARIATO KERLY"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LATACUNGA",
+    "circuito": "SAN CARLOS",
+    "subcircuito": "SAN CARLOS 1",
+    "id": "DICOLAIC-COMPANY-SAS-Z3-C-L-S",
+    "nombre_punto": "DICOLAIC COMPANY SAS"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "SALCEDO",
+    "circuito": "SALCEDO",
+    "subcircuito": "SALCEDO 2",
+    "id": "FARMACIA-ECONÓMICAS-Z3-C-S-S",
+    "nombre_punto": "FARMACIA ECONÓMICAS"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "SALCEDO",
+    "circuito": "SALCEDO",
+    "subcircuito": "SALCEDO 2",
+    "id": "CHIFA-CUNFU-PANDA-Z3-C-S-S",
+    "nombre_punto": "CHIFA CUNFU PANDA"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "SALCEDO",
+    "circuito": "SALCEDO",
+    "subcircuito": "SALCEDO 2",
+    "id": "CIMA-REAL-Z3-C-S-S",
+    "nombre_punto": "CIMA REAL"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "PASTAZA",
+    "distrito": "PASTAZA",
+    "circuito": "PUYO SUR",
+    "subcircuito": "PUYO SUR 2",
+    "id": "9-DE-OCTUBRE-Z3-P-P-P",
+    "nombre_punto": "2025-10-09T05:00:00.000Z"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "PASTAZA",
+    "distrito": "PASTAZA",
+    "circuito": "PUYO SUR",
+    "subcircuito": "PUYO SUR 2",
+    "id": "TERMINAL-TERRESTRE-Z3-P-P-P",
+    "nombre_punto": "TERMINAL TERRESTRE"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "PASTAZA",
+    "distrito": "PASTAZA",
+    "circuito": "PUYO NORTE",
+    "subcircuito": "PUYO NORTE 1",
+    "id": "CALLE.-AZUAY-Y-COTOPAXI-Z3-P-P-P",
+    "nombre_punto": "CALLE. AZUAY Y COTOPAXI"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "PASTAZA",
+    "distrito": "PASTAZA",
+    "circuito": "PUYO NORTE",
+    "subcircuito": "PUYO NORTE 1",
+    "id": "CALLE.-AZUAY-Y-CHIMBORAZO-Z3-P-P-P",
+    "nombre_punto": "CALLE. AZUAY Y CHIMBORAZO"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "PASTAZA",
+    "distrito": "PASTAZA",
+    "circuito": "PUYO NORTE",
+    "subcircuito": "PUYO NORTE 1",
+    "id": "CALLE.-LOJA-Y-CHIMBORAZO-Z3-P-P-P",
+    "nombre_punto": "CALLE. LOJA Y CHIMBORAZO"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "PASTAZA",
+    "distrito": "ARAJUNO",
+    "circuito": "ARAJUNO POBLADO",
+    "subcircuito": "ARAJUNO POBLADO 1",
+    "id": "CAPCE-PASTAZA-Z3-P-A-A",
+    "nombre_punto": "MEGA CELL IMPORTACION"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "PASTAZA",
+    "distrito": "ARAJUNO",
+    "circuito": "ARAJUNO POBLADO",
+    "subcircuito": "ARAJUNO POBLADO 1",
+    "id": "MUNICIPIO-DEL-CANTON-ARAJUNO-Z3-P-A-A",
+    "nombre_punto": "MUNICIPIO DEL CANTON ARAJUNO"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "PILLARO",
+    "circuito": "PILLARO",
+    "subcircuito": "PILLARO 2",
+    "id": "MINIMARKET-DALIN-Z3-T-P-P",
+    "nombre_punto": "MINIMARKET DALIN"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "PILLARO",
+    "circuito": "SAN MIGUELITO",
+    "subcircuito": "SAN MIGUELITO 1",
+    "id": "VITAL-POLLO-Z3-T-P-S",
+    "nombre_punto": "VITAL POLLO"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "PASTAZA",
+    "distrito": "ARAJUNO",
+    "circuito": "ARAJUNO POBLADO",
+    "subcircuito": "ARAJUNO POBLADO 1",
+    "id": "AV.-RIO-CURARAY-Y-FABIAN-ANDY-Z3-P-A-A",
+    "nombre_punto": "AV. RIO CURARAY Y FABIAN ANDY"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LA MANA",
+    "circuito": "LA MANA SUR",
+    "subcircuito": "LA MANA SUR 1",
+    "id": "IMPORTADORA-ADRIAN-Z3-C-L-L",
+    "nombre_punto": "IMPORTADORA ADRIAN"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LA MANA",
+    "circuito": "LA MANA SUR",
+    "subcircuito": "LA MANA SUR 1",
+    "id": "ASADERO-LA-CASERITA-DEL-SABOR-Z3-C-L-L",
+    "nombre_punto": "ASADERO LA CASERITA DEL SABOR"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LA MANA",
+    "circuito": "LA MANA NORTE",
+    "subcircuito": "LA MANA NORTE 2",
+    "id": "FARMACIA-SAN-GREGORIO-Z3-C-L-L",
+    "nombre_punto": "FARMACIA SAN GREGORIO"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LA MANA",
+    "circuito": "LA MANA SUR",
+    "subcircuito": "LA MANA SUR 1",
+    "id": "ALMACENES-TIA-Z3-C-L-L",
+    "nombre_punto": "ALMACENES TIA"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LA MANA",
+    "circuito": "GUASAGANDA",
+    "subcircuito": "GUASAGANDA 1",
+    "id": "SUB-CENTRO-DE-SALUD-PUCAYACU-Z3-C-L-G",
+    "nombre_punto": "SUB CENTRO DE SALUD PUCAYACU"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LA MANA",
+    "circuito": "LA MANA NORTE",
+    "subcircuito": "LA MANA NORTE 2",
+    "id": "CONSULTORIO-VIDA-SANA-Z3-C-L-L",
+    "nombre_punto": "CONSULTORIO VIDA SANA"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "PILLARO",
+    "circuito": "SAN MIGUELITO",
+    "subcircuito": "SAN MIGUELITO 1",
+    "id": "COMERCIAL-JR-Z3-T-P-S",
+    "nombre_punto": "COMERCIAL JR"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LA MANA",
+    "circuito": "LA MANA SUR",
+    "subcircuito": "LA MANA SUR 1",
+    "id": "COMISARIATO-SU-ECONOMIA-Z3-C-L-L",
+    "nombre_punto": "COMISARIATO SU ECONOMIA"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LA MANA",
+    "circuito": "GUASAGANDA",
+    "subcircuito": "GUASAGANDA 1",
+    "id": "JUNTA-PARROQUIAL-DE-PUCAYACU-Z3-C-L-G",
+    "nombre_punto": "JUNTA PARROQUIAL DE PUCAYACU"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LA MANA",
+    "circuito": "GUASAGANDA",
+    "subcircuito": "GUASAGANDA 1",
+    "id": "TENENCIA-POLITICA-DE-LA-PARROQUIA-PUCAYACU-Z3-C-L-G",
+    "nombre_punto": "TENENCIA POLITICA DE LA PARROQUIA PUCAYACU"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LA MANA",
+    "circuito": "LA MANA NORTE",
+    "subcircuito": "LA MANA NORTE 2",
+    "id": "LIBRERÍA-EL-ESTUDIANTE-Z3-C-L-L",
+    "nombre_punto": "Librería el Estudiante"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "PILLARO",
+    "circuito": "PILLARO",
+    "subcircuito": "PILLARO 2",
+    "id": "ALMACENES-TIA-Z3-T-P-P",
+    "nombre_punto": "Almacenes Tia"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LATACUNGA",
+    "circuito": "NUEVA VIDA",
+    "subcircuito": "NUEVA VIDA 1",
+    "id": "CYT-STORE-Z3-C-L-N",
+    "nombre_punto": "CYT STORE"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LATACUNGA",
+    "circuito": "NUEVA VIDA",
+    "subcircuito": "NUEVA VIDA 1",
+    "id": "ALMACENES-TIA-Z3-C-L-N",
+    "nombre_punto": "Almacenes Tia"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LATACUNGA",
+    "circuito": "NUEVA VIDA",
+    "subcircuito": "NUEVA VIDA 1",
+    "id": "MOTO-REPUESTOS-PANCHI-Z3-C-L-N",
+    "nombre_punto": "MOTO REPUESTOS PANCHI"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "DANSANTE",
+    "circuito": "LA VICTORIA",
+    "subcircuito": "LA VICTORIA 1",
+    "id": "A-LADO-DE-LA-UNIDAD-EDUCATIVA-Z3-C-D-L",
+    "nombre_punto": "A lado de la unidad educativa"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "DANSANTE",
+    "circuito": "LA VICTORIA",
+    "subcircuito": "LA VICTORIA 1",
+    "id": "FERRETERÍA-MULINLIVI-Z3-C-D-L",
+    "nombre_punto": "Ferretería mulinlivi"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "DANSANTE",
+    "circuito": "LA VICTORIA",
+    "subcircuito": "LA VICTORIA 1",
+    "id": "EL-REY-Z3-C-D-L",
+    "nombre_punto": "El rey"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "DANSANTE",
+    "circuito": "PUJILI",
+    "subcircuito": "PUJILI 1",
+    "id": "DOMICILIO-ABANDONADO-Z3-C-D-P",
+    "nombre_punto": "Domicilio abandonado"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "SALCEDO",
+    "circuito": "SALCEDO",
+    "subcircuito": "SALCEDO 2",
+    "id": "CHIFA-CHINA-Z3-C-S-S",
+    "nombre_punto": "CHIFA CHINA"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "DANSANTE",
+    "circuito": "PUJILI",
+    "subcircuito": "PUJILI 1",
+    "id": "CENTRO-DE-BELLEZA-Z3-C-D-P",
+    "nombre_punto": "Centro de belleza"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "PALLATANGA",
+    "circuito": "CUMANDA",
+    "subcircuito": "CUMANDA 1",
+    "id": "ALDAZ-PHARMA-2-Z3-C-P-C",
+    "nombre_punto": "ALDAZ PHARMA 2"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "DANSANTE",
+    "circuito": "PUJILI",
+    "subcircuito": "PUJILI 1",
+    "id": "CLÍNICA-VETERINARIA-Z3-C-D-P",
+    "nombre_punto": "Clínica veterinaria"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "DANSANTE",
+    "circuito": "PUJILI",
+    "subcircuito": "PUJILI 1",
+    "id": "COOPERATIVA-SUCRE-Z3-C-D-P",
+    "nombre_punto": "Cooperativa sucre"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "PALLATANGA",
+    "circuito": "CUMANDA",
+    "subcircuito": "CUMANDA 1",
+    "id": "CENTER-DRIVE-Z3-C-P-C",
+    "nombre_punto": "CENTER DRIVE"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "DANSANTE",
+    "circuito": "LA MERCED",
+    "subcircuito": "LA MERCED 1",
+    "id": "ASIENDAS-NIÑO-DE-ISIGCHE-Z3-C-D-L",
+    "nombre_punto": "Asiendas niño de isigche"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "SALCEDO",
+    "circuito": "SALCEDO",
+    "subcircuito": "SALCEDO 2",
+    "id": "JUGOS-Y-BATIDOS-VERITO-Z3-C-S-S",
+    "nombre_punto": "JUGOS Y BATIDOS VERITO"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LA MANA",
+    "circuito": "GUASAGANDA",
+    "subcircuito": "GUASAGANDA 1",
+    "id": "COOP.-SUMAK-KAWSAY-Z3-C-L-G",
+    "nombre_punto": "COOP. SUMAK KAWSAY"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LA MANA",
+    "circuito": "GUASAGANDA",
+    "subcircuito": "GUASAGANDA 1",
+    "id": "BOTIQUIN-SAN-PABLO-Z3-C-L-G",
+    "nombre_punto": "BOTIQUIN SAN PABLO"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LA MANA",
+    "circuito": "GUASAGANDA",
+    "subcircuito": "GUASAGANDA 1",
+    "id": "COMEDOR-2-HERMANOS-Z3-C-L-G",
+    "nombre_punto": "COMEDOR 2 HERMANOS"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "PASTAZA",
+    "distrito": "PASTAZA",
+    "circuito": "PUYO SUR",
+    "subcircuito": "PUYO SUR 2",
+    "id": "OFICINAS-DE-LA-COOPERATIVA-SAN-FRANCISCO-Z3-P-P-P",
+    "nombre_punto": "Oficinas de la cooperativa San Francisco"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "PASTAZA",
+    "distrito": "PASTAZA",
+    "circuito": "PUYO NORTE",
+    "subcircuito": "PUYO NORTE 1",
+    "id": "CALLE.-20-DE-JULIO-Z3-P-P-P",
+    "nombre_punto": "Calle. 20 de Julio"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "PASTAZA",
+    "distrito": "PASTAZA",
+    "circuito": "PUYO NORTE",
+    "subcircuito": "PUYO NORTE 1",
+    "id": "CALLE.-20-DE-JULIO-Y-GUAYAS-Z3-P-P-P",
+    "nombre_punto": "Calle. 20 de Julio y Guayas"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LA MANA",
+    "circuito": "GUASAGANDA",
+    "subcircuito": "GUASAGANDA 1",
+    "id": "PAPITAS-DOÑA-MARY-Z3-C-L-G",
+    "nombre_punto": "Papitas Doña Mary"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LA MANA",
+    "circuito": "LA MANA SUR",
+    "subcircuito": "LA MANA SUR 1",
+    "id": "FISCALÍA-Z3-C-L-L",
+    "nombre_punto": "Fiscalía"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LA MANA",
+    "circuito": "LA MANA SUR",
+    "subcircuito": "LA MANA SUR 1",
+    "id": "SINDICATO-E-CHOFERES-Z3-C-L-L",
+    "nombre_punto": "Sindicato e choferes"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LA MANA",
+    "circuito": "LA MANA SUR",
+    "subcircuito": "LA MANA SUR 1",
+    "id": "UNIDAD-JUDICIAL-Z3-C-L-L",
+    "nombre_punto": "Unidad judicial"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LA MANA",
+    "circuito": "LA MANA SUR",
+    "subcircuito": "LA MANA SUR 1",
+    "id": "RESTAURANT-SOMAG-Z3-C-L-L",
+    "nombre_punto": "Restaurant Somag"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LA MANA",
+    "circuito": "GUASAGANDA",
+    "subcircuito": "GUASAGANDA 1",
+    "id": "GAD-PARROQUIAL-DE-GUASAGANDA-Z3-C-L-G",
+    "nombre_punto": "GAD PARROQUIAL DE GUASAGANDA"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LA MANA",
+    "circuito": "GUASAGANDA",
+    "subcircuito": "GUASAGANDA 1",
+    "id": "TENENCIA-POLITICA-DE-GUASAGANDA-Z3-C-L-G",
+    "nombre_punto": "TENENCIA POLITICA DE GUASAGANDA"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LA MANA",
+    "circuito": "GUASAGANDA",
+    "subcircuito": "GUASAGANDA 1",
+    "id": "SUB-CENTRO-DE-SALUD-GUASAGANDA-Z3-C-L-G",
+    "nombre_punto": "SUB CENTRO DE SALUD GUASAGANDA"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LA MANA",
+    "circuito": "GUASAGANDA",
+    "subcircuito": "GUASAGANDA 1",
+    "id": "PATIO-DE-COMIDAS-GUASAGANDA-Z3-C-L-G",
+    "nombre_punto": "PATIO DE COMIDAS GUASAGANDA"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LA MANA",
+    "circuito": "LA MANA SUR",
+    "subcircuito": "LA MANA SUR 1",
+    "id": "COOPERATIVA-DE-AHORRO-Y-CRÉDITO-LA-MANA-Z3-C-L-L",
+    "nombre_punto": "Cooperativa de ahorro y crédito La Mana"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LA MANA",
+    "circuito": "LA MANA SUR",
+    "subcircuito": "LA MANA SUR 1",
+    "id": "CLÍNICA-CAÑARTE-Z3-C-L-L",
+    "nombre_punto": "Clínica Cañarte"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LA MANA",
+    "circuito": "LA MANA SUR",
+    "subcircuito": "LA MANA SUR 1",
+    "id": "FARMACIA-RED-FARMACYS-Z3-C-L-L",
+    "nombre_punto": "Farmacia Red farmacys"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "ALAUSI",
+    "circuito": "ALAUSI",
+    "subcircuito": "ALAUSI 1",
+    "id": "CENTRO-DE-SALUD-TIPO-A-Z3-C-A-A",
+    "nombre_punto": "CENTRO DE SALUD TIPO A"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LA MANA",
+    "circuito": "LA MANA SUR",
+    "subcircuito": "LA MANA SUR 1",
+    "id": "DISTRITO-DE-EDUCACIÓN-Z3-C-L-L",
+    "nombre_punto": "Distrito de educación"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LA MANA",
+    "circuito": "LA MANA SUR",
+    "subcircuito": "LA MANA SUR 1",
+    "id": "GASOLINERA-SINDICATO-DE-CHOFERES-LA-MANA-Z3-C-L-L",
+    "nombre_punto": "Gasolinera sindicato de choferes La Mana"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LA MANA",
+    "circuito": "LA MANA SUR",
+    "subcircuito": "LA MANA SUR 1",
+    "id": "CNT-LA-MANA-Z3-C-L-L",
+    "nombre_punto": "Cnt La Mana"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LA MANA",
+    "circuito": "LA MANA SUR",
+    "subcircuito": "LA MANA SUR 1",
+    "id": "BANECUADOR-Z3-C-L-L",
+    "nombre_punto": "Banecuador"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LA MANA",
+    "circuito": "LA MANA NORTE",
+    "subcircuito": "LA MANA NORTE 1",
+    "id": "ALMACENES-SUPER-PATO-Z3-C-L-L",
+    "nombre_punto": "Almacenes super Pato"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LA MANA",
+    "circuito": "LA MANA NORTE",
+    "subcircuito": "LA MANA NORTE 1",
+    "id": "NOTARIA-DOS-Z3-C-L-L",
+    "nombre_punto": "Notaria dos"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LA MANA",
+    "circuito": "LA MANA NORTE",
+    "subcircuito": "LA MANA NORTE 1",
+    "id": "GAD-MUNICIPAL-LA-MANA-Z3-C-L-L",
+    "nombre_punto": "GAD MUNICIPAL LA MANA"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LA MANA",
+    "circuito": "LA MANA NORTE",
+    "subcircuito": "LA MANA NORTE 1",
+    "id": "TUTI-Z3-C-L-L",
+    "nombre_punto": "Tuti"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LA MANA",
+    "circuito": "LA MANA SUR",
+    "subcircuito": "LA MANA SUR 1",
+    "id": "GIGANTOGRAFÍAS-LEÓN-Z3-C-L-L",
+    "nombre_punto": "Gigantografías León"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "DANSANTE",
+    "circuito": "SAQUISILI",
+    "subcircuito": "SAQUISILI 1",
+    "id": "LOCAL-COME-COMO-UN-REY-Z3-C-D-S",
+    "nombre_punto": "LOCAL COME COMO UN REY"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LA MANA",
+    "circuito": "LA MANA SUR",
+    "subcircuito": "LA MANA SUR 1",
+    "id": "PATRONATO-DE-AMPARO-SOCIAL-MUNICIPAL-Z3-C-L-L",
+    "nombre_punto": "Patronato de Amparo Social Municipal"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "DANSANTE",
+    "circuito": "SAQUISILI",
+    "subcircuito": "SAQUISILI 1",
+    "id": "CONTRUARQ-Z3-C-D-S",
+    "nombre_punto": "CONTRUARQ"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LA MANA",
+    "circuito": "LA MANA SUR",
+    "subcircuito": "LA MANA SUR 1",
+    "id": "ESCUELA-EDUCACION-BASICA-LA-MANA-Z3-C-L-L",
+    "nombre_punto": "ESCUELA EDUCACION BASICA LA MANA"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LA MANA",
+    "circuito": "LA MANA NORTE",
+    "subcircuito": "LA MANA NORTE 1",
+    "id": "UNIDAD-EDUCATIVA-FEDERACIÓN-DEPORTIVA-DE-COTOPAXI-BLOQUE-1-Z3-C-L-L",
+    "nombre_punto": "UNIDAD EDUCATIVA FEDERACIÓN DEPORTIVA DE COTOPAXI BLOQUE 1"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LA MANA",
+    "circuito": "LA MANA SUR",
+    "subcircuito": "LA MANA SUR 2",
+    "id": "FARMACIAS-ECUADOR-Z3-C-L-L",
+    "nombre_punto": "Farmacias Ecuador"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LA MANA",
+    "circuito": "LA MANA SUR",
+    "subcircuito": "LA MANA SUR 2",
+    "id": "SUBESTACIÓN-LA-PLAYITA-EMPRESA-ELÉCTRICA-Z3-C-L-L",
+    "nombre_punto": "Subestación la playita empresa eléctrica"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "ALAUSI",
+    "circuito": "JOYAGSHI",
+    "subcircuito": "JOYAGSHI 1",
+    "id": "TIENDA-MARY-Z3-C-A-J",
+    "nombre_punto": "Tienda Mary"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "PATATE",
+    "circuito": "EL TAMBO",
+    "subcircuito": "EL TAMBO 1",
+    "id": "KOKOA-COFFEE-Z3-T-P-E",
+    "nombre_punto": "KOKOA COFFEE"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "PATATE",
+    "circuito": "GARCIA MORENO",
+    "subcircuito": "GARCIA MORENO 1",
+    "id": "BARRIO-CRISTO-DEL-CONSUELO-Z3-T-P-G",
+    "nombre_punto": "Barrio Cristo del Consuelo"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "PATATE",
+    "circuito": "GARCIA MORENO",
+    "subcircuito": "GARCIA MORENO 1",
+    "id": "CASERÍO-PAMATUG-Z3-T-P-G",
+    "nombre_punto": "Caserío Pamatug"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LA MANA",
+    "circuito": "LA MANA SUR",
+    "subcircuito": "LA MANA SUR 2",
+    "id": "SPLENDOR-Z3-C-L-L",
+    "nombre_punto": "Splendor"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LA MANA",
+    "circuito": "LA MANA SUR",
+    "subcircuito": "LA MANA SUR 2",
+    "id": "HOTEL-KORIMANA-Z3-C-L-L",
+    "nombre_punto": "Hotel Korimana"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "ALAUSI",
+    "circuito": "CHUNCHI",
+    "subcircuito": "CHUNCHI 1",
+    "id": "LOCAL-DE-POLLOS-Z3-C-A-C",
+    "nombre_punto": "Local de pollos"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "ALAUSI",
+    "circuito": "ALAUSI",
+    "subcircuito": "ALAUSI 1",
+    "id": "CUTE-FACE-ALAUSÍ-Z3-C-A-A",
+    "nombre_punto": "Cute Face Alausí"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "ALAUSI",
+    "circuito": "CHUNCHI",
+    "subcircuito": "CHUNCHI 1",
+    "id": "VÍVERES-ELISA-Z3-C-A-C",
+    "nombre_punto": "Víveres Elisa"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LATACUNGA",
+    "circuito": "SAN CARLOS",
+    "subcircuito": "SAN CARLOS 1",
+    "id": "GALLERO-GEORGE-Z3-C-L-S",
+    "nombre_punto": "GALLERO GEORGE"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LATACUNGA",
+    "circuito": "SAN CARLOS",
+    "subcircuito": "SAN CARLOS 1",
+    "id": "LA-KASERITA-Z3-C-L-S",
+    "nombre_punto": "LA KASERITA"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LATACUNGA",
+    "circuito": "SAN CARLOS",
+    "subcircuito": "SAN CARLOS 1",
+    "id": "FARMACIA-CUXIBAMBA-Z3-C-L-S",
+    "nombre_punto": "FARMACIA CUXIBAMBA"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LATACUNGA",
+    "circuito": "SAN MARTIN",
+    "subcircuito": "SAN MARTIN 1",
+    "id": "COMPLEJO-TURÍSTICO-SOL-CARIBE-Z3-C-L-S",
+    "nombre_punto": "COMPLEJO TURÍSTICO SOL CARIBE"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LATACUNGA",
+    "circuito": "SAN MARTIN",
+    "subcircuito": "SAN MARTIN 1",
+    "id": "HOTEL-CARIBEAN-REAL-Z3-C-L-S",
+    "nombre_punto": "HOTEL CARIBEAN  REAL"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LATACUNGA",
+    "circuito": "SAN MARTIN",
+    "subcircuito": "SAN MARTIN 1",
+    "id": "MINIMARKET-SAN-MATEO-Z3-C-L-S",
+    "nombre_punto": "MINIMARKET SAN MATEO"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LATACUNGA",
+    "circuito": "SAN MARTIN",
+    "subcircuito": "SAN MARTIN 1",
+    "id": "TU-LAVANDERÍA-Z3-C-L-S",
+    "nombre_punto": "TU LAVANDERÍA"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "SALCEDO",
+    "circuito": "SALCEDO",
+    "subcircuito": "SALCEDO 2",
+    "id": "DE-TODO-TODO-SUPERMERCADO-Z3-C-S-S",
+    "nombre_punto": "De Todo Todo Supermercado"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LA MANA",
+    "circuito": "LA MANA SUR",
+    "subcircuito": "LA MANA SUR 1",
+    "id": "FERRETERÍA-L-AFERIA-DEL-PERNO-Z3-C-L-L",
+    "nombre_punto": "Ferretería L aFeria del Perno"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LA MANA",
+    "circuito": "LA MANA SUR",
+    "subcircuito": "LA MANA SUR 1",
+    "id": "EMPRESA-ELÉCTRICA-LA-MANA-Z3-C-L-L",
+    "nombre_punto": "Empresa eléctrica  La Mana"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LA MANA",
+    "circuito": "LA MANA NORTE",
+    "subcircuito": "LA MANA NORTE 1",
+    "id": "ALMACENES-LA-GANGA-Z3-C-L-L",
+    "nombre_punto": "Almacenes La Ganga"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LA MANA",
+    "circuito": "LA MANA NORTE",
+    "subcircuito": "LA MANA NORTE 1",
+    "id": "LADY-SOPORTS-Z3-C-L-L",
+    "nombre_punto": "Lady soports"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LA MANA",
+    "circuito": "LA MANA NORTE",
+    "subcircuito": "LA MANA NORTE 1",
+    "id": "MANCOMUNIDAD-LA-MANA-Z3-C-L-L",
+    "nombre_punto": "Mancomunidad La Mana"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LA MANA",
+    "circuito": "LA MANA NORTE",
+    "subcircuito": "LA MANA NORTE 1",
+    "id": "COMERCIAL-MIA-Z3-C-L-L",
+    "nombre_punto": "Comercial Mia"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LA MANA",
+    "circuito": "LA MANA SUR",
+    "subcircuito": "LA MANA SUR 1",
+    "id": "MAX-LLANTAS-Z3-C-L-L",
+    "nombre_punto": "Max llantas"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "DANSANTE",
+    "circuito": "SAQUISILI",
+    "subcircuito": "SAQUISILI 1",
+    "id": "MINIMARKET-NUEVA-VIDA-Z3-C-D-S",
+    "nombre_punto": "MINIMARKET NUEVA VIDA"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "ALAUSI",
+    "circuito": "HUIGRA",
+    "subcircuito": "HUIGRA 1",
+    "id": "HUIGRA-NET-Z3-C-A-H",
+    "nombre_punto": "Huigra net"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LATACUNGA",
+    "circuito": "TERMINAL TERRESTRE",
+    "subcircuito": "TERMINAL TERRESTRE 1",
+    "id": "LOCAL-DE-COSMÉTICO-REBARATON-Z3-C-L-T",
+    "nombre_punto": "LOCAL DE COSMÉTICO REBARATON"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LATACUNGA",
+    "circuito": "TERMINAL TERRESTRE",
+    "subcircuito": "TERMINAL TERRESTRE 1",
+    "id": "LOCAL-DE-CELULARES-CELUCENTER-Z3-C-L-T",
+    "nombre_punto": "LOCAL DE CELULARES CELUCENTER"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LATACUNGA",
+    "circuito": "TERMINAL TERRESTRE",
+    "subcircuito": "TERMINAL TERRESTRE 1",
+    "id": "LOCAL-DE-CELULARES-PARA-SMART-CELL-Z3-C-L-T",
+    "nombre_punto": "LOCAL DE CELULARES PARA SMART CELL"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "PASTAZA",
+    "distrito": "PASTAZA",
+    "circuito": "PUYO NORTE",
+    "subcircuito": "PUYO NORTE 1",
+    "id": "PASEO-TURÍSTICO-Z3-P-P-P",
+    "nombre_punto": "Paseo Turístico"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "PASTAZA",
+    "distrito": "PASTAZA",
+    "circuito": "PUYO NORTE",
+    "subcircuito": "PUYO NORTE 1",
+    "id": "PASEO-TURÍSTICO-3TA-ETAPA-Z3-P-P-P",
+    "nombre_punto": "Paseo Turístico 3ta Etapa"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "SALCEDO",
+    "circuito": "SALCEDO",
+    "subcircuito": "SALCEDO 1",
+    "id": "SUERO-Y-VIDA-Z3-C-S-S",
+    "nombre_punto": "Suero y Vida"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "PASTAZA",
+    "distrito": "PASTAZA",
+    "circuito": "PUYO NORTE",
+    "subcircuito": "PUYO NORTE 2",
+    "id": "AV.-CRISTÓBAL-COLON-Y-ÁLVARO-VALLADARES-Z3-P-P-P",
+    "nombre_punto": "Av. Cristóbal Colon y Álvaro Valladares"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "PASTAZA",
+    "distrito": "PASTAZA",
+    "circuito": "PUYO NORTE",
+    "subcircuito": "PUYO NORTE 2",
+    "id": "CALLE.-SEVERO-VARGAS-Y-TUNGURAHUA-Z3-P-P-P",
+    "nombre_punto": "Calle. Severo Vargas y Tungurahua"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "AMBATO SUR",
+    "circuito": "MIÑARICA",
+    "subcircuito": "MIÑARICA 2",
+    "id": "PARQUE-LA-PRESIDENCIA-Z3-T-A-M",
+    "nombre_punto": "PARQUE LA PRESIDENCIA"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "AMBATO SUR",
+    "circuito": "PISHIDATA",
+    "subcircuito": "PISHIDATA 1",
+    "id": "JUNTA-DE-AGUA-POTABLE-EL-CALVARIO-Z3-T-A-P",
+    "nombre_punto": "JUNTA DE AGUA POTABLE EL CALVARIO"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "DANSANTE",
+    "circuito": "SAQUISILI",
+    "subcircuito": "SAQUISILI 1",
+    "id": "VÍVERES-GERACHO-Z3-C-D-S",
+    "nombre_punto": "Víveres Geracho"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LATACUNGA",
+    "circuito": "TERMINAL TERRESTRE",
+    "subcircuito": "TERMINAL TERRESTRE 1",
+    "id": "LOCAL-DE-ZAPATOS-MET-SHOES-Z3-C-L-T",
+    "nombre_punto": "LOCAL DE ZAPATOS MET SHOES"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LATACUNGA",
+    "circuito": "BETHLEMITAS",
+    "subcircuito": "BETHLEMITAS 1",
+    "id": "PANADERÍA-Z3-C-L-B",
+    "nombre_punto": "Panadería"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LATACUNGA",
+    "circuito": "BETHLEMITAS",
+    "subcircuito": "BETHLEMITAS 1",
+    "id": "PANADERÍA-SM-Z3-C-L-B",
+    "nombre_punto": "Panadería SM"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LATACUNGA",
+    "circuito": "TERMINAL TERRESTRE",
+    "subcircuito": "TERMINAL TERRESTRE 1",
+    "id": "LOCAL-ÓPTICA-IMBABURA-Z3-C-L-T",
+    "nombre_punto": "LOCAL ÓPTICA IMBABURA"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LATACUNGA",
+    "circuito": "SAN CARLOS",
+    "subcircuito": "SAN CARLOS 1",
+    "id": "VERDE-SABROSO-Z3-C-L-S",
+    "nombre_punto": "VERDE SABROSO"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LATACUNGA",
+    "circuito": "TERMINAL TERRESTRE",
+    "subcircuito": "TERMINAL TERRESTRE 1",
+    "id": "LOCAL-DE-MARQUETERIA-MURILLO-Z3-C-L-T",
+    "nombre_punto": "LOCAL DE MARQUETERIA MURILLO"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LATACUNGA",
+    "circuito": "SAN MARTIN",
+    "subcircuito": "SAN MARTIN 1",
+    "id": "MECANICA-OLMETAL-Z3-C-L-S",
+    "nombre_punto": "MECANICA OLMETAL"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LATACUNGA",
+    "circuito": "TERMINAL TERRESTRE",
+    "subcircuito": "TERMINAL TERRESTRE 1",
+    "id": "LOCAL-PELUQUERÍA-SUCRE-Z3-C-L-T",
+    "nombre_punto": "LOCAL PELUQUERÍA SUCRE"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LATACUNGA",
+    "circuito": "TERMINAL TERRESTRE",
+    "subcircuito": "TERMINAL TERRESTRE 1",
+    "id": "LOCAL-TODO-A-5-Z3-C-L-T",
+    "nombre_punto": "LOCAL TODO A 5"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LA MANA",
+    "circuito": "LA MANA NORTE",
+    "subcircuito": "LA MANA NORTE 1",
+    "id": "CEVICHAO-Z3-C-L-L",
+    "nombre_punto": "Cevichao"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LA MANA",
+    "circuito": "LA MANA NORTE",
+    "subcircuito": "LA MANA NORTE 1",
+    "id": "CHELERIA-DRINKS-FOOD-Z3-C-L-L",
+    "nombre_punto": "Cheleria Drinks Food"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LA MANA",
+    "circuito": "LA MANA NORTE",
+    "subcircuito": "LA MANA NORTE 1",
+    "id": "CLUB-DE-HERBALIFE-Z3-C-L-L",
+    "nombre_punto": "Club de Herbalife"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LA MANA",
+    "circuito": "LA MANA NORTE",
+    "subcircuito": "LA MANA NORTE 1",
+    "id": "ASADERO-MARÍA.-JOSÉ-Z3-C-L-L",
+    "nombre_punto": "Asadero María. José"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LATACUNGA",
+    "circuito": "SAN CARLOS",
+    "subcircuito": "SAN CARLOS 1",
+    "id": "HOTEL-SAFIRO-Z3-C-L-S",
+    "nombre_punto": "HOTEL SAFIRO"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "PILLARO",
+    "circuito": "PILLARO",
+    "subcircuito": "PILLARO 2",
+    "id": "MEGA-VARIEDADES-EL-ORIGINAL-Z3-T-P-P",
+    "nombre_punto": "MEGA VARIEDADES EL ORIGINAL"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LATACUNGA",
+    "circuito": "SAN CARLOS",
+    "subcircuito": "SAN CARLOS 1",
+    "id": "CAR-FRED-SASTRERIA-Y-MODA-Z3-C-L-S",
+    "nombre_punto": "CAR FRED Sastreria y Moda"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LATACUNGA",
+    "circuito": "SAN CARLOS",
+    "subcircuito": "SAN CARLOS 1",
+    "id": "CESAR-GUEVARA-Z3-C-L-S",
+    "nombre_punto": "Cesar Guevara"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "AMBATO SUR",
+    "circuito": "NUEVA AMBATO",
+    "subcircuito": "NUEVA AMBATO 2",
+    "id": "UNIVERSIDAD-TÉCNICA-DE-AMBATO-Z3-T-A-N",
+    "nombre_punto": "Universidad Técnica de Ambato"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "ALAUSI",
+    "circuito": "CHUNCHI",
+    "subcircuito": "CHUNCHI 1",
+    "id": "BELLA-CONSENTIDA-Z3-C-A-C",
+    "nombre_punto": "BELLA CONSENTIDA"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LATACUNGA",
+    "circuito": "BETHLEMITAS",
+    "subcircuito": "BETHLEMITAS 1",
+    "id": "FERRETERÍA-UNIDAD-NACIONAL-Z3-C-L-B",
+    "nombre_punto": "Ferretería Unidad Nacional"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LATACUNGA",
+    "circuito": "SAN CARLOS",
+    "subcircuito": "SAN CARLOS 1",
+    "id": "FIT-CENTER-PRIME-Z3-C-L-S",
+    "nombre_punto": "FIT CENTER PRIME"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LATACUNGA",
+    "circuito": "BETHLEMITAS",
+    "subcircuito": "BETHLEMITAS 1",
+    "id": "SPEED.NET-Z3-C-L-B",
+    "nombre_punto": "SPEEDNET"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LATACUNGA",
+    "circuito": "SAN CARLOS",
+    "subcircuito": "SAN CARLOS 1",
+    "id": "FARMACIA-FYBECA-Z3-C-L-S",
+    "nombre_punto": "Farmacia FYBECA"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LATACUNGA",
+    "circuito": "SAN CARLOS",
+    "subcircuito": "SAN CARLOS 1",
+    "id": "GOZZO-Z3-C-L-S",
+    "nombre_punto": "Gozzo"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LATACUNGA",
+    "circuito": "SAN CARLOS",
+    "subcircuito": "SAN CARLOS 1",
+    "id": "CHORI-GOL-Z3-C-L-S",
+    "nombre_punto": "Chori Gol"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LATACUNGA",
+    "circuito": "SAN CARLOS",
+    "subcircuito": "SAN CARLOS 1",
+    "id": "BOCADO-Z3-C-L-S",
+    "nombre_punto": "Bocado"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LATACUNGA",
+    "circuito": "SAN CARLOS",
+    "subcircuito": "SAN CARLOS 1",
+    "id": "MUNDO-ASEO-Z3-C-L-S",
+    "nombre_punto": "Mundo Aseo"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "PATATE",
+    "circuito": "PELILEO SUR",
+    "subcircuito": "PELILEO SUR 1",
+    "id": "PARQUE-5-DE-AGOSTO-Z3-T-P-P",
+    "nombre_punto": "PARQUE 5 DE AGOSTO"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "PASTAZA",
+    "distrito": "PASTAZA",
+    "circuito": "PUYO SUR",
+    "subcircuito": "PUYO SUR 1",
+    "id": "CENTRO-DE-SALUD-URBANO-PUYO-Z3-P-P-P",
+    "nombre_punto": "CENTRO DE SALUD URBANO PUYO"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "PATATE",
+    "circuito": "PELILEO SUR",
+    "subcircuito": "PELILEO SUR 1",
+    "id": "REDONDEL-DE-LA-HUAMBALEÑA-Z3-T-P-P",
+    "nombre_punto": "REDONDEL DE LA HUAMBALEÑA"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "PASTAZA",
+    "distrito": "PASTAZA",
+    "circuito": "PUYO SUR",
+    "subcircuito": "PUYO SUR 1",
+    "id": "CENTRO-DE-SALUD-LOS-ÁNGELES-Z3-P-P-P",
+    "nombre_punto": "CENTRO DE SALUD LOS ÁNGELES"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "PATATE",
+    "circuito": "PELILEO GRANDE",
+    "subcircuito": "PELILEO GRANDE 1",
+    "id": "LA-MOYA-Z3-T-P-P",
+    "nombre_punto": "LA MOYA"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "DANSANTE",
+    "circuito": "SAQUISILI",
+    "subcircuito": "SAQUISILI 2",
+    "id": "CASA-ESQUINERA-2-PISOS-COLOR-CREMA-Z3-C-D-S",
+    "nombre_punto": "Casa esquinera 2 pisos color crema"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "PASTAZA",
+    "distrito": "PASTAZA",
+    "circuito": "PUYO SUR",
+    "subcircuito": "PUYO SUR 1",
+    "id": "GASOLINERA-LA-UNION-Z3-P-P-P",
+    "nombre_punto": "GASOLINERA LA UNION"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "PASTAZA",
+    "distrito": "ARAJUNO",
+    "circuito": "ARAJUNO POBLADO",
+    "subcircuito": "ARAJUNO POBLADO 1",
+    "id": "NOTARIA-UNICA-CANTON-ARAJUNO-Z3-P-A-A",
+    "nombre_punto": "NOTARIA UNICA CANTON ARAJUNO"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LA MANA",
+    "circuito": "LA MANA NORTE",
+    "subcircuito": "LA MANA NORTE 1",
+    "id": "DISTRIBUIDORA-DE-LÁCTEOS-Z3-C-L-L",
+    "nombre_punto": "Distribuidora de lácteos"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LA MANA",
+    "circuito": "LA MANA NORTE",
+    "subcircuito": "LA MANA NORTE 1",
+    "id": "LUBRICADORA-SAN-FRANCISCO-Z3-C-L-L",
+    "nombre_punto": "Lubricadora san Francisco"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LA MANA",
+    "circuito": "LA MANA NORTE",
+    "subcircuito": "LA MANA NORTE 1",
+    "id": "CABINAS-CLARO-MATIUS-Z3-C-L-L",
+    "nombre_punto": "Cabinas claro Matius"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LA MANA",
+    "circuito": "LA MANA NORTE",
+    "subcircuito": "LA MANA NORTE 1",
+    "id": "BALANCEADOS-MATEO-Z3-C-L-L",
+    "nombre_punto": "Balanceados Mateo"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LA MANA",
+    "circuito": "LA MANA NORTE",
+    "subcircuito": "LA MANA NORTE 2",
+    "id": "TIENDA-DARITA-Z3-C-L-L",
+    "nombre_punto": "Tienda Darita"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "PATATE",
+    "circuito": "PATATE",
+    "subcircuito": "PATATE 1",
+    "id": "PARQUE-SIMÓN-BOLIVAR-&-COOPERATIVA-OSCUS-Z3-T-P-P",
+    "nombre_punto": "Parque Simón bolivar & Cooperativa oscus"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LA MANA",
+    "circuito": "LA MANA NORTE",
+    "subcircuito": "LA MANA NORTE 2",
+    "id": "HISTERIA-CARLOS-PATRICIO-Z3-C-L-L",
+    "nombre_punto": "Histeria Carlos Patricio"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LA MANA",
+    "circuito": "LA MANA NORTE",
+    "subcircuito": "LA MANA NORTE 2",
+    "id": "CYBER-FUSIÓN-Z3-C-L-L",
+    "nombre_punto": "Cyber fusión"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LA MANA",
+    "circuito": "LA MANA NORTE",
+    "subcircuito": "LA MANA NORTE 2",
+    "id": "BODEGA-DE-LUPITO-Z3-C-L-L",
+    "nombre_punto": "Bodega de lupito"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LA MANA",
+    "circuito": "LA MANA NORTE",
+    "subcircuito": "LA MANA NORTE 2",
+    "id": "PICADITA-DEL-PORTON-DE-JESÚS-Z3-C-L-L",
+    "nombre_punto": "Picadita del porton de Jesús"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "PASTAZA",
+    "distrito": "ARAJUNO",
+    "circuito": "ARAJUNO POBLADO",
+    "subcircuito": "ARAJUNO POBLADO 1",
+    "id": "REGISTRO-CIVIL-ARAJUNO-Z3-P-A-A",
+    "nombre_punto": "REGISTRO CIVIL ARAJUNO"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LA MANA",
+    "circuito": "LA MANA NORTE",
+    "subcircuito": "LA MANA NORTE 2",
+    "id": "MINI-TIENDA-Y-BAZAR-GABRIELITA-Z3-C-L-L",
+    "nombre_punto": "Mini tienda y bazar Gabrielita"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "PASTAZA",
+    "distrito": "ARAJUNO",
+    "circuito": "ARAJUNO POBLADO",
+    "subcircuito": "ARAJUNO POBLADO 1",
+    "id": "EMPRESA-ELECTRICA-Z3-P-A-A",
+    "nombre_punto": "EMPRESA ELECTRICA"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "PASTAZA",
+    "distrito": "ARAJUNO",
+    "circuito": "ARAJUNO POBLADO",
+    "subcircuito": "ARAJUNO POBLADO 1",
+    "id": "CACPE-PASTAZA-Z3-P-A-A",
+    "nombre_punto": "CACPE PASTAZA"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LA MANA",
+    "circuito": "LA MANA NORTE",
+    "subcircuito": "LA MANA NORTE 2",
+    "id": "TIENDA-VIMY-Z3-C-L-L",
+    "nombre_punto": "Tienda vimy"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "PASTAZA",
+    "distrito": "ARAJUNO",
+    "circuito": "ARAJUNO POBLADO",
+    "subcircuito": "ARAJUNO POBLADO 1",
+    "id": "DISTRITO-DE-SALUD-Z3-P-A-A",
+    "nombre_punto": "DISTRITO DE SALUD"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "PASTAZA",
+    "distrito": "ARAJUNO",
+    "circuito": "ARAJUNO POBLADO",
+    "subcircuito": "ARAJUNO POBLADO 1",
+    "id": "MUSEO-DEL-CANTON-ARAJUNO-Z3-P-A-A",
+    "nombre_punto": "MUSEO DEL CANTON ARAJUNO"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LA MANA",
+    "circuito": "LA MANA NORTE",
+    "subcircuito": "LA MANA NORTE 1",
+    "id": "BAZAR-Y-PAPELERÍA-Z3-C-L-L",
+    "nombre_punto": "Bazar y papelería"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "PASTAZA",
+    "distrito": "ARAJUNO",
+    "circuito": "ARAJUNO POBLADO",
+    "subcircuito": "ARAJUNO POBLADO 1",
+    "id": "SUBCENTRO-DE-SALUD-Z3-P-A-A",
+    "nombre_punto": "SUBCENTRO DE SALUD"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LA MANA",
+    "circuito": "LA MANA NORTE",
+    "subcircuito": "LA MANA NORTE 1",
+    "id": "SWEET-LAND-Z3-C-L-L",
+    "nombre_punto": "Sweet Land"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "DANSANTE",
+    "circuito": "SAQUISILI",
+    "subcircuito": "SAQUISILI 2",
+    "id": "LAVANDERIA-LATACUNGA-Z3-C-D-S",
+    "nombre_punto": "LAVANDERIA LATACUNGA"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "DANSANTE",
+    "circuito": "SAQUISILI",
+    "subcircuito": "SAQUISILI 2",
+    "id": "CASA-DE-2-PISOS-COLOR-VERDE-VÍA-LA-CALZADA-Z3-C-D-S",
+    "nombre_punto": "Casa de 2 pisos color verde vía la calzada"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "PALLATANGA",
+    "circuito": "PALLATANGA",
+    "subcircuito": "PALLATANGA 1",
+    "id": "TIENDA-DE-ABASTOS-\"AL-ALKANCE\"-Z3-C-P-P",
+    "nombre_punto": "Tienda de Abastos \"AL ALKANCE\""
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "PALLATANGA",
+    "circuito": "PALLATANGA",
+    "subcircuito": "PALLATANGA 1",
+    "id": "RESTAURANTE-ROSITA-Z3-C-P-P",
+    "nombre_punto": "RESTAURANTE ROSITA"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "PALLATANGA",
+    "circuito": "PALLATANGA",
+    "subcircuito": "PALLATANGA 1",
+    "id": "DESPENSA-EL-VECINO-Z3-C-P-P",
+    "nombre_punto": "DESPENSA EL VECINO"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "DANSANTE",
+    "circuito": "SAQUISILI",
+    "subcircuito": "SAQUISILI 2",
+    "id": "CASA-COLOR-CELESTE-SRA.-MARIA-MARTINEZ-SECTOR-UNIÓN-NARVAEZ-Z3-C-D-S",
+    "nombre_punto": "Casa color celeste Sra. Maria Martinez sector Unión Narvaez"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "DANSANTE",
+    "circuito": "SAQUISILI",
+    "subcircuito": "SAQUISILI 2",
+    "id": "ELECTRICAR-Z3-C-D-S",
+    "nombre_punto": "ELECTRICAR"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LATACUNGA",
+    "circuito": "LASSO",
+    "subcircuito": "LASSO 1",
+    "id": "BAZAR-Y-PAPELERÍA-TU-BANQUITO-DIGITAL-Z3-C-L-L",
+    "nombre_punto": "BAZAR Y PAPELERÍA TU BANQUITO DIGITAL"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LATACUNGA",
+    "circuito": "LASSO",
+    "subcircuito": "LASSO 1",
+    "id": "FARMACIA-SANA-SANA-Z3-C-L-L",
+    "nombre_punto": "FARMACIA SANA SANA"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LATACUNGA",
+    "circuito": "LASSO",
+    "subcircuito": "LASSO 1",
+    "id": "PANADERIA-ARCA-DE-NOE-Z3-C-L-L",
+    "nombre_punto": "PANADERIA ARCA DE NOE"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LATACUNGA",
+    "circuito": "LASSO",
+    "subcircuito": "LASSO 1",
+    "id": "ABARROTES-LASSO-Z3-C-L-L",
+    "nombre_punto": "ABARROTES LASSO"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LATACUNGA",
+    "circuito": "LASSO",
+    "subcircuito": "LASSO 1",
+    "id": "FARMACIA-POR-TU-SALUD-Z3-C-L-L",
+    "nombre_punto": "FARMACIA POR TU SALUD"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LATACUNGA",
+    "circuito": "LASSO",
+    "subcircuito": "LASSO 1",
+    "id": "ALMACEN-EL-FERRETERO-Z3-C-L-L",
+    "nombre_punto": "ALMACEN EL FERRETERO"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LATACUNGA",
+    "circuito": "LASSO",
+    "subcircuito": "LASSO 1",
+    "id": "FARMACIA-FARMAREDS-Z3-C-L-L",
+    "nombre_punto": "FARMACIA FARMAREDS"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LATACUNGA",
+    "circuito": "LASSO",
+    "subcircuito": "LASSO 1",
+    "id": "ABARROTES-VÍRGEN-DEL-CISNE-Z3-C-L-L",
+    "nombre_punto": "ABARROTES VÍRGEN DEL CISNE"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LATACUNGA",
+    "circuito": "BETHLEMITAS",
+    "subcircuito": "BETHLEMITAS 1",
+    "id": "VIVERES-NANCY-Z3-C-L-B",
+    "nombre_punto": "VIVERES NANCY"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "SALCEDO",
+    "circuito": "SALCEDO",
+    "subcircuito": "SALCEDO 1",
+    "id": "PANADERÍA-MASHCA-PAN-Z3-C-S-S",
+    "nombre_punto": "Panadería Mashca Pan"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "SALCEDO",
+    "circuito": "SALCEDO",
+    "subcircuito": "SALCEDO 1",
+    "id": "FERRERÍA-CASA-DEL-PERNO-Z3-C-S-S",
+    "nombre_punto": "Ferrería casa del Perno"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "BAÑOS",
+    "circuito": "BAÑOS",
+    "subcircuito": "BAÑOS 1",
+    "id": "MINIMARKET-CALIDAD-Y-ECONOMÍA-Z3-T-B-B",
+    "nombre_punto": "Minimarket calidad y economía"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "SALCEDO",
+    "circuito": "SALCEDO",
+    "subcircuito": "SALCEDO 1",
+    "id": "GASOLINERA-LA-ARGENTINA-Z3-C-S-S",
+    "nombre_punto": "Gasolinera la Argentina"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LATACUNGA",
+    "circuito": "LASSO",
+    "subcircuito": "LASSO 1",
+    "id": "FARMACIA-LASSO-Z3-C-L-L",
+    "nombre_punto": "FARMACIA LASSO"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LATACUNGA",
+    "circuito": "LASSO",
+    "subcircuito": "LASSO 1",
+    "id": "MINI-MARKET-LOS-GEMELOS-Z3-C-L-L",
+    "nombre_punto": "MINI MARKET LOS GEMELOS"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "PASTAZA",
+    "distrito": "PASTAZA",
+    "circuito": "PUYO NORTE",
+    "subcircuito": "PUYO NORTE 1",
+    "id": "UNIDAD-EDUCATIVA-PROVINCIA-DE-PASTAZA-Z3-P-P-P",
+    "nombre_punto": "UNIDAD EDUCATIVA PROVINCIA DE PASTAZA"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "PASTAZA",
+    "distrito": "PASTAZA",
+    "circuito": "PUYO SUR",
+    "subcircuito": "PUYO SUR 3",
+    "id": "TRANSCOMUNIDAD-Z3-P-P-P",
+    "nombre_punto": "TRANSCOMUNIDAD"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "PASTAZA",
+    "distrito": "PASTAZA",
+    "circuito": "PUYO SUR",
+    "subcircuito": "PUYO SUR 3",
+    "id": "CAMAL-MUNICIPAL-Z3-P-P-P",
+    "nombre_punto": "CAMAL MUNICIPAL"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "PASTAZA",
+    "distrito": "PASTAZA",
+    "circuito": "PUYO NORTE",
+    "subcircuito": "PUYO NORTE 2",
+    "id": "GASOLINERA-DEL-SINDICATO-DE-CHÓFERES-DE-PASTAZA-Z3-P-P-P",
+    "nombre_punto": "GASOLINERA DEL SINDICATO DE CHÓFERES DE PASTAZA"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "PASTAZA",
+    "distrito": "PASTAZA",
+    "circuito": "PUYO NORTE",
+    "subcircuito": "PUYO NORTE 1",
+    "id": "GASOLINERA-LAS-AMÉRICAS-Z3-P-P-P",
+    "nombre_punto": "GASOLINERA LAS AMÉRICAS"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "ALAUSI",
+    "circuito": "JOYAGSHI",
+    "subcircuito": "JOYAGSHI 1",
+    "id": "CYBER-Y-PAPELERIA-NATASHA-Z3-C-A-J",
+    "nombre_punto": "Cyber y papeleria natasha"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "PILLARO",
+    "circuito": "SAN ANDRES",
+    "subcircuito": "SAN ANDRES 2",
+    "id": "CABY-CENTER-Z3-T-P-S",
+    "nombre_punto": "Caby Center"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "PILLARO",
+    "circuito": "SAN ANDRES",
+    "subcircuito": "SAN ANDRES 2",
+    "id": "ELECTRO-CAR-CENTER-Z3-T-P-S",
+    "nombre_punto": "Electro Car Center"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "PILLARO",
+    "circuito": "SAN ANDRES",
+    "subcircuito": "SAN ANDRES 2",
+    "id": "TESORO-PILLAREÑO-Z3-T-P-S",
+    "nombre_punto": "Tesoro Pillareño"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "PALLATANGA",
+    "circuito": "CUMANDA",
+    "subcircuito": "CUMANDA 1",
+    "id": "GASOLINERA-CASCAJAL-Z3-C-P-C",
+    "nombre_punto": "Gasolinera Cascajal"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "PALLATANGA",
+    "circuito": "PALLATANGA",
+    "subcircuito": "PALLATANGA 1",
+    "id": "MIRADOR-TRIGOLOMA-Z3-C-P-P",
+    "nombre_punto": "MIRADOR TRIGOLOMA"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "COLTA",
+    "circuito": "GUAMOTE",
+    "subcircuito": "GUAMOTE 1",
+    "id": "GASOLINERA-PRIMAX-Z3-C-C-G",
+    "nombre_punto": "Gasolinera Primax"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "PALLATANGA",
+    "circuito": "PALLATANGA",
+    "subcircuito": "PALLATANGA 1",
+    "id": "E-487-VIA-A-CHILLANES-Z3-C-P-P",
+    "nombre_punto": "E 487-VIA A CHILLANES"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "PALLATANGA",
+    "circuito": "CUMANDA",
+    "subcircuito": "CUMANDA 1",
+    "id": "E-487-ALTURA-DEL-MERCADO-Z3-C-P-C",
+    "nombre_punto": "E 487 Altura del Mercado"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "PALLATANGA",
+    "circuito": "PALLATANGA",
+    "subcircuito": "PALLATANGA 1",
+    "id": "E487-VIA-ESTATAL-GASOLINERA-Z3-C-P-P",
+    "nombre_punto": "E487-VIA ESTATAL GASOLINERA"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "COLTA",
+    "circuito": "CAJABAMBA",
+    "subcircuito": "CAJABAMBA 1",
+    "id": "IGLESIA-DE-BALBANERA-Z3-C-C-C",
+    "nombre_punto": "IGLESIA DE BALBANERA"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "ALAUSI",
+    "circuito": "TIXAN",
+    "subcircuito": "TIXAN 1",
+    "id": "CENTRO-DE-SALUD-TIPO-A-TIXAN-Z3-C-A-T",
+    "nombre_punto": "Centro de salud Tipo A Tixan"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "QUERO",
+    "circuito": "MOCHA",
+    "subcircuito": "MOCHA 1",
+    "id": "PUENTE-DE-MOCHA-Z3-T-Q-M",
+    "nombre_punto": "Puente de Mocha"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "QUERO",
+    "circuito": "MOCHA",
+    "subcircuito": "MOCHA 1",
+    "id": "CAMINO-REAL-BARRIO-EL-PORVENIR-Z3-T-Q-M",
+    "nombre_punto": "Camino Real Barrio el Porvenir"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "QUERO",
+    "circuito": "TISALEO",
+    "subcircuito": "TISALEO 1",
+    "id": "INGRESO-A-BARRIO-SANTAMARIANITA-Z3-T-Q-T",
+    "nombre_punto": "Ingreso a Barrio Santamarianita"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "QUERO",
+    "circuito": "TISALEO",
+    "subcircuito": "TISALEO 1",
+    "id": "TISALEO-SAN-MARTÍN-MERCADO-CENTRAL-Z3-T-Q-T",
+    "nombre_punto": "Tisaleo San Martín Mercado Central"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "QUERO",
+    "circuito": "CEVALLOS",
+    "subcircuito": "CEVALLOS 1",
+    "id": "CEVALLOS-PARQUE-LA-MADRE-GUSMAR-Z3-T-Q-C",
+    "nombre_punto": "Cevallos parque la Madre Gusmar"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "PANGUA",
+    "circuito": "MORASPUNGO",
+    "subcircuito": "MORASPUNGO 1",
+    "id": "HOTEL-AROMACO-Z3-C-P-M",
+    "nombre_punto": "HOTEL AROMACO"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "QUERO",
+    "circuito": "CEVALLOS",
+    "subcircuito": "CEVALLOS 1",
+    "id": "INGRESO-AL-CANTÓN-CEVALLOS-FERRETERÍA-FERRIMAXI-Z3-T-Q-C",
+    "nombre_punto": "Ingreso al Cantón Cevallos Ferretería Ferrimaxi"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "QUERO",
+    "circuito": "CEVALLOS",
+    "subcircuito": "CEVALLOS 1",
+    "id": "BARRIO-LA-AMISTAD-CANCHAS-Z3-T-Q-C",
+    "nombre_punto": "Barrio la Amistad Canchas"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "QUERO",
+    "circuito": "QUERO",
+    "subcircuito": "QUERO 1",
+    "id": "PARQUE-CENTRAL-DE-QUERO-Z3-T-Q-Q",
+    "nombre_punto": "Parque Central de Quero"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "RIOBAMBA",
+    "circuito": "POLITECNICA",
+    "subcircuito": "POLITECNICA 2",
+    "id": "CAMPUS-Z3-C-R-P",
+    "nombre_punto": "CAMPUS"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "RIOBAMBA",
+    "circuito": "PUCARA",
+    "subcircuito": "PUCARA 1",
+    "id": "UNACH-RIOBAMBA-Z3-C-R-P",
+    "nombre_punto": "UNACH-RIOBAMBA"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "RIOBAMBA",
+    "circuito": "POLITECNICA",
+    "subcircuito": "POLITECNICA 3",
+    "id": "CAKE-POSTRESS-Z3-C-R-P",
+    "nombre_punto": "CAKE POSTRESS"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "RIOBAMBA",
+    "circuito": "PUCARA",
+    "subcircuito": "PUCARA 1",
+    "id": "CREACIONES-ANAHY--AV.-LEOPOLDO-FREIRE-Y-VIENA-Z3-C-R-P",
+    "nombre_punto": "CREACIONES ANAHY- AV. LEOPOLDO FREIRE Y VIENA"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "SALCEDO",
+    "circuito": "SALCEDO",
+    "subcircuito": "SALCEDO 2",
+    "id": "SUPERMERCADO-BALAREZO-PAEZ-Z3-C-S-S",
+    "nombre_punto": "Supermercado Balarezo Paez"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "SALCEDO",
+    "circuito": "SALCEDO",
+    "subcircuito": "SALCEDO 1",
+    "id": "FERRETERÍA-SAN-MIGUEL-Z3-C-S-S",
+    "nombre_punto": "Ferretería San Miguel"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "RIOBAMBA",
+    "circuito": "SAN ALFONSO",
+    "subcircuito": "SAN ALFONSO 1",
+    "id": "MERCADO-SAN-ALFONSO-Z3-C-R-S",
+    "nombre_punto": "MERCADO SAN ALFONSO"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "RIOBAMBA",
+    "circuito": "SAN ALFONSO",
+    "subcircuito": "SAN ALFONSO 2",
+    "id": "ESQUINA-5-DE-JUNIO-Z3-C-R-S",
+    "nombre_punto": "ESQUINA 5 DE JUNIO"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "SIGCHOS",
+    "circuito": "SIGCHOS",
+    "subcircuito": "SIGCHOS 1",
+    "id": "HOSPITAL-BÁSICO-SIGCHOS-Z3-C-S-S",
+    "nombre_punto": "HOSPITAL BÁSICO SIGCHOS"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "RIOBAMBA",
+    "circuito": "TERMINAL TERRESTRE",
+    "subcircuito": "TERMINAL TERRESTRE 1",
+    "id": "IESS-Z3-C-R-T",
+    "nombre_punto": "IESS"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "RIOBAMBA",
+    "circuito": "TERMINAL TERRESTRE",
+    "subcircuito": "TERMINAL TERRESTRE 1",
+    "id": "TERMINAL-TERRESTRE-Z3-C-R-T",
+    "nombre_punto": "TERMINAL TERRESTRE"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "COLTA",
+    "circuito": "CAJABAMBA",
+    "subcircuito": "CAJABAMBA 1",
+    "id": "BARRIO-2-DE-AGOSTO-Z3-C-C-C",
+    "nombre_punto": "BARRIO 2 DE AGOSTO"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "COLTA",
+    "circuito": "CAJABAMBA",
+    "subcircuito": "CAJABAMBA 1",
+    "id": "JUAN-BERNARDO-DE-LEÓN-Y-CALLE-C4-Z3-C-C-C",
+    "nombre_punto": "JUAN BERNARDO DE LEÓN Y CALLE C4"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "COLTA",
+    "circuito": "CAJABAMBA",
+    "subcircuito": "CAJABAMBA 1",
+    "id": "CUNUGPOGYO-Z3-C-C-C",
+    "nombre_punto": "CUNUGPOGYO"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "RIOBAMBA",
+    "circuito": "LA PAZ",
+    "subcircuito": "LA PAZ 2",
+    "id": "COMUNICACION-TOTAL-Z3-C-R-L",
+    "nombre_punto": "COMUNICACION TOTAL"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "RIOBAMBA",
+    "circuito": "CAMILO PONCE",
+    "subcircuito": "CAMILO PONCE 2",
+    "id": "SECTOR-LA-VASIJA-AV.-ALFONSO-CHÁVEZ-Y-AV.-EDELVERTO-BONILLA-Z3-C-R-C",
+    "nombre_punto": "Sector La Vasija Av. Alfonso Chávez y Av. Edelverto Bonilla"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "COLTA",
+    "circuito": "GUAMOTE",
+    "subcircuito": "GUAMOTE 1",
+    "id": "PLAZA-DE-RASTRO-Z3-C-C-G",
+    "nombre_punto": "Plaza de rastro"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "COLTA",
+    "circuito": "GUAMOTE",
+    "subcircuito": "GUAMOTE 1",
+    "id": "MERCADO-CENTRAL-Z3-C-C-G",
+    "nombre_punto": "Mercado central"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "RIOBAMBA",
+    "circuito": "LA CONDAMINE",
+    "subcircuito": "LA CONDAMINE 2",
+    "id": "PLAZA-ALFARO-Z3-C-R-L",
+    "nombre_punto": "PLAZA ALFARO"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "COLTA",
+    "circuito": "GUAMOTE",
+    "subcircuito": "GUAMOTE 1",
+    "id": "RIELES-DEL-TREN-Z3-C-C-G",
+    "nombre_punto": "Rieles del tren"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "PALLATANGA",
+    "circuito": "CUMANDA",
+    "subcircuito": "CUMANDA 1",
+    "id": "E-487-Y-CALLE-10-DE-AGOSTO-Z3-C-P-C",
+    "nombre_punto": "E 487 Y CALLE 10 DE AGOSTO"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "PALLATANGA",
+    "circuito": "CUMANDA",
+    "subcircuito": "CUMANDA 1",
+    "id": "CALLE-05-DE-JUNIO-Y-CALLE-10-DE-AGOSTO-Z3-C-P-C",
+    "nombre_punto": "CALLE 05 DE JUNIO Y CALLE 10 DE AGOSTO, REFERENCIA CANCHA MULTIDEPORTIVA 05 DE JUNIO"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "PALLATANGA",
+    "circuito": "CUMANDA",
+    "subcircuito": "CUMANDA 1",
+    "id": "AV.-LA-ISLA-SALIDA-A-BUENOS-AIRES,-REFERENCIA-MOLINOS-CUMANDA-Z3-C-P-C",
+    "nombre_punto": "AV. LA ISLA SALIDA A BUENOS AIRES, REFERENCIA MOLINOS CUMANDA"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "PALLATANGA",
+    "circuito": "CUMANDA",
+    "subcircuito": "CUMANDA 1",
+    "id": "CALLE-PRIMERA-CONSTITUYENTE-Y-CALLE-CESAR-CEVALLOS-Z3-C-P-C",
+    "nombre_punto": "CALLE PRIMERA CONSTITUYENTE Y CALLE CESAR CEVALLOS"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "SIGCHOS",
+    "circuito": "LAS PAMPAS",
+    "subcircuito": "LAS PAMPAS 1",
+    "id": "CENTRO-DE-SALUD-PUBLICA-PALO-QUEMADO-Z3-C-S-L",
+    "nombre_punto": "Centro de salud Publica Palo Quemado"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "SIGCHOS",
+    "circuito": "LAS PAMPAS",
+    "subcircuito": "LAS PAMPAS 1",
+    "id": "GAD-LAS-PAMPAS-Z3-C-S-L",
+    "nombre_punto": "GAD LAS PAMPAS"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "RIOBAMBA",
+    "circuito": "LA PAZ",
+    "subcircuito": "LA PAZ 2",
+    "id": "FARMACIA-CUXIBAMBA-Z3-C-R-L",
+    "nombre_punto": "FARMACIA CUXIBAMBA"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "SIGCHOS",
+    "circuito": "CHUGCHILLAN",
+    "subcircuito": "CHUGCHILLAN 1",
+    "id": "GAD-PARROQUIAL-CHUGCHILAN-Z3-C-S-S",
+    "nombre_punto": "GAD PARROQUIAL CHUGCHILAN"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "SIGCHOS",
+    "circuito": "CHUGCHILLAN",
+    "subcircuito": "CHUGCHILLAN 1",
+    "id": "UNIDAD-EDUCATIVA-JUAN-JOSE-FLORES-Z3-C-S-C",
+    "nombre_punto": "UNIDAD EDUCATIVA JUAN JOSE FLORES"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "RIOBAMBA",
+    "circuito": "LA ESTACION",
+    "subcircuito": "LA ESTACION 1",
+    "id": "JUAN-LAVALLE-Z3-C-R-L",
+    "nombre_punto": "Juan Lavalle"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "RIOBAMBA",
+    "circuito": "LA PAZ",
+    "subcircuito": "LA PAZ 1",
+    "id": "LOS-COQUEIROS-Z3-C-R-L",
+    "nombre_punto": "LOS COQUEIROS"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "ALAUSI",
+    "circuito": "CHUNCHI",
+    "subcircuito": "CHUNCHI 1",
+    "id": "AV-MANUEL-REYES-Z3-C-A-C",
+    "nombre_punto": "Av Manuel Reyes  y E35"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "ALAUSI",
+    "circuito": "CHUNCHI",
+    "subcircuito": "CHUNCHI 1",
+    "id": "E35-Y-AV.4-DE-JULIO-Z3-C-A-C",
+    "nombre_punto": "E35 y Av.4 de julio"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "ALAUSI",
+    "circuito": "ALAUSI",
+    "subcircuito": "ALAUSI 1",
+    "id": "TIA-Z3-C-A-A",
+    "nombre_punto": "TIA"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "RIOBAMBA",
+    "circuito": "SAN ALFONSO",
+    "subcircuito": "SAN ALFONSO 2",
+    "id": "PARADA-DE-BUSES-Z3-C-R-S",
+    "nombre_punto": "PARADA DE BUSES"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "RIOBAMBA",
+    "circuito": "SAN ALFONSO",
+    "subcircuito": "SAN ALFONSO 1",
+    "id": "VELOZ-HORNADOS-Z3-C-R-S",
+    "nombre_punto": "VELOZ HORNADOS"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "RIOBAMBA",
+    "circuito": "CAMILO PONCE",
+    "subcircuito": "CAMILO PONCE 1",
+    "id": "MERCADO-LA-ESPERANZA-(PLAZA-DE-LOS-ANIMALES)-CALLE-LARREA-ENTRE-PLÁCIDO-CAAMAÑO-Y-PASAJE-SIN-NOMBRE-Z3-C-R-C",
+    "nombre_punto": "Mercado La Esperanza (Plaza de los animales) Calle Larrea entre Plácido Caamaño y Pasaje sin nombre"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "RIOBAMBA",
+    "circuito": "CAMILO PONCE",
+    "subcircuito": "CAMILO PONCE 1",
+    "id": "PLAZA-DE-LAS-YERBAS-(CALLE-VICTOR-EMILIO-ESTRADA-Y-CALLE-21-DE-ABRIL)-FRENTE-AL-MERCADO-Z3-C-R-C",
+    "nombre_punto": "Plaza de las Yerbas (Calle Victor Emilio Estrada y Calle 21 de Abril) Frente al mercado"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "RIOBAMBA",
+    "circuito": "LA PAZ",
+    "subcircuito": "LA PAZ 2",
+    "id": "REY-PAN-Z3-C-R-L",
+    "nombre_punto": "REY PAN"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "RIOBAMBA",
+    "circuito": "LA CONDAMINE",
+    "subcircuito": "LA CONDAMINE 1",
+    "id": "MERCADO-LA-CONDAMINE-Z3-C-R-L",
+    "nombre_punto": "MERCADO LA CONDAMINE"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "RIOBAMBA",
+    "circuito": "CAMILO PONCE",
+    "subcircuito": "CAMILO PONCE 1",
+    "id": "CALLE-VICENTE-RAMÓN-ROCA-Y-BAQUERIZO-MORENO-(FRENTE-A-LAS-CANCHAS-CDLA.-GALÁPAGOS)-JUNTO-A-LA-PISTA-DE-YELO-Z3-C-R-C",
+    "nombre_punto": "Calle Vicente Ramón Roca y Baquerizo Moreno (Frente a las canchas Cdla. Galápagos) junto a la Pista de Yelo"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "RIOBAMBA",
+    "circuito": "LA CONDAMINE",
+    "subcircuito": "LA CONDAMINE 2",
+    "id": "IGLESIA-SANTA-ROSA-Z3-C-R-L",
+    "nombre_punto": "IGLESIA SANTA ROSA"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "RIOBAMBA",
+    "circuito": "TERMINAL TERRESTRE",
+    "subcircuito": "TERMINAL TERRESTRE 1",
+    "id": "DUCHICELA-Y-9-DE-OCTUBRE-Z3-C-R-T",
+    "nombre_punto": "Duchicela y 9 de octubre"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "RIOBAMBA",
+    "circuito": "LA CONDAMINE",
+    "subcircuito": "LA CONDAMINE 2",
+    "id": "PATRONATO-Z3-C-R-L",
+    "nombre_punto": "PATRONATO"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "RIOBAMBA",
+    "circuito": "LA ESTACION",
+    "subcircuito": "LA ESTACION 1",
+    "id": "VENEZUELA-Y-FRANCIA-Z3-C-R-L",
+    "nombre_punto": "Venezuela y Francia"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LATACUNGA",
+    "circuito": "ELOY ALFARO",
+    "subcircuito": "ELOY ALFARO 1",
+    "id": "FARMACIA-ECOPHARMACY-Z3-C-L-E",
+    "nombre_punto": "FARMACIA ECOPHARMACY"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "RIOBAMBA",
+    "circuito": "LA PAZ",
+    "subcircuito": "LA PAZ 2",
+    "id": "CASA-GRAFITIS-Z3-C-R-L",
+    "nombre_punto": "CASA GRAFITIS"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "RIOBAMBA",
+    "circuito": "PUCARA",
+    "subcircuito": "PUCARA 1",
+    "id": "SERVICIO-TECNICO-AV.-LEOPOLDO-FREIRE-Y-BUCAREST-Z3-C-R-P",
+    "nombre_punto": "SERVICIO TECNICO-AV. LEOPOLDO FREIRE Y BUCAREST"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "RIOBAMBA",
+    "circuito": "TERMINAL TERRESTRE",
+    "subcircuito": "TERMINAL TERRESTRE 1",
+    "id": "PARQUE-GUAYAQUIL-Z3-C-R-T",
+    "nombre_punto": "Parque guayaquil"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "RIOBAMBA",
+    "circuito": "LA ESTACION",
+    "subcircuito": "LA ESTACION 1",
+    "id": "PRIMERA-CONSTITUYENTE-Y-ESPAÑA-Z3-C-R-L",
+    "nombre_punto": "Primera Constituyente y españa"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "RIOBAMBA",
+    "circuito": "PUCARA",
+    "subcircuito": "PUCARA 1",
+    "id": "ROMA-Y-MADRID-ESQUINA--LOCAL-ESQUISITAS-FRITADAS-DE-LA-MADRID-Z3-C-R-P",
+    "nombre_punto": "ROMA Y MADRID ESQUINA -LOCAL ESQUISITAS FRITADAS DE LA MADRID"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "RIOBAMBA",
+    "circuito": "LA PAZ",
+    "subcircuito": "LA PAZ 2",
+    "id": "CASA-VALENZUELA-Z3-C-R-L",
+    "nombre_punto": "CASA VALENZUELA"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "RIOBAMBA",
+    "circuito": "PUCARA",
+    "subcircuito": "PUCARA 1",
+    "id": "PARQUE-POLI-DEPORTIVO---ROMA-Y-PARIS-Z3-C-R-P",
+    "nombre_punto": "PARQUE POLI DEPORTIVO - ROMA Y PARIS"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "RIOBAMBA",
+    "circuito": "POLITECNICA",
+    "subcircuito": "POLITECNICA 2",
+    "id": "MONSEÑOR-LEONIDAS-PROAÑO-Y-NAPO-Z3-C-R-P",
+    "nombre_punto": "Monseñor Leonidas Proaño y Napo"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "RIOBAMBA",
+    "circuito": "CAMILO PONCE",
+    "subcircuito": "CAMILO PONCE 1",
+    "id": "CALLE-JAIME-ROLDOS-AGUILERA-Y-VICTOR-EMILIO-ESTRADA-(ESQUINA-U-E.-CARLOS-GARBAY-MONTESDEOCA)-Z3-C-R-C",
+    "nombre_punto": "Calle Jaime Roldos Aguilera y Victor Emilio Estrada (Esquina U E. Carlos Garbay Montesdeoca)"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "RIOBAMBA",
+    "circuito": "LA ESTACION",
+    "subcircuito": "LA ESTACION 1",
+    "id": "JUNIN-Y-ROCAFUERTE-Z3-C-R-L",
+    "nombre_punto": "Junin y Rocafuerte"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "RIOBAMBA",
+    "circuito": "POLITECNICA",
+    "subcircuito": "POLITECNICA 2",
+    "id": "CANONIMÓ-RAMOS-ALTURA-DEL-TERMINAL-INTERCANTONAL-Z3-C-R-P",
+    "nombre_punto": "Canonimó Ramos altura del Terminal Intercantonal"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "RIOBAMBA",
+    "circuito": "LA ESTACION",
+    "subcircuito": "LA ESTACION 1",
+    "id": "PLAZA-DAVALOS-Z3-C-R-L",
+    "nombre_punto": "Plaza Davalos"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "RIOBAMBA",
+    "circuito": "POLITECNICA",
+    "subcircuito": "POLITECNICA 2",
+    "id": "AV.PEDRO-VICENTE-MALDONADO-FRENTE-LA-ESPOCH-Z3-C-R-P",
+    "nombre_punto": "Av.PEDRO VICENTE MALDONADO FRENTE LA ESPOCH"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "RIOBAMBA",
+    "circuito": "POLITECNICA",
+    "subcircuito": "POLITECNICA 2",
+    "id": "MILTON-REYES-Y-SERGIO-QUIROLA-Z3-C-R-P",
+    "nombre_punto": "MILTON REYES Y SERGIO QUIROLA"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "RIOBAMBA",
+    "circuito": "POLITECNICA",
+    "subcircuito": "POLITECNICA 2",
+    "id": "CANONIMO-RAMOS-Y-11-DE-NOVIEMBRE-Z3-C-R-P",
+    "nombre_punto": "CANONIMO RAMOS Y 11 DE NOVIEMBRE"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "RIOBAMBA",
+    "circuito": "CAMILO PONCE",
+    "subcircuito": "CAMILO PONCE 2",
+    "id": "CALLE-CÓRDOVA-Y-VALENCIA-(ESQUINA-FRENTE-A-LA-IGLESIA)-Z3-C-R-C",
+    "nombre_punto": "Calle Córdova y Valencia (esquina frente a la iglesia)"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "RIOBAMBA",
+    "circuito": "POLITECNICA",
+    "subcircuito": "POLITECNICA 3",
+    "id": "AGUSTIN-CUEVA-TAMARIZ-Y-ALFREDO-PAREJA-DIESCANSECO-Z3-C-R-P",
+    "nombre_punto": "AGUSTIN CUEVA TAMARIZ Y ALFREDO PAREJA DIESCANSECO"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "ALAUSI",
+    "circuito": "CHUNCHI",
+    "subcircuito": "CHUNCHI 1",
+    "id": "AV-MANUEL-REYES-Y-E35-Z3-C-A-C",
+    "nombre_punto": "Av Manuel Reyes  y E35"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "ALAUSI",
+    "circuito": "ALAUSI",
+    "subcircuito": "ALAUSI 1",
+    "id": "FARMACIA-CORAZÓN-DE-JESÚS-Z3-C-A-A",
+    "nombre_punto": "FARMACIA CORAZÓN DE JESÚS"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "ALAUSI",
+    "circuito": "CHUNCHI",
+    "subcircuito": "CHUNCHI 1",
+    "id": "CALLE-E-Y-ELOY-ALFARO-Z3-C-A-C",
+    "nombre_punto": "Calle E y Eloy Alfaro"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "RIOBAMBA",
+    "circuito": "LA ESTACION",
+    "subcircuito": "LA ESTACION 1",
+    "id": "JOSÉ-DE-OROZCO-Z3-C-R-L",
+    "nombre_punto": "José de orozco"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "RIOBAMBA",
+    "circuito": "LA ESTACION",
+    "subcircuito": "LA ESTACION 1",
+    "id": "LUIS-CORDOVEZ-Z3-C-R-L",
+    "nombre_punto": "Luis Cordovez"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "SIGCHOS",
+    "circuito": "ISINLIVI",
+    "subcircuito": "ISINLIVI 1",
+    "id": "CENTRO-DE-SALUD-ISINLIVI-Z3-C-S-I",
+    "nombre_punto": "CENTRO DE SALUD ISINLIVI"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "SIGCHOS",
+    "circuito": "ISINLIVI",
+    "subcircuito": "ISINLIVI 1",
+    "id": "GAD-PARROQUIAL-ISINLIVI-Z3-C-S-I",
+    "nombre_punto": "GAD PARROQUIAL ISINLIVI"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "PANGUA",
+    "circuito": "MORASPUNGO",
+    "subcircuito": "MORASPUNGO 1",
+    "id": "SUBCENTRO-DE-SALUD-MORASPUNGO-Z3-C-P-M",
+    "nombre_punto": "SUBCENTRO DE SALUD MORASPUNGO"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LATACUNGA",
+    "circuito": "LA CALERA",
+    "subcircuito": "LA CALERA 1",
+    "id": "LOCAL-MEGA-SPEEDY-Z3-C-L-L",
+    "nombre_punto": "LOCAL MEGA SPEEDY"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LATACUNGA",
+    "circuito": "ELOY ALFARO",
+    "subcircuito": "ELOY ALFARO 1",
+    "id": "FRADELLA-Z3-C-L-E",
+    "nombre_punto": "FRADELLA"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "ALAUSI",
+    "circuito": "ALAUSI",
+    "subcircuito": "ALAUSI 1",
+    "id": "TIENDA-LALITA-Z3-C-A-A",
+    "nombre_punto": "TIENDA LALITA"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "ALAUSI",
+    "circuito": "ALAUSI",
+    "subcircuito": "ALAUSI 1",
+    "id": "HOSTAL-EL-PEÑÓN-Z3-C-A-A",
+    "nombre_punto": "HOSTAL EL PEÑÓN"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "ALAUSI",
+    "circuito": "ALAUSI",
+    "subcircuito": "ALAUSI 1",
+    "id": "LOCAL-DON-TITO-Z3-C-A-A",
+    "nombre_punto": "LOCAL DON TITO"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LATACUNGA",
+    "circuito": "LA CALERA",
+    "subcircuito": "LA CALERA 1",
+    "id": "MULTISA-Z3-C-L-L",
+    "nombre_punto": "MULTISA"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "COLTA",
+    "circuito": "CAJABAMBA",
+    "subcircuito": "CAJABAMBA 1",
+    "id": "HOSTAL-SUMAK-PAKARI-Y-EJECUTIVO-Z3-C-C-C",
+    "nombre_punto": "HOSTAL SUMAK PAKARI Y EJECUTIVO"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "AMBATO SUR",
+    "circuito": "NUEVA AMBATO",
+    "subcircuito": "NUEVA AMBATO 1",
+    "id": "UNIVERSIDAD-CATÓLICA-Z3-T-A-N",
+    "nombre_punto": "UNIVERSIDAD CATÓLICA"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "AMBATO NORTE",
+    "circuito": "ATOCHA FICOA",
+    "subcircuito": "ATOCHA FICOA 1",
+    "id": "CONSULTORIO-MANZANO-Z3-T-A-A",
+    "nombre_punto": "CONSULTORIO MANZANO"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "BAÑOS",
+    "circuito": "BAÑOS",
+    "subcircuito": "BAÑOS 2",
+    "id": "CASCADA-DEL-PAILON-Z3-T-B-B",
+    "nombre_punto": "Cascada del Pailon"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "PATATE",
+    "circuito": "PATATE",
+    "subcircuito": "PATATE 3",
+    "id": "VINOS-BALDORE-Z3-T-P-P",
+    "nombre_punto": "VINOS BALDORE"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "PASTAZA",
+    "distrito": "PASTAZA",
+    "circuito": "PUYO SUR",
+    "subcircuito": "PUYO SUR 2",
+    "id": "MERCADO-MARISCAL-Z3-P-P-P",
+    "nombre_punto": "MERCADO MARISCAL"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "COLTA",
+    "circuito": "PALMIRA",
+    "subcircuito": "PALMIRA 1",
+    "id": "GAD-PARROQUIAL-Z3-C-C-P",
+    "nombre_punto": "GAD PARROQUIAL"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "DANSANTE",
+    "circuito": "LA ESPERANZA",
+    "subcircuito": "LA ESPERANZA 1",
+    "id": "GASOLINERA-RECTA-DE-VELIZ-Z3-C-D-L",
+    "nombre_punto": "GASOLINERA RECTA DE VELIZ"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "SALCEDO",
+    "circuito": "SALCEDO",
+    "subcircuito": "SALCEDO 2",
+    "id": "UNIVERSIDAD-TÉCNICA-DE-COTOPAXI-Z3-C-S-S",
+    "nombre_punto": "UNIVERSIDAD TÉCNICA DE COTOPAXI"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "AMBATO NORTE",
+    "circuito": "SAN BARTOLOME DE PINLLO",
+    "subcircuito": "SAN BARTOLOME DE PINLLO 2",
+    "id": "PARQUE-CENTRAL-DE-PINLLO-Z3-T-A-S",
+    "nombre_punto": "PARQUE CENTRAL DE PINLLO"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "PASTAZA",
+    "distrito": "PASTAZA",
+    "circuito": "SHELL MERA",
+    "subcircuito": "SHELL MERA 1",
+    "id": "TIENDA-DE-ABARROTES-J-Y-J-Z3-P-P-S",
+    "nombre_punto": "TIENDA DE ABARROTES J Y J"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "BAÑOS",
+    "circuito": "BAÑOS",
+    "subcircuito": "BAÑOS 1",
+    "id": "JUIVE-CHICO-Z3-T-B-B",
+    "nombre_punto": "Juive chico"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "BAÑOS",
+    "circuito": "BAÑOS",
+    "subcircuito": "BAÑOS 1",
+    "id": "CANCHA-DE-DON-MIGUEL-Z3-T-B-B",
+    "nombre_punto": "Cancha de don miguel"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "AMBATO SUR",
+    "circuito": "HUACHI EL BELEN",
+    "subcircuito": "HUACHI EL BELEN 1",
+    "id": "IGLESIA-DE-HUACHI-SOLIS-Z3-T-A-H",
+    "nombre_punto": "Iglesia de Huachi Solis"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "COLTA",
+    "circuito": "GUAMOTE",
+    "subcircuito": "GUAMOTE 1",
+    "id": "SECTOR-LA-GIRALDA-Z3-C-C-G",
+    "nombre_punto": "Sector la Giralda"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "SIGCHOS",
+    "circuito": "SIGCHOS",
+    "subcircuito": "SIGCHOS 1",
+    "id": "TUTY-Z3-C-S-S",
+    "nombre_punto": "TUTY"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "AMBATO NORTE",
+    "circuito": "LA MATRIZ",
+    "subcircuito": "LA MATRIZ 1",
+    "id": "EDIFICIO-MOSQUERA-Z3-T-A-L",
+    "nombre_punto": "EDIFICIO MOSQUERA"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "AMBATO SUR",
+    "circuito": "PICAIHUA",
+    "subcircuito": "PICAIHUA 2",
+    "id": "UNIVERSIDAD-UNIANDES-Z3-T-A-P",
+    "nombre_punto": "Universidad Uniandes"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "PATATE",
+    "circuito": "PELILEO GRANDE",
+    "subcircuito": "PELILEO GRANDE 1",
+    "id": "PELILEO-GRANDE-Z3-T-P-P",
+    "nombre_punto": "Pelileo Grande"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "SALCEDO",
+    "circuito": "SALCEDO",
+    "subcircuito": "SALCEDO 2",
+    "id": "VÍVERES-VIDA-NUEVA-Z3-C-S-S",
+    "nombre_punto": "VÍVERES VIDA NUEVA"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "AMBATO NORTE",
+    "circuito": "IZAMBA",
+    "subcircuito": "IZAMBA 1",
+    "id": "UNIDAD-EDUCATIVA-FISCOMISIONAL-TIRSO-DE-MOLINA-Z3-T-A-I",
+    "nombre_punto": "UNIDAD EDUCATIVA FISCOMISIONAL TIRSO DE MOLINA"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "COLTA",
+    "circuito": "COLUMBE",
+    "subcircuito": "COLUMBE 1",
+    "id": "BARRIO-CENTRAL-DE-COLUMBE-Z3-C-C-C",
+    "nombre_punto": "Barrio Central de Columbe"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "AMBATO SUR",
+    "circuito": "LETAMENDI",
+    "subcircuito": "LETAMENDI 1",
+    "id": "MI-CASERITA-Z3-T-A-L",
+    "nombre_punto": "Mi caserita"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "DANSANTE",
+    "circuito": "LA ESPERANZA",
+    "subcircuito": "LA ESPERANZA 1",
+    "id": "0202525077-Z3-C-D-L",
+    "nombre_punto": 202525077
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "PASTAZA",
+    "distrito": "PASTAZA",
+    "circuito": "PUYO SUR",
+    "subcircuito": "PUYO SUR 1",
+    "id": "CEMENTERIO-MUNICIPAL-Z3-P-P-P",
+    "nombre_punto": "Cementerio Municipal"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "PATATE",
+    "circuito": "SALASACA",
+    "subcircuito": "SALASACA 1",
+    "id": "INGRESÓ-A-LA-PARROQUIA-EL-ROSARIO-Z3-T-P-S",
+    "nombre_punto": "Ingresó a la Parroquia El Rosario"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "AMBATO SUR",
+    "circuito": "MIÑARICA",
+    "subcircuito": "MIÑARICA 1",
+    "id": "CIUDADELA-MIÑARICA-Z3-T-A-M",
+    "nombre_punto": "CIUDADELA MIÑARICA"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "PASTAZA",
+    "distrito": "PASTAZA",
+    "circuito": "SHELL MERA",
+    "subcircuito": "SHELL MERA 2",
+    "id": "PANADERIA-Y-PASTELERIA-EL-BUEN-SABOR-Z3-P-P-S",
+    "nombre_punto": "PANADERIA Y PASTELERIA EL BUEN SABOR"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "AMBATO NORTE",
+    "circuito": "SAN BARTOLOME DE PINLLO",
+    "subcircuito": "SAN BARTOLOME DE PINLLO 2",
+    "id": "BARRIO-MADRIGAL-VIVIENDA-MANGARREZ-LALAMA-Z3-T-A-S",
+    "nombre_punto": "Barrio Madrigal Vivienda Mangarrez Lalama"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "PANGUA",
+    "circuito": "EL CORAZON",
+    "subcircuito": "EL CORAZON 1",
+    "id": "BANECUADOR-Z3-C-P-E",
+    "nombre_punto": "BanEcuador"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "AMBATO SUR",
+    "circuito": "SAN ANTONIO",
+    "subcircuito": "SAN ANTONIO 1",
+    "id": "PLAZA-PACHANO-Z3-T-A-S",
+    "nombre_punto": "Plaza Pachano"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "SALCEDO",
+    "circuito": "SALCEDO",
+    "subcircuito": "SALCEDO 2",
+    "id": "FARMACIAS-FARMAREDS-Z3-C-S-S",
+    "nombre_punto": "FARMACIAS FARMAREDS"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "AMBATO SUR",
+    "circuito": "SAN ANTONIO",
+    "subcircuito": "SAN ANTONIO 1",
+    "id": "ESTADIO-BELLAVISTA-Z3-T-A-S",
+    "nombre_punto": "ESTADIO BELLAVISTA"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "AMBATO NORTE",
+    "circuito": "INGAURCO",
+    "subcircuito": "INGAURCO 1",
+    "id": "UNIVERSIDAD-TÉCNICA-DE-AMBATO-Z3-T-A-I",
+    "nombre_punto": "Universidad Técnica de Ambato"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "DANSANTE",
+    "circuito": "LA ESPERANZA",
+    "subcircuito": "LA ESPERANZA 1",
+    "id": "CASCADA-DEL-MILAGRO-Z3-C-D-L",
+    "nombre_punto": "CASCADA DEL MILAGRO"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "AMBATO SUR",
+    "circuito": "PISHIDATA",
+    "subcircuito": "PISHIDATA 1",
+    "id": "PARQUE-DE-SAN-PEDRO-Z3-T-A-P",
+    "nombre_punto": "Parque de San Pedro"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LATACUNGA",
+    "circuito": "ELOY ALFARO",
+    "subcircuito": "ELOY ALFARO 1",
+    "id": "MALTERIA-PLAZA-MOLL-Z3-C-L-E",
+    "nombre_punto": "MALTERIA PLAZA MOLL"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "PASTAZA",
+    "distrito": "PASTAZA",
+    "circuito": "PUYO SUR",
+    "subcircuito": "PUYO SUR 2",
+    "id": "MERCADO-MUNICIPAL-Z3-P-P-P",
+    "nombre_punto": "Mercado Municipal"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "PASTAZA",
+    "distrito": "PASTAZA",
+    "circuito": "SHELL MERA",
+    "subcircuito": "SHELL MERA 1",
+    "id": "COLISEO-PARROQUIAL-SHELL-Z3-P-P-S",
+    "nombre_punto": "Coliseo Parroquial Shell"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "AMBATO NORTE",
+    "circuito": "SAN BARTOLOME DE PINLLO",
+    "subcircuito": "SAN BARTOLOME DE PINLLO 2",
+    "id": "POLLOS'D-CAMPO-Z3-T-A-S",
+    "nombre_punto": "POLLOS'D CAMPO"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "AMBATO SUR",
+    "circuito": "SANTA ROSA",
+    "subcircuito": "SANTA ROSA 1",
+    "id": "COLISEO-SANTA-ROSA-Z3-T-A-S",
+    "nombre_punto": "Coliseo Santa Rosa"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "DANSANTE",
+    "circuito": "LA ESPERANZA",
+    "subcircuito": "LA ESPERANZA 1",
+    "id": "PARADERO-FANNY-LU-Z3-C-D-L",
+    "nombre_punto": "PARADERO FANNY LU"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "AMBATO NORTE",
+    "circuito": "MIRAFLORES",
+    "subcircuito": "MIRAFLORES 1",
+    "id": "TEATRO-ERNESTO-ALBAN-Z3-T-A-M",
+    "nombre_punto": "Teatro Ernesto Alban"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "AMBATO SUR",
+    "circuito": "TECHO PROPIO",
+    "subcircuito": "TECHO PROPIO 1",
+    "id": "ESTADIO-TECHO-PROPIO-Z3-T-A-T",
+    "nombre_punto": "ESTADIO TECHO PROPIO"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "PASTAZA",
+    "distrito": "PASTAZA",
+    "circuito": "PUYO NORTE",
+    "subcircuito": "PUYO NORTE 2",
+    "id": "MERCADO-EL-DORADO-Z3-P-P-P",
+    "nombre_punto": "Mercado el Dorado"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "AMBATO NORTE",
+    "circuito": "IZAMBA",
+    "subcircuito": "IZAMBA 1",
+    "id": "EDIFICIO-SEAL-PLAZA-Z3-T-A-I",
+    "nombre_punto": "EDIFICIO SEAL PLAZA"
+  }
+]
