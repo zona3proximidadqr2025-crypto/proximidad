@@ -3841,5 +3841,14 @@
     "subcircuito": "ZUMBAGUA 1",
     "id": "RIKI-REST-BAR-Z3-C-D-Z",
     "nombre_punto": "RIKI REST BAR"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "SIGCHOS",
+    "circuito": "LAS PAMPAS",
+    "subcircuito": "LAS PAMPAS 1",
+    "id": "UNIDAD-EDUCATIVA-SAN-FRANCISCO-DE-LAS-PAMPAS-Z3-C-S-L",
+    "nombre_punto": "UNIDAD EDUCATIVA SAN FRANCISCO DE LAS PAMPAS"
   }
 ]
