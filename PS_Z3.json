@@ -3832,5 +3832,14 @@
     "subcircuito": "IZAMBA 1",
     "id": "EDIFICIO-SEAL-PLAZA-Z3-T-A-I",
     "nombre_punto": "EDIFICIO SEAL PLAZA"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "DANSANTE",
+    "circuito": "ZUMBAGUA",
+    "subcircuito": "ZUMBAGUA 1",
+    "id": "RIKI-REST-BAR-Z3-C-D-Z",
+    "nombre_punto": "RIKI REST BAR"
   }
 ]
