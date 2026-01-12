@@ -148,7 +148,7 @@
     "subzona": "CHIMBORAZO",
     "distrito": "GUANO",
     "circuito": "GUANO",
-    "subcircuito": "GUANO 1",
+    "subcircuito": "GUANO 2",
     "id": "SUPERMARKET-MONTALVO-Z3-C-G-G",
     "nombre_punto": "PARQUE EL BATAN"
   },
@@ -157,7 +157,7 @@
     "subzona": "CHIMBORAZO",
     "distrito": "GUANO",
     "circuito": "GUANO",
-    "subcircuito": "GUANO 1",
+    "subcircuito": "GUANO 2",
     "id": "RICAS-CHOLAS-Z3-C-G-G",
     "nombre_punto": "PLAZA ROJA"
   },
@@ -273,8 +273,8 @@
     "zona": "ZONA 3",
     "subzona": "CHIMBORAZO",
     "distrito": "GUANO",
-    "circuito": "SANTA FE DE GALAN",
-    "subcircuito": "SANTA FE DE GALAN 1",
+    "circuito": "GUANO",
+    "subcircuito": "GUANO 1",
     "id": "VIVERES-DOÑA-PATY-Z3-C-G-S",
     "nombre_punto": "CONJUNTO HABITACIONAL IRAZU"
   },
@@ -318,8 +318,8 @@
     "zona": "ZONA 3",
     "subzona": "CHIMBORAZO",
     "distrito": "GUANO",
-    "circuito": "SANTA FE DE GALAN",
-    "subcircuito": "SANTA FE DE GALAN 1",
+    "circuito": "GUANO",
+    "subcircuito": "GUANO 1",
     "id": "VIVERES-AREVALO-Z3-C-G-S",
     "nombre_punto": "ESTACION DE COMBUSTIBLE COLSA"
   },
@@ -327,8 +327,8 @@
     "zona": "ZONA 3",
     "subzona": "CHIMBORAZO",
     "distrito": "GUANO",
-    "circuito": "SANTA FE DE GALAN",
-    "subcircuito": "SANTA FE DE GALAN 1",
+    "circuito": "GUANO",
+    "subcircuito": "GUANO 2",
     "id": "VÍVERES-MACARA-Z3-C-G-S",
     "nombre_punto": "PARADA DE TAXIS SANTA TERESITA"
   },
@@ -399,8 +399,8 @@
     "zona": "ZONA 3",
     "subzona": "CHIMBORAZO",
     "distrito": "GUANO",
-    "circuito": "SAN ANDRES",
-    "subcircuito": "SAN ANDRES 2",
+    "circuito": "GUANO",
+    "subcircuito": "GUANO 1",
     "id": "TIENDA-DE-ABARROTES-MARIA-Z3-C-G-S",
     "nombre_punto": "FABRICA DE CORTINAS DEL BARRIO PREMATUROS"
   },
