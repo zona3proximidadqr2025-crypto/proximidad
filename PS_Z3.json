@@ -3850,5 +3850,14 @@
     "subcircuito": "LAS PAMPAS 1",
     "id": "UNIDAD-EDUCATIVA-SAN-FRANCISCO-DE-LAS-PAMPAS-Z3-C-S-L",
     "nombre_punto": "UNIDAD EDUCATIVA SAN FRANCISCO DE LAS PAMPAS"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "PASTAZA",
+    "distrito": "PASTAZA",
+    "circuito": "PUYO NORTE",
+    "subcircuito": "PUYO NORTE 2",
+    "id": "IMPORTADORA-AUTOMOTRIZ-IMAUTO-Z3-P-P-P",
+    "nombre_punto": "IMPORTADORA AUTOMOTRIZ IMAUTO"
   }
 ]
