@@ -3859,5 +3859,14 @@
     "subcircuito": "PUYO NORTE 2",
     "id": "IMPORTADORA-AUTOMOTRIZ-IMAUTO-Z3-P-P-P",
     "nombre_punto": "IMPORTADORA AUTOMOTRIZ IMAUTO"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LATACUNGA",
+    "circuito": "LASSO",
+    "subcircuito": "LASSO 2",
+    "id": "HACIENDA-LA-CIENEGA-Z3-C-L-L",
+    "nombre_punto": "Hacienda La Cienega"
   }
 ]
