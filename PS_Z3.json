@@ -3958,5 +3958,14 @@
     "subcircuito": "PUYO SUR 2",
     "id": "PARQUE-DE-LA-MUJER-Z3-P-P-P",
     "nombre_punto": "PARQUE DE LA MUJER"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "PASTAZA",
+    "distrito": "PASTAZA",
+    "circuito": "PUYO NORTE",
+    "subcircuito": "PUYO NORTE 2",
+    "id": "BANCO-PICHINCHA-Z3-P-P-P",
+    "nombre_punto": "BANCO PICHINCHA"
   }
 ]
