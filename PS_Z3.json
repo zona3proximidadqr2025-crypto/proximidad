@@ -3913,5 +3913,14 @@
     "subcircuito": "MOCHA 1",
     "id": "NEPTALY-SANCHO-Z3-T-Q-M",
     "nombre_punto": "NEPTALY SANCHO"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "QUERO",
+    "circuito": "TISALEO",
+    "subcircuito": "TISALEO 1",
+    "id": "E35-RESTAURANT-LOS-CHAMPIZ-Z3-T-Q-T",
+    "nombre_punto": "E35-RESTAURANT LOS CHAMPIZ"
   }
 ]
