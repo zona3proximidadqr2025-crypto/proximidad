@@ -4012,5 +4012,32 @@
     "subcircuito": "SANTA CLARA 1",
     "id": "BALNEARIO-TURÍSTICO-PIATUA-Z3-P-P-S",
     "nombre_punto": "Balneario Turístico Piatua"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "PATATE",
+    "circuito": "PELILEO SUR",
+    "subcircuito": "PELILEO SUR 1",
+    "id": "BANCO-PICHINCHA-Z3-T-P-P",
+    "nombre_punto": "BANCO PICHINCHA"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "PATATE",
+    "circuito": "PELILEO SUR",
+    "subcircuito": "PELILEO SUR 1",
+    "id": "BANCO-PICHINCHA-Z3-T-P-P",
+    "nombre_punto": "BANCO PICHINCHA"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "PASTAZA",
+    "distrito": "PASTAZA",
+    "circuito": "SANTA CLARA",
+    "subcircuito": "SANTA CLARA 1",
+    "id": "CANTÓN.-SANTA-CLARA.-AV-2-DE-ENERO-Y-MAXIMILIANO-SPILLER-Z3-P-P-S",
+    "nombre_punto": "Cantón. Santa Clara. Av 2 de enero y Maximiliano Spiller"
   }
 ]
