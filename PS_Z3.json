@@ -3940,5 +3940,14 @@
     "subcircuito": "PUYO NORTE 2",
     "id": "MORETE-PUYU-Z3-P-P-P",
     "nombre_punto": "Morete Puyu"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "PASTAZA",
+    "distrito": "PASTAZA",
+    "circuito": "PUYO NORTE",
+    "subcircuito": "PUYO NORTE 2",
+    "id": "CETAD-CENTRO-DE-SALUD-Z3-P-P-P",
+    "nombre_punto": "CETAD CENTRO DE SALUD"
   }
 ]
