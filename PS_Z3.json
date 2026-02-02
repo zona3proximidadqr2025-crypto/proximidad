@@ -3949,5 +3949,14 @@
     "subcircuito": "PUYO NORTE 2",
     "id": "CETAD-CENTRO-DE-SALUD-Z3-P-P-P",
     "nombre_punto": "CETAD CENTRO DE SALUD"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "PASTAZA",
+    "distrito": "PASTAZA",
+    "circuito": "PUYO SUR",
+    "subcircuito": "PUYO SUR 2",
+    "id": "PARQUE-DE-LA-MUJER-Z3-P-P-P",
+    "nombre_punto": "PARQUE DE LA MUJER"
   }
 ]
