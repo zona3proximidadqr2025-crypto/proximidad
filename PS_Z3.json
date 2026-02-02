@@ -3877,5 +3877,14 @@
     "subcircuito": "YARUQUIES 1",
     "id": "BARRIO-ELEN-SAN-ANTONIO-Z3-C-R-Y",
     "nombre_punto": "BARRIO ELEN SAN ANTONIO"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "QUERO",
+    "circuito": "QUERO",
+    "subcircuito": "QUERO 1",
+    "id": "AGROPECUARIO-FERTI-SIEMBRA-Z3-T-Q-Q",
+    "nombre_punto": "AGROPECUARIO FERTI SIEMBRA"
   }
 ]
