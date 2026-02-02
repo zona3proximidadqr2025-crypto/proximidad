@@ -4039,5 +4039,14 @@
     "subcircuito": "SANTA CLARA 1",
     "id": "CANTÓN.-SANTA-CLARA.-AV-2-DE-ENERO-Y-MAXIMILIANO-SPILLER-Z3-P-P-S",
     "nombre_punto": "Cantón. Santa Clara. Av 2 de enero y Maximiliano Spiller"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "PATATE",
+    "circuito": "GARCIA MORENO",
+    "subcircuito": "GARCIA MORENO 1",
+    "id": "BARRIO-LA-LIBERTAD-Z3-T-P-G",
+    "nombre_punto": "BARRIO LA LIBERTAD"
   }
 ]
