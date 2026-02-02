@@ -3886,5 +3886,14 @@
     "subcircuito": "QUERO 1",
     "id": "AGROPECUARIO-FERTI-SIEMBRA-Z3-T-Q-Q",
     "nombre_punto": "AGROPECUARIO FERTI SIEMBRA"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "QUERO",
+    "circuito": "CEVALLOS",
+    "subcircuito": "CEVALLOS 1",
+    "id": "ENTRADA-ANDIGNATO-Z3-T-Q-C",
+    "nombre_punto": "ENTRADA ANDIGNATO"
   }
 ]
