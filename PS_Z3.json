@@ -4111,5 +4111,23 @@
     "subcircuito": "SIGCHOS 1",
     "id": "UNIDAD-EDUCATIVA-COSMOPOLITA-JUAN-MONTALVO-Z3-C-S-S",
     "nombre_punto": "Unidad Educativa Cosmopolita Juan Montalvo"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "PILLARO",
+    "circuito": "PILLARO",
+    "subcircuito": "PILLARO 2",
+    "id": "CALLE-ADOLFO-BARRIGA,-VIA-A-LA-PRIMAVERA-Z3-T-P-P",
+    "nombre_punto": "CALLE ADOLFO BARRIGA, VIA A LA PRIMAVERA"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "SIGCHOS",
+    "circuito": "SIGCHOS",
+    "subcircuito": "SIGCHOS 1",
+    "id": "LA-CLÍNICA-DEL-CELULAR-Z3-C-S-S",
+    "nombre_punto": "La clínica del Celular"
   }
 ]
