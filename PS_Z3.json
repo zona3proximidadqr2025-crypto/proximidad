@@ -3922,5 +3922,23 @@
     "subcircuito": "TISALEO 1",
     "id": "E35-RESTAURANT-LOS-CHAMPIZ-Z3-T-Q-T",
     "nombre_punto": "E35-RESTAURANT LOS CHAMPIZ"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "QUERO",
+    "circuito": "TISALEO",
+    "subcircuito": "TISALEO 1",
+    "id": "TISALEO-LAS-GUITARRAS-Z3-T-Q-T",
+    "nombre_punto": "TISALEO-LAS GUITARRAS"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "PASTAZA",
+    "distrito": "PASTAZA",
+    "circuito": "PUYO NORTE",
+    "subcircuito": "PUYO NORTE 2",
+    "id": "MORETE-PUYU-Z3-P-P-P",
+    "nombre_punto": "Morete Puyu"
   }
 ]
