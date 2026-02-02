@@ -4183,5 +4183,14 @@
     "subcircuito": "SIGCHOS 1",
     "id": "BANECUADOR-Z3-C-S-S",
     "nombre_punto": "BanEcuador"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "SIGCHOS",
+    "circuito": "SIGCHOS",
+    "subcircuito": "SIGCHOS 1",
+    "id": "MINI-MARKET-TOTITO'S-Z3-C-S-S",
+    "nombre_punto": "Mini Market Totito's"
   }
 ]
