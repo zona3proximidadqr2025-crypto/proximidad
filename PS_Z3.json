@@ -4129,5 +4129,14 @@
     "subcircuito": "SIGCHOS 1",
     "id": "LA-CLÍNICA-DEL-CELULAR-Z3-C-S-S",
     "nombre_punto": "La clínica del Celular"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "PILLARO",
+    "circuito": "PILLARO",
+    "subcircuito": "PILLARO 1",
+    "id": "PINTURAS-DJ-#2-Z3-T-P-P",
+    "nombre_punto": "PINTURAS DJ #2"
   }
 ]
