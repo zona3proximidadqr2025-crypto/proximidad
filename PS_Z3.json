@@ -4048,5 +4048,14 @@
     "subcircuito": "GARCIA MORENO 1",
     "id": "BARRIO-LA-LIBERTAD-Z3-T-P-G",
     "nombre_punto": "BARRIO LA LIBERTAD"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "PILLARO",
+    "circuito": "PILLARO",
+    "subcircuito": "PILLARO 2",
+    "id": "NOVACERO-Z3-T-P-P",
+    "nombre_punto": "NOVACERO"
   }
 ]
