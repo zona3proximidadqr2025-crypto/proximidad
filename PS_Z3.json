@@ -4138,5 +4138,32 @@
     "subcircuito": "PILLARO 1",
     "id": "PINTURAS-DJ-#2-Z3-T-P-P",
     "nombre_punto": "PINTURAS DJ #2"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "SIGCHOS",
+    "circuito": "SIGCHOS",
+    "subcircuito": "SIGCHOS 1",
+    "id": "FRIGORÍFICO-SEBITAS-Z3-C-S-S",
+    "nombre_punto": "Frigorífico Sebitas"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "SIGCHOS",
+    "circuito": "SIGCHOS",
+    "subcircuito": "SIGCHOS 1",
+    "id": "PANADERÍA-EL-ZAPALLO-Z3-C-S-S",
+    "nombre_punto": "Panadería El zapallo"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "PILLARO",
+    "circuito": "PILLARO",
+    "subcircuito": "PILLARO 2",
+    "id": "ARE-&-LIZ-Z3-T-P-P",
+    "nombre_punto": "ARE & LIZ"
   }
 ]
