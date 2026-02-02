@@ -4057,5 +4057,14 @@
     "subcircuito": "PILLARO 2",
     "id": "NOVACERO-Z3-T-P-P",
     "nombre_punto": "NOVACERO"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "PILLARO",
+    "circuito": "PILLARO",
+    "subcircuito": "PILLARO 2",
+    "id": "TIENDA-EL-PAYASO-Z3-T-P-P",
+    "nombre_punto": "TIENDA EL PAYASO"
   }
 ]
