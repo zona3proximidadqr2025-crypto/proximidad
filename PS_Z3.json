@@ -3904,5 +3904,14 @@
     "subcircuito": "MOCHA 1",
     "id": "PARQUE-CENTRAL-DE-PINGUILI-Z3-T-Q-M",
     "nombre_punto": "Parque central de Pinguili"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "QUERO",
+    "circuito": "MOCHA",
+    "subcircuito": "MOCHA 1",
+    "id": "NEPTALY-SANCHO-Z3-T-Q-M",
+    "nombre_punto": "NEPTALY SANCHO"
   }
 ]
