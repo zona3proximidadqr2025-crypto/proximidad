@@ -4075,5 +4075,32 @@
     "subcircuito": "SIGCHOS 1",
     "id": "UNIDAD-EDUCATIVA-DEL-MILENIO-BLOQUE-1-Z3-C-S-S",
     "nombre_punto": "Unidad Educativa del Milenio Bloque 1"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "SIGCHOS",
+    "circuito": "SIGCHOS",
+    "subcircuito": "SIGCHOS 1",
+    "id": "UNIDAD-EDUCATIVA-DEL-MILENIO-BLOQUE-2-Z3-C-S-S",
+    "nombre_punto": "Unidad Educativa del Milenio Bloque 2"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "PASTAZA",
+    "distrito": "PASTAZA",
+    "circuito": "FATIMA",
+    "subcircuito": "FATIMA 1",
+    "id": "VÍA-AL-TENA-INGRESO-AL-SUBCENTRO-DE-SALUD-Z3-P-P-F",
+    "nombre_punto": "Vía al Tena ingreso al Subcentro de Salud"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "PILLARO",
+    "circuito": "PILLARO",
+    "subcircuito": "PILLARO 2",
+    "id": "CALLE-LOS-GERANIOS-Y-LA-FLORIDA-Z3-T-P-P",
+    "nombre_punto": "CALLE LOS GERANIOS Y LA FLORIDA"
   }
 ]
