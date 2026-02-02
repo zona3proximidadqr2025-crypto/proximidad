@@ -4165,5 +4165,23 @@
     "subcircuito": "PILLARO 2",
     "id": "ARE-&-LIZ-Z3-T-P-P",
     "nombre_punto": "ARE & LIZ"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "PASTAZA",
+    "distrito": "PASTAZA",
+    "circuito": "PUYO NORTE",
+    "subcircuito": "PUYO NORTE 1",
+    "id": "CALLE.-PASTAZA-Y-CALLE.-COTOPAXI-Z3-P-P-P",
+    "nombre_punto": "Calle. Pastaza y Calle. Cotopaxi"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "SIGCHOS",
+    "circuito": "SIGCHOS",
+    "subcircuito": "SIGCHOS 1",
+    "id": "BANECUADOR-Z3-C-S-S",
+    "nombre_punto": "BanEcuador"
   }
 ]
