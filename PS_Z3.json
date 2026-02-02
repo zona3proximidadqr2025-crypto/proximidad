@@ -3994,5 +3994,14 @@
     "subcircuito": "SHELL MERA 1",
     "id": "PARQUE-NUEVO-AMANECER-Z3-P-P-S",
     "nombre_punto": "PARQUE NUEVO AMANECER"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "PASTAZA",
+    "distrito": "PASTAZA",
+    "circuito": "SHELL MERA",
+    "subcircuito": "SHELL MERA 2",
+    "id": "COLISEO-MERA-Z3-P-P-S",
+    "nombre_punto": "COLISEO MERA"
   }
 ]
