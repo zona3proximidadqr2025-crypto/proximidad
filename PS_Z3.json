@@ -4003,5 +4003,14 @@
     "subcircuito": "SHELL MERA 2",
     "id": "COLISEO-MERA-Z3-P-P-S",
     "nombre_punto": "COLISEO MERA"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "PASTAZA",
+    "distrito": "PASTAZA",
+    "circuito": "SANTA CLARA",
+    "subcircuito": "SANTA CLARA 1",
+    "id": "BALNEARIO-TURÍSTICO-PIATUA-Z3-P-P-S",
+    "nombre_punto": "Balneario Turístico Piatua"
   }
 ]
