@@ -3976,5 +3976,14 @@
     "subcircuito": "SHELL MERA 1",
     "id": "PARADA-DE-BUS-Z3-P-P-S",
     "nombre_punto": "PARADA DE BUS"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "PASTAZA",
+    "distrito": "PASTAZA",
+    "circuito": "SHELL MERA",
+    "subcircuito": "SHELL MERA 1",
+    "id": "AV.-LAS-COOPERATIVAS-Y-UNIDAD-NACIONAL-Z3-P-P-S",
+    "nombre_punto": "Av. Las Cooperativas y Unidad Nacional"
   }
 ]
