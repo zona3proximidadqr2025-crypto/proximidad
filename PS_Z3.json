@@ -3967,5 +3967,14 @@
     "subcircuito": "PUYO NORTE 2",
     "id": "BANCO-PICHINCHA-Z3-P-P-P",
     "nombre_punto": "BANCO PICHINCHA"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "PASTAZA",
+    "distrito": "PASTAZA",
+    "circuito": "SHELL MERA",
+    "subcircuito": "SHELL MERA 1",
+    "id": "PARADA-DE-BUS-Z3-P-P-S",
+    "nombre_punto": "PARADA DE BUS"
   }
 ]
