@@ -3895,5 +3895,14 @@
     "subcircuito": "CEVALLOS 1",
     "id": "ENTRADA-ANDIGNATO-Z3-T-Q-C",
     "nombre_punto": "ENTRADA ANDIGNATO"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "QUERO",
+    "circuito": "MOCHA",
+    "subcircuito": "MOCHA 1",
+    "id": "PARQUE-CENTRAL-DE-PINGUILI-Z3-T-Q-M",
+    "nombre_punto": "Parque central de Pinguili"
   }
 ]
