@@ -4210,5 +4210,14 @@
     "subcircuito": "SIGCHOS 1",
     "id": "FERRETERÍA-LOS-ANDES-Z3-C-S-S",
     "nombre_punto": "Ferretería los Andes"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "PASTAZA",
+    "distrito": "PASTAZA",
+    "circuito": "TARQUI",
+    "subcircuito": "TARQUI 1",
+    "id": "PLAZA-ARAY,-SALVADOR-MORALES,-CANCHA-SINTÉTICA-Z3-P-P-T",
+    "nombre_punto": "Plaza Aray, Salvador Morales, Cancha Sintética"
   }
 ]
