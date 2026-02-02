@@ -4024,15 +4024,6 @@
   },
   {
     "zona": "ZONA 3",
-    "subzona": "TUNGURAHUA",
-    "distrito": "PATATE",
-    "circuito": "PELILEO SUR",
-    "subcircuito": "PELILEO SUR 1",
-    "id": "BANCO-PICHINCHA-Z3-T-P-P",
-    "nombre_punto": "BANCO PICHINCHA"
-  },
-  {
-    "zona": "ZONA 3",
     "subzona": "PASTAZA",
     "distrito": "PASTAZA",
     "circuito": "SANTA CLARA",
@@ -4066,5 +4057,23 @@
     "subcircuito": "PILLARO 2",
     "id": "TIENDA-EL-PAYASO-Z3-T-P-P",
     "nombre_punto": "TIENDA EL PAYASO"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "PATATE",
+    "circuito": "SALASACA",
+    "subcircuito": "SALASACA 2",
+    "id": "PARROQUIA-BENITEZ-Z3-T-P-S",
+    "nombre_punto": "PARROQUIA BENITEZ"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "SIGCHOS",
+    "circuito": "SIGCHOS",
+    "subcircuito": "SIGCHOS 1",
+    "id": "UNIDAD-EDUCATIVA-DEL-MILENIO-BLOQUE-1-Z3-C-S-S",
+    "nombre_punto": "Unidad Educativa del Milenio Bloque 1"
   }
 ]
