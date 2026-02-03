@@ -4633,5 +4633,41 @@
     "subcircuito": "LA PAZ 1",
     "id": "PARQUEADERO-PARQUE-ECOLÓGICO-Z3-C-R-L",
     "nombre_punto": "PARQUEADERO PARQUE ECOLÓGICO"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "DANSANTE",
+    "circuito": "LA MERCED",
+    "subcircuito": "LA MERCED 1",
+    "id": "MINIMARKET-CHELITA-Z3-C-D-L",
+    "nombre_punto": "Minimarket chelita"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "DANSANTE",
+    "circuito": "PUJILI",
+    "subcircuito": "PUJILI 1",
+    "id": "CUSCO-METAL-Z3-C-D-P",
+    "nombre_punto": "CUSCO METAL"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "RIOBAMBA",
+    "circuito": "CAMILO PONCE",
+    "subcircuito": "CAMILO PONCE 1",
+    "id": "CALLE-EL-ESPECTADOR-Y-CALLE-PAYSANDÚ-ALADO-DE-UNA-CERVECERIA-\"EL-CHAVAL\"-Z3-C-R-C",
+    "nombre_punto": "CALLE EL ESPECTADOR Y CALLE PAYSANDÚ  ALADO DE UNA CERVECERIA \"EL CHAVAL\""
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "RIOBAMBA",
+    "circuito": "VEINTICUATRO DE MAYO",
+    "subcircuito": "VEINTICUATRO DE MAYO",
+    "id": "ENTRADA-A-LA-COMUNIDAD-SAN-JOSE-DE-MACAJI-Z3-C-R-V",
+    "nombre_punto": "ENTRADA A LA COMUNIDAD SAN JOSE DE MACAJI"
   }
 ]
