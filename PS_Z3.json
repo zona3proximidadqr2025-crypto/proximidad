@@ -4228,5 +4228,14 @@
     "subcircuito": "TARQUI 1",
     "id": "PARROQUIA,-PARQUE-CENTRAL-Z3-P-P-T",
     "nombre_punto": "Parroquia, Parque Central"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "PASTAZA",
+    "distrito": "PASTAZA",
+    "circuito": "PUYO SUR",
+    "subcircuito": "PUYO SUR 3",
+    "id": "CALLE.-ALBERTO-ZAMBRANO,-TARQUI,-PICOLINO-Z3-P-P-P",
+    "nombre_punto": "Calle. Alberto Zambrano, Tarqui, Picolino"
   }
 ]
