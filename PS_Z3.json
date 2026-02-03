@@ -4471,5 +4471,41 @@
     "subcircuito": "MULALILLO 2",
     "id": "PARADERO-EL-CUCHI-FRITO-Z3-C-S-M",
     "nombre_punto": "PARADERO EL CUCHI FRITO"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "RIOBAMBA",
+    "circuito": "SHOPPING",
+    "subcircuito": "SHOPPING 1",
+    "id": "PASEO-SHPPING/-MONUMENTO-ANTONIO-JOSÉ-DE-SUCRE-Z3-C-R-S",
+    "nombre_punto": "PASEO SHPPING/ MONUMENTO ANTONIO JOSÉ DE SUCRE"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "RIOBAMBA",
+    "circuito": "LA PAZ",
+    "subcircuito": "LA PAZ 2",
+    "id": "CASA-LADRILLO-Z3-C-R-L",
+    "nombre_punto": "CASA LADRILLO"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "RIOBAMBA",
+    "circuito": "POLITECNICA",
+    "subcircuito": "POLITECNICA 3",
+    "id": "MONSEÑOR.LEONIDAS-PROAÑO-Y-CANONIMO-RAMOS-Z3-C-R-P",
+    "nombre_punto": "MONSEÑOR.LEONIDAS PROAÑO  Y CANONIMO RAMOS"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "COLTA",
+    "circuito": "PANGOR",
+    "subcircuito": "PANGOR 1",
+    "id": "GAD-PARROQUIAL-JUAN-DE-VELASCO-Z3-C-C-P",
+    "nombre_punto": "Gad parroquial Juan de Velasco"
   }
 ]
