@@ -4903,5 +4903,14 @@
     "subcircuito": "PUJILI 1",
     "id": "\"COOPUIGUA\"-S.A-Z3-C-D-P",
     "nombre_punto": "\"COOPUIGUA\" S.A"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "DANSANTE",
+    "circuito": "SAQUISILI",
+    "subcircuito": "SAQUISILI 1",
+    "id": "UNIDAD-EDUCATIVA-NUESTRA-SEÑORA-DE-POMPEYA-Z3-C-D-S",
+    "nombre_punto": "UNIDAD EDUCATIVA NUESTRA SEÑORA DE POMPEYA"
   }
 ]
