@@ -5119,5 +5119,14 @@
     "subcircuito": "SALCEDO 1",
     "id": "COMPRA-VENTA-DE-VEHÍCULOS-VAC-MOTORS-Z3-C-S-S",
     "nombre_punto": "COMPRA VENTA DE VEHÍCULOS VAC MOTORS"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "DANSANTE",
+    "circuito": "ZUMBAGUA",
+    "subcircuito": "ZUMBAGUA 1",
+    "id": "FERIA-LIBRE-Z3-C-D-Z",
+    "nombre_punto": "FERIA LIBRE"
   }
 ]
