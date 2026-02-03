@@ -4840,5 +4840,32 @@
     "subcircuito": "PUJILI 1",
     "id": "LA-MOLIENDA-CAFETARIANA-Z3-C-D-P",
     "nombre_punto": "LA MOLIENDA CAFETARIANA"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "DANSANTE",
+    "circuito": "SAQUISILI",
+    "subcircuito": "SAQUISILI 1",
+    "id": "UNIDAD-EDUCATIVA-SAQUISILI-Z3-C-D-S",
+    "nombre_punto": "UNIDAD EDUCATIVA SAQUISILI"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "DANSANTE",
+    "circuito": "PUJILI",
+    "subcircuito": "PUJILI 1",
+    "id": "COOPERATIVA-SERVIGLORIA-Z3-C-D-P",
+    "nombre_punto": "COOPERATIVA SERVIGLORIA"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "DANSANTE",
+    "circuito": "SAQUISILI",
+    "subcircuito": "SAQUISILI 1",
+    "id": "SUPER-AHORRO-Z3-C-D-S",
+    "nombre_punto": "SUPER AHORRO"
   }
 ]
