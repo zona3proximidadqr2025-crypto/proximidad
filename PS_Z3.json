@@ -4930,5 +4930,14 @@
     "subcircuito": "SAQUISILI 1",
     "id": "ASADERO-RIKOTON-Z3-C-D-S",
     "nombre_punto": "ASADERO RIKOTON"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "SIGCHOS",
+    "circuito": "SIGCHOS",
+    "subcircuito": "SIGCHOS 1",
+    "id": "ABARROTES-ROBINSON-Z3-C-S-S",
+    "nombre_punto": "Abarrotes Robinson"
   }
 ]
