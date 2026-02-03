@@ -4237,5 +4237,14 @@
     "subcircuito": "PUYO SUR 3",
     "id": "CALLE.-ALBERTO-ZAMBRANO,-TARQUI,-PICOLINO-Z3-P-P-P",
     "nombre_punto": "Calle. Alberto Zambrano, Tarqui, Picolino"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "PASTAZA",
+    "distrito": "PASTAZA",
+    "circuito": "PUYO SUR",
+    "subcircuito": "PUYO SUR 2",
+    "id": "CALLE.-FRANCISCO-DE-ORELLANA-Y-ALBERTO-ZAMBRANO-Z3-P-P-P",
+    "nombre_punto": "Calle. Francisco de orellana y Alberto Zambrano"
   }
 ]
