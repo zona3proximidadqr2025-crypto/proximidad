@@ -4219,5 +4219,14 @@
     "subcircuito": "TARQUI 1",
     "id": "PLAZA-ARAY,-SALVADOR-MORALES,-CANCHA-SINTÉTICA-Z3-P-P-T",
     "nombre_punto": "Plaza Aray, Salvador Morales, Cancha Sintética"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "PASTAZA",
+    "distrito": "PASTAZA",
+    "circuito": "TARQUI",
+    "subcircuito": "TARQUI 1",
+    "id": "PARROQUIA,-PARQUE-CENTRAL-Z3-P-P-T",
+    "nombre_punto": "Parroquia, Parque Central"
   }
 ]
