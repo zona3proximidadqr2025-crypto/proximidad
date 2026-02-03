@@ -4777,5 +4777,41 @@
     "subcircuito": "CAMINOS AL SOL 1",
     "id": "COSTA-RICA-Y-EDELBERTO-BONILLA-Z3-C-R-C",
     "nombre_punto": "COSTA RICA Y EDELBERTO BONILLA"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "DANSANTE",
+    "circuito": "PUJILI",
+    "subcircuito": "PUJILI 1",
+    "id": "SANTUARIO-DE-LA-BUENA-ESPERANZA-Z3-C-D-P",
+    "nombre_punto": "SANTUARIO DE LA BUENA ESPERANZA"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "COLTA",
+    "circuito": "CEBADAS",
+    "subcircuito": "CEBADAS 1",
+    "id": "FERRETERÍA-URQUIZO-Z3-C-C-C",
+    "nombre_punto": "Ferretería Urquizo"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "DANSANTE",
+    "circuito": "PUJILI",
+    "subcircuito": "PUJILI 1",
+    "id": "ABARROTES-SAMY-Z3-C-D-P",
+    "nombre_punto": "ABARROTES SAMY"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "RIOBAMBA",
+    "circuito": "LICTO",
+    "subcircuito": "LICTO 1",
+    "id": "MERCADO-CENTRAL-DE-LICTO-Z3-C-R-L",
+    "nombre_punto": "MERCADO CENTRAL DE LICTO"
   }
 ]
