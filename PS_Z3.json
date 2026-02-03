@@ -4246,5 +4246,14 @@
     "subcircuito": "PUYO SUR 2",
     "id": "CALLE.-FRANCISCO-DE-ORELLANA-Y-ALBERTO-ZAMBRANO-Z3-P-P-P",
     "nombre_punto": "Calle. Francisco de orellana y Alberto Zambrano"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "PASTAZA",
+    "distrito": "PASTAZA",
+    "circuito": "CANELOS",
+    "subcircuito": "CANELOS 1",
+    "id": "VÍA.-MACAS,-PARQUE-VERACRUZ.-Z3-P-P-C",
+    "nombre_punto": "Vía. Macas, Parque Veracruz."
   }
 ]
