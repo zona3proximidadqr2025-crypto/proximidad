@@ -4813,5 +4813,23 @@
     "subcircuito": "LICTO 1",
     "id": "MERCADO-CENTRAL-DE-LICTO-Z3-C-R-L",
     "nombre_punto": "MERCADO CENTRAL DE LICTO"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "COLTA",
+    "circuito": "CEBADAS",
+    "subcircuito": "CEBADAS 1",
+    "id": "FARMACIA-MULTI-CEBADAS-Z3-C-C-C",
+    "nombre_punto": "Farmacia Multi Cebadas"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "DANSANTE",
+    "circuito": "PUJILI",
+    "subcircuito": "PUJILI 1",
+    "id": "PASAJE-CARLOS-ALBERTO-TORO-Z3-C-D-P",
+    "nombre_punto": "PASAJE CARLOS ALBERTO TORO"
   }
 ]
