@@ -4741,5 +4741,41 @@
     "subcircuito": "COLUMBE 1",
     "id": "FARMACIA-MEDIPHARM-SAN-MARTÍN-Z3-C-C-C",
     "nombre_punto": "Farmacia medipharm San Martín"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "RIOBAMBA",
+    "circuito": "PUNIN",
+    "subcircuito": "PUNIN 1",
+    "id": "PARQUE-CENTRAL-PUNIN-Z3-C-R-P",
+    "nombre_punto": "PARQUE CENTRAL PUNIN"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "RIOBAMBA",
+    "circuito": "CAMILO PONCE",
+    "subcircuito": "CAMILO PONCE 2",
+    "id": "ABASTOS-MAIGUA-AV.-RIVERA-Y-AV.-LEÓNIDAS-PLAZA-Z3-C-R-C",
+    "nombre_punto": "ABASTOS MAIGUA Av. Rivera y Av. Leónidas Plaza"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "PALLATANGA",
+    "circuito": "CUMANDA",
+    "subcircuito": "CUMANDA 1",
+    "id": "TIENDA-NANCI-DEL-ROCIO-Z3-C-P-C",
+    "nombre_punto": "TIENDA NANCI DEL ROCIO"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "RIOBAMBA",
+    "circuito": "CAMINOS AL SOL",
+    "subcircuito": "CAMINOS AL SOL 1",
+    "id": "COSTA-RICA-Y-EDELBERTO-BONILLA-Z3-C-R-C",
+    "nombre_punto": "COSTA RICA Y EDELBERTO BONILLA"
   }
 ]
