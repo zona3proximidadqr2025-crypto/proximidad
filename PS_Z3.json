@@ -5002,5 +5002,14 @@
     "subcircuito": "LA VICTORIA 1",
     "id": "COOPERATIVA-DE-TAXIS-RUTAS-DEL-ALFARERO-Z3-C-D-L",
     "nombre_punto": "Cooperativa de taxis rutas del alfarero"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "SALCEDO",
+    "circuito": "MULALILLO",
+    "subcircuito": "MULALILLO 2",
+    "id": "INSUMOS-AGRICOLAS-KIMAGRO-Z3-C-S-M",
+    "nombre_punto": "INSUMOS AGRICOLAS KIMAGRO"
   }
 ]
