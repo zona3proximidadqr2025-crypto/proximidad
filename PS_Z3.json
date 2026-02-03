@@ -4732,5 +4732,14 @@
     "subcircuito": "SAN ALFONSO 1",
     "id": "EL-GOLOSITO-Z3-C-R-S",
     "nombre_punto": "EL GOLOSITO"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "COLTA",
+    "circuito": "COLUMBE",
+    "subcircuito": "COLUMBE 1",
+    "id": "FARMACIA-MEDIPHARM-SAN-MARTÍN-Z3-C-C-C",
+    "nombre_punto": "Farmacia medipharm San Martín"
   }
 ]
