@@ -4381,5 +4381,32 @@
     "subcircuito": "ELOY ALFARO 1",
     "id": "LOCAL-MUNDO-VENTAS-ECUADOR-Z3-C-L-E",
     "nombre_punto": "LOCAL MUNDO VENTAS ECUADOR"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "SALCEDO",
+    "circuito": "MULALILLO",
+    "subcircuito": "MULALILLO 2",
+    "id": "AGROVIDA-Z3-C-S-M",
+    "nombre_punto": "AGROVIDA"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "RIOBAMBA",
+    "circuito": "SAN LUIS",
+    "subcircuito": "SAN LUIS 2",
+    "id": "FREE-SERVER--AV.-JUAN-FÉLIX-PROAÑO-Y-MALTA-Z3-C-R-S",
+    "nombre_punto": "FREE SERVER- AV. JUAN FÉLIX PROAÑO Y MALTA"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "PANGUA",
+    "circuito": "EL CORAZON",
+    "subcircuito": "EL CORAZON 1",
+    "id": "COMERCIAL-PLAZA-CENTRAL-Z3-C-P-E",
+    "nombre_punto": "COMERCIAL PLAZA CENTRAL"
   }
 ]
