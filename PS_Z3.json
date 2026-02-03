@@ -4539,24 +4539,6 @@
     "zona": "ZONA 3",
     "subzona": "COTOPAXI",
     "distrito": "DANSANTE",
-    "circuito": "PUJILI",
-    "subcircuito": "PUJILI 1",
-    "id": "LAVADORA-SPA-CARS-Z3-C-D-P",
-    "nombre_punto": "LAVADORA SPA CARS"
-  },
-  {
-    "zona": "ZONA 3",
-    "subzona": "COTOPAXI",
-    "distrito": "DANSANTE",
-    "circuito": "PUJILI",
-    "subcircuito": "PUJILI 1",
-    "id": "LAVADORA-SPA-CARS-Z3-C-D-P",
-    "nombre_punto": "LAVADORA SPA CARS"
-  },
-  {
-    "zona": "ZONA 3",
-    "subzona": "COTOPAXI",
-    "distrito": "DANSANTE",
     "circuito": "LA MERCED",
     "subcircuito": "LA MERCED 1",
     "id": "COMERCIAL-NINASUNTA-Z3-C-D-L",
