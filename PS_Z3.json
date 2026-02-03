@@ -4273,5 +4273,14 @@
     "subcircuito": "SAN ANDRES 1",
     "id": "COLEGIO-SAN-ANDRÉS-Z3-C-G-G",
     "nombre_punto": "COLEGIO SAN ANDRÉS"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LATACUNGA",
+    "circuito": "ELOY ALFARO",
+    "subcircuito": "ELOY ALFARO 1",
+    "id": "CENTRO-DE-NEGOCIO-YUCAILLA-Z3-C-L-E",
+    "nombre_punto": "CENTRO DE NEGOCIO YUCAILLA"
   }
 ]
