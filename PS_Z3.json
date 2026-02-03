@@ -4255,5 +4255,23 @@
     "subcircuito": "CANELOS 1",
     "id": "VÍA.-MACAS,-PARQUE-VERACRUZ.-Z3-P-P-C",
     "nombre_punto": "Vía. Macas, Parque Veracruz."
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "GUANO",
+    "circuito": "SAN ANDRES",
+    "subcircuito": "SAN ANDRES 1",
+    "id": "COLEGIO-SAN-ANDRÉS-Z3-C-G-S",
+    "nombre_punto": "COLEGIO SAN ANDRÉS"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "GUANO",
+    "circuito": "SAN ANDRES",
+    "subcircuito": "SAN ANDRES 1",
+    "id": "COLEGIO-SAN-ANDRÉS-Z3-C-G-G",
+    "nombre_punto": "COLEGIO SAN ANDRÉS"
   }
 ]
