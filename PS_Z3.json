@@ -4831,5 +4831,14 @@
     "subcircuito": "PUJILI 1",
     "id": "PASAJE-CARLOS-ALBERTO-TORO-Z3-C-D-P",
     "nombre_punto": "PASAJE CARLOS ALBERTO TORO"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "DANSANTE",
+    "circuito": "PUJILI",
+    "subcircuito": "PUJILI 1",
+    "id": "LA-MOLIENDA-CAFETARIANA-Z3-C-D-P",
+    "nombre_punto": "LA MOLIENDA CAFETARIANA"
   }
 ]
