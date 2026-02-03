@@ -4984,5 +4984,23 @@
     "subcircuito": "LA VICTORIA 1",
     "id": "CASA-BARRIAL-MULINLIVI-NORTE-Z3-C-D-L",
     "nombre_punto": "Casa barrial Mulinlivi Norte"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "DANSANTE",
+    "circuito": "ZUMBAGUA",
+    "subcircuito": "ZUMBAGUA 1",
+    "id": "LICORERÍA-EL-GUARO-Z3-C-D-Z",
+    "nombre_punto": "LICORERÍA EL GUARO"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "DANSANTE",
+    "circuito": "LA VICTORIA",
+    "subcircuito": "LA VICTORIA 1",
+    "id": "COOPERATIVA-DE-TAXIS-RUTAS-DEL-ALFARERO-Z3-C-D-L",
+    "nombre_punto": "Cooperativa de taxis rutas del alfarero"
   }
 ]
