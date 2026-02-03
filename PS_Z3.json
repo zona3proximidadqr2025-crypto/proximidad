@@ -4894,5 +4894,14 @@
     "subcircuito": "SAQUISILI 1",
     "id": "IMPORTADORA-MEJIA-Z3-C-D-S",
     "nombre_punto": "IMPORTADORA MEJIA"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "DANSANTE",
+    "circuito": "PUJILI",
+    "subcircuito": "PUJILI 1",
+    "id": "\"COOPUIGUA\"-S.A-Z3-C-D-P",
+    "nombre_punto": "\"COOPUIGUA\" S.A"
   }
 ]
