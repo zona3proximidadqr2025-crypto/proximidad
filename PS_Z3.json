@@ -4309,5 +4309,41 @@
     "subcircuito": "LA CONDAMINE 2",
     "id": "PLAZA-DE-TOROS-Z3-C-R-L",
     "nombre_punto": "PLAZA DE TOROS"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LATACUNGA",
+    "circuito": "ELOY ALFARO",
+    "subcircuito": "ELOY ALFARO 1",
+    "id": "COMERCIAL-LOS-ANGELES-Z3-C-L-E",
+    "nombre_punto": "COMERCIAL LOS ANGELES"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "RIOBAMBA",
+    "circuito": "SAN LUIS",
+    "subcircuito": "SAN LUIS 2",
+    "id": "CRS---LEOLPOLDO-FREIRE-Z3-C-R-S",
+    "nombre_punto": "CRS - LEOLPOLDO FREIRE"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "SALCEDO",
+    "circuito": "MULALILLO",
+    "subcircuito": "MULALILLO 1",
+    "id": "COOPERATIVA-9-DE-OCTUBRE-Z3-C-S-M",
+    "nombre_punto": "Cooperativa 9 de Octubre"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "RIOBAMBA",
+    "circuito": "PUCARA",
+    "subcircuito": "PUCARA 1",
+    "id": "CAI-AV.-9-DE-OCTUBRE-Z3-C-R-P",
+    "nombre_punto": "CAI-AV. 9 DE OCTUBRE"
   }
 ]
