@@ -4705,5 +4705,23 @@
     "subcircuito": "SAN ALFONSO 2",
     "id": "PAPELERÍA-Y-BAZAR-PARQUE-PUEBLO-UNIDO-Z3-C-R-S",
     "nombre_punto": "PAPELERÍA Y BAZAR PARQUE PUEBLO UNIDO"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "PALLATANGA",
+    "circuito": "CUMANDA",
+    "subcircuito": "CUMANDA 2",
+    "id": "GASOLINERA-CHALGUAYACU-Z3-C-P-C",
+    "nombre_punto": "GASOLINERA CHALGUAYACU"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "RIOBAMBA",
+    "circuito": "CAMINOS AL SOL",
+    "subcircuito": "CAMINOS AL SOL 1",
+    "id": "LAS-VEGAS-Z3-C-R-C",
+    "nombre_punto": "LAS VEGAS"
   }
 ]
