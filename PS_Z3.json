@@ -5011,5 +5011,32 @@
     "subcircuito": "MULALILLO 2",
     "id": "INSUMOS-AGRICOLAS-KIMAGRO-Z3-C-S-M",
     "nombre_punto": "INSUMOS AGRICOLAS KIMAGRO"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "DANSANTE",
+    "circuito": "LA VICTORIA",
+    "subcircuito": "LA VICTORIA 1",
+    "id": "BAZAR-Y-PAPELERÍA-LA-VICTORIA-Z3-C-D-L",
+    "nombre_punto": "Bazar y papelería la Victoria"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "SALCEDO",
+    "circuito": "SALCEDO",
+    "subcircuito": "SALCEDO 2",
+    "id": "GASOLINERA-PRIMAX-Z3-C-S-S",
+    "nombre_punto": "GASOLINERA PRIMAX"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "DANSANTE",
+    "circuito": "ZUMBAGUA",
+    "subcircuito": "ZUMBAGUA 1",
+    "id": "GAD-ZUMBAHUA-Z3-C-D-Z",
+    "nombre_punto": "GAD ZUMBAHUA"
   }
 ]
