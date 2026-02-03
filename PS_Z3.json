@@ -5074,5 +5074,23 @@
     "subcircuito": "ZUMBAGUA 1",
     "id": "RESTAURANTE-CRUZ-DEL-SABOR-Z3-C-D-Z",
     "nombre_punto": "RESTAURANTE CRUZ DEL SABOR"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "SALCEDO",
+    "circuito": "SALCEDO",
+    "subcircuito": "SALCEDO 2",
+    "id": "FERRETERIA-EL-MAESTRO-Z3-C-S-S",
+    "nombre_punto": "FERRETERIA EL MAESTRO"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "DANSANTE",
+    "circuito": "ZUMBAGUA",
+    "subcircuito": "ZUMBAGUA 1",
+    "id": "U.E-CACIQUE-TUMBALÁ-Z3-C-D-Z",
+    "nombre_punto": "U.E  CACIQUE TUMBALÁ"
   }
 ]
