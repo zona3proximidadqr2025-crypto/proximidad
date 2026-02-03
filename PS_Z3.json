@@ -4957,5 +4957,23 @@
     "subcircuito": "ZUMBAGUA 1",
     "id": "MEDICAL-FARMACY-Z3-C-D-Z",
     "nombre_punto": "MEDICAL FARMACY"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "DANSANTE",
+    "circuito": "ZUMBAGUA",
+    "subcircuito": "ZUMBAGUA 1",
+    "id": "KUCAYO-EXPRESS-Z3-C-D-Z",
+    "nombre_punto": "KUCAYO EXPRESS"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "DANSANTE",
+    "circuito": "ZUMBAGUA",
+    "subcircuito": "ZUMBAGUA 1",
+    "id": "KUCAYO-EXPRESS-Z3-C-D-Z",
+    "nombre_punto": "KUCAYO EXPRESS"
   }
 ]
