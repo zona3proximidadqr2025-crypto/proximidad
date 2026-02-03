@@ -4669,5 +4669,41 @@
     "subcircuito": "VEINTICUATRO DE MAYO",
     "id": "ENTRADA-A-LA-COMUNIDAD-SAN-JOSE-DE-MACAJI-Z3-C-R-V",
     "nombre_punto": "ENTRADA A LA COMUNIDAD SAN JOSE DE MACAJI"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "RIOBAMBA",
+    "circuito": "SAN ALFONSO",
+    "subcircuito": "SAN ALFONSO 1",
+    "id": "PAPELERÍA-Y-BAZAR,-PARQUE-PUEBLO-UNIDO-Z3-C-R-S",
+    "nombre_punto": "Papelería y bazar, parque pueblo unido"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "DANSANTE",
+    "circuito": "PUJILI",
+    "subcircuito": "PUJILI 1",
+    "id": "GASOLINERA-MERIZALDE-Z3-C-D-P",
+    "nombre_punto": "GASOLINERA MERIZALDE"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "BAÑOS",
+    "circuito": "BAÑOS",
+    "subcircuito": "BAÑOS 2",
+    "id": "ZONA-DE-LOS-BARES-Z3-T-B-B",
+    "nombre_punto": "Zona de los bares"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "RIOBAMBA",
+    "circuito": "SAN ALFONSO",
+    "subcircuito": "SAN ALFONSO 2",
+    "id": "PAPELERÍA-Y-BAZAR-PARQUE-PUEBLO-UNIDO-Z3-C-R-S",
+    "nombre_punto": "PAPELERÍA Y BAZAR PARQUE PUEBLO UNIDO"
   }
 ]
