@@ -4408,5 +4408,41 @@
     "subcircuito": "EL CORAZON 1",
     "id": "COMERCIAL-PLAZA-CENTRAL-Z3-C-P-E",
     "nombre_punto": "COMERCIAL PLAZA CENTRAL"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "RIOBAMBA",
+    "circuito": "SANTA CRUZ",
+    "subcircuito": "SANTA CRUZ 1",
+    "id": "INGRESO-A-SANTA-CRUZ-Z3-C-R-S",
+    "nombre_punto": "INGRESO A SANTA CRUZ"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "RIOBAMBA",
+    "circuito": "QUIMIAG",
+    "subcircuito": "QUIMIAG 1",
+    "id": "QUIMIAG-FRENTE-AL-PARQUE-CENTRAL-PARADA-DE-BUSES-Z3-C-R-Q",
+    "nombre_punto": "QUIMIAG FRENTE AL PARQUE CENTRAL PARADA DE BUSES"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "GUANO",
+    "circuito": "GUANO",
+    "subcircuito": "GUANO 1",
+    "id": "LA-CAPILLA-PARADA-DE-TAXIS-PANATAX-Z3-C-G-G",
+    "nombre_punto": "LA CAPILLA PARADA DE TAXIS PANATAX"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "PANGUA",
+    "circuito": "EL CORAZON",
+    "subcircuito": "EL CORAZON 1",
+    "id": "PANADERIA-\"PAN-DE-AMBATO\"-Z3-C-P-E",
+    "nombre_punto": "PANADERIA \"PAN DE AMBATO\""
   }
 ]
