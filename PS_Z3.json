@@ -4606,5 +4606,32 @@
     "subcircuito": "LA MERCED 1",
     "id": "ESCUELA-DE-EDUCACIÓN-BÁSICA-GUARANDA-Z3-C-D-L",
     "nombre_punto": "ESCUELA DE EDUCACIÓN BÁSICA GUARANDA"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "DANSANTE",
+    "circuito": "PUJILI",
+    "subcircuito": "PUJILI 1",
+    "id": "LA-CLINICA-DE-LA-LLANTA-Z3-C-D-P",
+    "nombre_punto": "LA CLINICA DE LA LLANTA"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "RIOBAMBA",
+    "circuito": "VEINTICUATRO DE MAYO",
+    "subcircuito": "VEINTICUATRO DE MAYO",
+    "id": "PARQUE-CENTRAL-DE-LICAN-Z3-C-R-V",
+    "nombre_punto": "PARQUE CENTRAL DE LICAN"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "RIOBAMBA",
+    "circuito": "LA PAZ",
+    "subcircuito": "LA PAZ 1",
+    "id": "PARQUEADERO-PARQUE-ECOLÓGICO-Z3-C-R-L",
+    "nombre_punto": "PARQUEADERO PARQUE ECOLÓGICO"
   }
 ]
