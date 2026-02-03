@@ -4444,5 +4444,23 @@
     "subcircuito": "EL CORAZON 1",
     "id": "PANADERIA-\"PAN-DE-AMBATO\"-Z3-C-P-E",
     "nombre_punto": "PANADERIA \"PAN DE AMBATO\""
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "PANGUA",
+    "circuito": "EL CORAZON",
+    "subcircuito": "EL CORAZON 1",
+    "id": "COMEDOR-5-ESQUINAS-Z3-C-P-E",
+    "nombre_punto": "COMEDOR 5 ESQUINAS"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "PANGUA",
+    "circuito": "EL CORAZON",
+    "subcircuito": "EL CORAZON 1",
+    "id": "COOPERATIVA-TRANSPORTES-PUJILI-Z3-C-P-E",
+    "nombre_punto": "COOPERATIVA TRANSPORTES PUJILI"
   }
 ]
