@@ -4570,5 +4570,32 @@
     "subcircuito": "VEINTICUATRO DE MAYO",
     "id": "SECTOR-MEDIA-LUNA-Z3-C-R-V",
     "nombre_punto": "SECTOR MEDIA LUNA"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "SALCEDO",
+    "circuito": "SANTA ANA",
+    "subcircuito": "SANTA ANA 1",
+    "id": "PANADERÍA-SANTA-ANANITA-Z3-C-S-S",
+    "nombre_punto": "Panadería Santa Ananita"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "DANSANTE",
+    "circuito": "LA MERCED",
+    "subcircuito": "LA MERCED 1",
+    "id": "CENTRO-DE-ESTERILIZACIÓN-CANINA-Y-FELINA-Z3-C-D-L",
+    "nombre_punto": "CENTRO DE ESTERILIZACIÓN CANINA Y FELINA"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "RIOBAMBA",
+    "circuito": "SHOPPING",
+    "subcircuito": "SHOPPING 1",
+    "id": "GASOLINERA-PRMAX-VIA-A-GUANO-Z3-C-R-S",
+    "nombre_punto": "GASOLINERA PRMAX VIA A GUANO"
   }
 ]
