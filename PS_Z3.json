@@ -4723,5 +4723,14 @@
     "subcircuito": "CAMINOS AL SOL 1",
     "id": "LAS-VEGAS-Z3-C-R-C",
     "nombre_punto": "LAS VEGAS"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "RIOBAMBA",
+    "circuito": "SAN ALFONSO",
+    "subcircuito": "SAN ALFONSO 1",
+    "id": "EL-GOLOSITO-Z3-C-R-S",
+    "nombre_punto": "EL GOLOSITO"
   }
 ]
