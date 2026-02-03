@@ -4921,5 +4921,14 @@
     "subcircuito": "SAQUISILI 1",
     "id": "HOGAR-DEPORTIVO-Z3-C-D-S",
     "nombre_punto": "HOGAR DEPORTIVO"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "DANSANTE",
+    "circuito": "SAQUISILI",
+    "subcircuito": "SAQUISILI 1",
+    "id": "ASADERO-RIKOTON-Z3-C-D-S",
+    "nombre_punto": "ASADERO RIKOTON"
   }
 ]
