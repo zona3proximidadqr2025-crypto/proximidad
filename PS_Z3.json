@@ -4930,5 +4930,14 @@
     "subcircuito": "LA ESTACION 1",
     "id": "VELOZ-Y-CARLOS-ZAMBRANO-Z3-C-R-L",
     "nombre_punto": "Veloz y Carlos Zambrano"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "RIOBAMBA",
+    "circuito": "TERMINAL TERRESTRE",
+    "subcircuito": "TERMINAL TERRESTRE 1",
+    "id": "AV.DANIEL-LEON-BORJA-Y-AUTACHI-Z3-C-R-T",
+    "nombre_punto": "AV.DANIEL LEON BORJA Y AUTACHI"
   }
 ]
