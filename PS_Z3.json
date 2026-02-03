@@ -4597,5 +4597,14 @@
     "subcircuito": "SHOPPING 1",
     "id": "GASOLINERA-PRMAX-VIA-A-GUANO-Z3-C-R-S",
     "nombre_punto": "GASOLINERA PRMAX VIA A GUANO"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "DANSANTE",
+    "circuito": "LA MERCED",
+    "subcircuito": "LA MERCED 1",
+    "id": "ESCUELA-DE-EDUCACIÓN-BÁSICA-GUARANDA-Z3-C-D-L",
+    "nombre_punto": "ESCUELA DE EDUCACIÓN BÁSICA GUARANDA"
   }
 ]
