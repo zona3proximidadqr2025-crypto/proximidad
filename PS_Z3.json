@@ -4345,5 +4345,41 @@
     "subcircuito": "PUCARA 1",
     "id": "CAI-AV.-9-DE-OCTUBRE-Z3-C-R-P",
     "nombre_punto": "CAI-AV. 9 DE OCTUBRE"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "GUANO",
+    "circuito": "GUANO",
+    "subcircuito": "GUANO 2",
+    "id": "PARQUE-CENTRAL-DE-LA-PARROQUIA-SAN-GERARDO-Z3-C-G-G",
+    "nombre_punto": "PARQUE CENTRAL DE LA PARROQUIA SAN GERARDO"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "RIOBAMBA",
+    "circuito": "LA CONDAMINE",
+    "subcircuito": "LA CONDAMINE 1",
+    "id": "AHÍ-ES-Z3-C-R-L",
+    "nombre_punto": "AHÍ ES"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "COLTA",
+    "circuito": "PANGOR",
+    "subcircuito": "PANGOR 1",
+    "id": "ESTACIÓN-DE-SERVICIO-EL-TABLÓN-Z3-C-C-P",
+    "nombre_punto": "Estación de servicio el tablón"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LATACUNGA",
+    "circuito": "ELOY ALFARO",
+    "subcircuito": "ELOY ALFARO 1",
+    "id": "LOCAL-MUNDO-VENTAS-ECUADOR-Z3-C-L-E",
+    "nombre_punto": "LOCAL MUNDO VENTAS ECUADOR"
   }
 ]
