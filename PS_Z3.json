@@ -4462,5 +4462,14 @@
     "subcircuito": "EL CORAZON 1",
     "id": "COOPERATIVA-TRANSPORTES-PUJILI-Z3-C-P-E",
     "nombre_punto": "COOPERATIVA TRANSPORTES PUJILI"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "SALCEDO",
+    "circuito": "MULALILLO",
+    "subcircuito": "MULALILLO 2",
+    "id": "PARADERO-EL-CUCHI-FRITO-Z3-C-S-M",
+    "nombre_punto": "PARADERO EL CUCHI FRITO"
   }
 ]
