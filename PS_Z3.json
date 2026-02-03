@@ -5110,5 +5110,14 @@
     "subcircuito": "ZUMBAGUA 1",
     "id": "GASOLINERA-PETROECUADOR-Z3-C-D-Z",
     "nombre_punto": "GASOLINERA  PETROECUADOR"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "SALCEDO",
+    "circuito": "SALCEDO",
+    "subcircuito": "SALCEDO 1",
+    "id": "COMPRA-VENTA-DE-VEHÍCULOS-VAC-MOTORS-Z3-C-S-S",
+    "nombre_punto": "COMPRA VENTA DE VEHÍCULOS VAC MOTORS"
   }
 ]
