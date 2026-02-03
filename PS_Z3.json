@@ -4507,5 +4507,68 @@
     "subcircuito": "PANGOR 1",
     "id": "GAD-PARROQUIAL-JUAN-DE-VELASCO-Z3-C-C-P",
     "nombre_punto": "Gad parroquial Juan de Velasco"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "DANSANTE",
+    "circuito": "PUJILI",
+    "subcircuito": "PUJILI 1",
+    "id": "LUBRICADORA-SPA-CARS-Z3-C-D-P",
+    "nombre_punto": "LUBRICADORA  SPA CARS"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "RIOBAMBA",
+    "circuito": "PUCARA",
+    "subcircuito": "PUCARA 2",
+    "id": "KINDER-LAND-AV.-SIMON-BOLIVAR-Y-LA-PAZ-Z3-C-R-P",
+    "nombre_punto": "KINDER LAND-AV. SIMON BOLIVAR Y LA PAZ"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "RIOBAMBA",
+    "circuito": "POLITECNICA",
+    "subcircuito": "POLITECNICA 2",
+    "id": "MONSEÑOR.LEONIDAS-PROAÑO-Y-GUARANIES-Z3-C-R-P",
+    "nombre_punto": "MONSEÑOR.LEONIDAS PROAÑO Y GUARANIES"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "DANSANTE",
+    "circuito": "PUJILI",
+    "subcircuito": "PUJILI 1",
+    "id": "LAVADORA-SPA-CARS-Z3-C-D-P",
+    "nombre_punto": "LAVADORA SPA CARS"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "DANSANTE",
+    "circuito": "PUJILI",
+    "subcircuito": "PUJILI 1",
+    "id": "LAVADORA-SPA-CARS-Z3-C-D-P",
+    "nombre_punto": "LAVADORA SPA CARS"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "DANSANTE",
+    "circuito": "LA MERCED",
+    "subcircuito": "LA MERCED 1",
+    "id": "COMERCIAL-NINASUNTA-Z3-C-D-L",
+    "nombre_punto": "Comercial ninasunta"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "RIOBAMBA",
+    "circuito": "VEINTICUATRO DE MAYO",
+    "subcircuito": "VEINTICUATRO DE MAYO",
+    "id": "SECTOR-MEDIA-LUNA-Z3-C-R-V",
+    "nombre_punto": "SECTOR MEDIA LUNA"
   }
 ]
