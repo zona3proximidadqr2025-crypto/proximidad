@@ -5092,5 +5092,23 @@
     "subcircuito": "ZUMBAGUA 1",
     "id": "U.E-CACIQUE-TUMBALÁ-Z3-C-D-Z",
     "nombre_punto": "U.E  CACIQUE TUMBALÁ"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "SALCEDO",
+    "circuito": "SALCEDO",
+    "subcircuito": "SALCEDO 2",
+    "id": "PRODUCTOS-DE-LIMPIEZA-SAN-ANTONIO-Z3-C-S-S",
+    "nombre_punto": "PRODUCTOS DE LIMPIEZA SAN ANTONIO"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "DANSANTE",
+    "circuito": "ZUMBAGUA",
+    "subcircuito": "ZUMBAGUA 1",
+    "id": "GASOLINERA-PETROECUADOR-Z3-C-D-Z",
+    "nombre_punto": "GASOLINERA  PETROECUADOR"
   }
 ]
