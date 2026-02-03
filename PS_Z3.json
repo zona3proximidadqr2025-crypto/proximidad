@@ -4939,5 +4939,23 @@
     "subcircuito": "TERMINAL TERRESTRE 1",
     "id": "AV.DANIEL-LEON-BORJA-Y-AUTACHI-Z3-C-R-T",
     "nombre_punto": "AV.DANIEL LEON BORJA Y AUTACHI"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "RIOBAMBA",
+    "circuito": "LA ESTACION",
+    "subcircuito": "LA ESTACION 1",
+    "id": "LOS-OLIVOS-Z3-C-R-L",
+    "nombre_punto": "Los olivos"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "DANSANTE",
+    "circuito": "ZUMBAGUA",
+    "subcircuito": "ZUMBAGUA 1",
+    "id": "MEDICAL-FARMACY-Z3-C-D-Z",
+    "nombre_punto": "MEDICAL FARMACY"
   }
 ]
