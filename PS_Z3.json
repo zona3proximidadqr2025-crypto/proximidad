@@ -5038,5 +5038,32 @@
     "subcircuito": "ZUMBAGUA 1",
     "id": "GAD-ZUMBAHUA-Z3-C-D-Z",
     "nombre_punto": "GAD ZUMBAHUA"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "DANSANTE",
+    "circuito": "LA VICTORIA",
+    "subcircuito": "LA VICTORIA 1",
+    "id": "VIVIERES-CUATRO-ESQUINAS-DEL-TEJAR-Z3-C-D-L",
+    "nombre_punto": "Vivieres Cuatro Esquinas del Tejar"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "DANSANTE",
+    "circuito": "ZUMBAGUA",
+    "subcircuito": "ZUMBAGUA 1",
+    "id": "BANECUADOR-Z3-C-D-Z",
+    "nombre_punto": "BANECUADOR"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "SALCEDO",
+    "circuito": "SALCEDO",
+    "subcircuito": "SALCEDO 1",
+    "id": "RESTAURANTE-CHEF'S-Z3-C-S-S",
+    "nombre_punto": "RESTAURANTE CHEF'S"
   }
 ]
