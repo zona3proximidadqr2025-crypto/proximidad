@@ -5128,5 +5128,14 @@
     "subcircuito": "ZUMBAGUA 1",
     "id": "FERIA-LIBRE-Z3-C-D-Z",
     "nombre_punto": "FERIA LIBRE"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "SALCEDO",
+    "circuito": "SALCEDO",
+    "subcircuito": "SALCEDO 1",
+    "id": "VIVERES-LAS-RIELES-Z3-C-S-S",
+    "nombre_punto": "VIVERES LAS RIELES"
   }
 ]
