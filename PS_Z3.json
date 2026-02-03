@@ -4939,5 +4939,14 @@
     "subcircuito": "SIGCHOS 1",
     "id": "ABARROTES-ROBINSON-Z3-C-S-S",
     "nombre_punto": "Abarrotes Robinson"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "RIOBAMBA",
+    "circuito": "LA ESTACION",
+    "subcircuito": "LA ESTACION 1",
+    "id": "VELOZ-Y-CARLOS-ZAMBRANO-Z3-C-R-L",
+    "nombre_punto": "Veloz y Carlos Zambrano"
   }
 ]
