@@ -4291,5 +4291,23 @@
     "subcircuito": "GUANO 2",
     "id": "SAN-NICOLAS-DE-LAS-ABRAS-Z3-C-G-G",
     "nombre_punto": "SAN NICOLAS DE LAS ABRAS"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LATACUNGA",
+    "circuito": "ELOY ALFARO",
+    "subcircuito": "ELOY ALFARO 2",
+    "id": "COOPERATIVA-VIRGEN-DEL-CISNE-Z3-C-L-E",
+    "nombre_punto": "COOPERATIVA VIRGEN DEL CISNE"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "RIOBAMBA",
+    "circuito": "LA CONDAMINE",
+    "subcircuito": "LA CONDAMINE 2",
+    "id": "PLAZA-DE-TOROS-Z3-C-R-L",
+    "nombre_punto": "PLAZA DE TOROS"
   }
 ]
