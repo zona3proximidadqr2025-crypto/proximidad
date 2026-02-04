@@ -5137,5 +5137,14 @@
     "subcircuito": "SALCEDO 1",
     "id": "VIVERES-LAS-RIELES-Z3-C-S-S",
     "nombre_punto": "VIVERES LAS RIELES"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "SALCEDO",
+    "circuito": "SANTA ANA",
+    "subcircuito": "SANTA ANA 1",
+    "id": "HELADERIA-REINA-DEL-CISNE-Z3-C-S-S",
+    "nombre_punto": "HELADERIA REINA DEL CISNE"
   }
 ]
