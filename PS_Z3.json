@@ -4971,15 +4971,6 @@
     "zona": "ZONA 3",
     "subzona": "COTOPAXI",
     "distrito": "DANSANTE",
-    "circuito": "ZUMBAGUA",
-    "subcircuito": "ZUMBAGUA 1",
-    "id": "KUCAYO-EXPRESS-Z3-C-D-Z",
-    "nombre_punto": "KUCAYO EXPRESS"
-  },
-  {
-    "zona": "ZONA 3",
-    "subzona": "COTOPAXI",
-    "distrito": "DANSANTE",
     "circuito": "LA VICTORIA",
     "subcircuito": "LA VICTORIA 1",
     "id": "CASA-BARRIAL-MULINLIVI-NORTE-Z3-C-D-L",
