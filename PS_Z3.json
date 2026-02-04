@@ -5218,5 +5218,14 @@
     "subcircuito": "SAQUISILI 2",
     "id": "CYBER-MATEO-Z3-C-D-S",
     "nombre_punto": "CYBER MATEO"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "DANSANTE",
+    "circuito": "SAQUISILI",
+    "subcircuito": "SAQUISILI 2",
+    "id": "ESCUELA-DE-EGB-REPUBLICA-DE-COLOMBIA-Z3-C-D-S",
+    "nombre_punto": "ESCUELA DE EGB REPUBLICA DE COLOMBIA"
   }
 ]
