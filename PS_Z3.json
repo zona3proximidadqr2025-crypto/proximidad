@@ -5182,5 +5182,14 @@
     "subcircuito": "PUJILI 1",
     "id": "ABARROTES-OLIMPIA-Z3-C-D-P",
     "nombre_punto": "ABARROTES OLIMPIA"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "DANSANTE",
+    "circuito": "SAQUISILI",
+    "subcircuito": "SAQUISILI 2",
+    "id": "GASOLINERA-SINDICATO-DE-CHOFERES-SAQUISILI-Z3-C-D-S",
+    "nombre_punto": "GASOLINERA SINDICATO DE CHOFERES SAQUISILI"
   }
 ]
