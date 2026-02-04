@@ -5203,15 +5203,6 @@
   },
   {
     "zona": "ZONA 3",
-    "subzona": "CHIMBORAZO",
-    "distrito": "RIOBAMBA",
-    "circuito": "CHAMBO",
-    "subcircuito": "CHAMBO 1",
-    "id": "PARQUE-CHAMBO-Z3-C-R-C",
-    "nombre_punto": "PARQUE CHAMBO"
-  },
-  {
-    "zona": "ZONA 3",
     "subzona": "COTOPAXI",
     "distrito": "DANSANTE",
     "circuito": "SAQUISILI",
