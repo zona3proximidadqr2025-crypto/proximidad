@@ -5155,5 +5155,14 @@
     "subcircuito": "ZUMBAGUA 1",
     "id": "HOSPITAL-CLAUDIO-BENATI-Z3-C-D-Z",
     "nombre_punto": "HOSPITAL CLAUDIO BENATI"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "SALCEDO",
+    "circuito": "SALCEDO",
+    "subcircuito": "SALCEDO 1",
+    "id": "HOTEL-JAMI-Z3-C-S-S",
+    "nombre_punto": "HOTEL JAMI"
   }
 ]
