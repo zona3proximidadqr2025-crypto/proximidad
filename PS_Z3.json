@@ -5146,5 +5146,14 @@
     "subcircuito": "SANTA ANA 1",
     "id": "HELADERIA-REINA-DEL-CISNE-Z3-C-S-S",
     "nombre_punto": "HELADERIA REINA DEL CISNE"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "DANSANTE",
+    "circuito": "ZUMBAGUA",
+    "subcircuito": "ZUMBAGUA 1",
+    "id": "HOSPITAL-CLAUDIO-BENATI-Z3-C-D-Z",
+    "nombre_punto": "HOSPITAL CLAUDIO BENATI"
   }
 ]
