@@ -5155,5 +5155,14 @@
     "subcircuito": "SALCEDO 1",
     "id": "HOTEL-JAMI-Z3-C-S-S",
     "nombre_punto": "HOTEL JAMI"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "DANSANTE",
+    "circuito": "PUJILI",
+    "subcircuito": "PUJILI 1",
+    "id": "RAFAEL-VILLACIS-Z3-C-D-P",
+    "nombre_punto": "RAFAEL VILLACIS"
   }
 ]
