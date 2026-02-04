@@ -5209,5 +5209,14 @@
     "subcircuito": "CHAMBO 1",
     "id": "PARQUE-CHAMBO-Z3-C-R-C",
     "nombre_punto": "PARQUE CHAMBO"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "DANSANTE",
+    "circuito": "SAQUISILI",
+    "subcircuito": "SAQUISILI 2",
+    "id": "CYBER-MATEO-Z3-C-D-S",
+    "nombre_punto": "CYBER MATEO"
   }
 ]
