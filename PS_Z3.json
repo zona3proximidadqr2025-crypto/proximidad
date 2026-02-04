@@ -5173,5 +5173,14 @@
     "subcircuito": "PUJILI 1",
     "id": "CANCHAS-SINTÉTICA-GUAPULO-Z3-C-D-P",
     "nombre_punto": "CANCHAS SINTÉTICA GUAPULO"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "DANSANTE",
+    "circuito": "PUJILI",
+    "subcircuito": "PUJILI 1",
+    "id": "ABARROTES-OLIMPIA-Z3-C-D-P",
+    "nombre_punto": "ABARROTES OLIMPIA"
   }
 ]
