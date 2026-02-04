@@ -5191,5 +5191,23 @@
     "subcircuito": "SAQUISILI 2",
     "id": "GASOLINERA-SINDICATO-DE-CHOFERES-SAQUISILI-Z3-C-D-S",
     "nombre_punto": "GASOLINERA SINDICATO DE CHOFERES SAQUISILI"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "RIOBAMBA",
+    "circuito": "CHAMBO",
+    "subcircuito": "CHAMBO 1",
+    "id": "PARQUE-CHAMBO-Z3-C-R-C",
+    "nombre_punto": "PARQUE CHAMBO"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "RIOBAMBA",
+    "circuito": "CHAMBO",
+    "subcircuito": "CHAMBO 1",
+    "id": "PARQUE-CHAMBO-Z3-C-R-C",
+    "nombre_punto": "PARQUE CHAMBO"
   }
 ]
