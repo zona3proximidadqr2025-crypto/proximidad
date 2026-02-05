@@ -5227,5 +5227,14 @@
     "subcircuito": "SAQUISILI 2",
     "id": "MICRO-MERCADOS-TUTI-Z3-C-D-S",
     "nombre_punto": "MICRO-MERCADOS TUTI"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "BAÑOS",
+    "circuito": "BAÑOS",
+    "subcircuito": "BAÑOS 2",
+    "id": "PARQUE-MONTALVO-Z3-T-B-B",
+    "nombre_punto": "Parque Montalvo"
   }
 ]
