@@ -5236,5 +5236,14 @@
     "subcircuito": "BAÑOS 2",
     "id": "PARQUE-MONTALVO-Z3-T-B-B",
     "nombre_punto": "Parque Montalvo"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "BAÑOS",
+    "circuito": "BAÑOS",
+    "subcircuito": "BAÑOS 1",
+    "id": "LLIGUA-Z3-T-B-B",
+    "nombre_punto": "lligua"
   }
 ]
