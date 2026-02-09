@@ -5245,5 +5245,14 @@
     "subcircuito": "BAÑOS 1",
     "id": "LLIGUA-Z3-T-B-B",
     "nombre_punto": "lligua"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LATACUNGA",
+    "circuito": "TERMINAL TERRESTRE",
+    "subcircuito": "TERMINAL TERRESTRE 1",
+    "id": "LOCAL-SMART-CELL-Z3-C-L-T",
+    "nombre_punto": "Local Smart Cell"
   }
 ]
