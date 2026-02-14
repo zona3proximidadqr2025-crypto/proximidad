@@ -5254,5 +5254,14 @@
     "subcircuito": "TERMINAL TERRESTRE 1",
     "id": "LOCAL-SMART-CELL-Z3-C-L-T",
     "nombre_punto": "Local Smart Cell"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LATACUNGA",
+    "circuito": "LASSO",
+    "subcircuito": "LASSO 1",
+    "id": "DOÑA-YOLY-PATITAS-DE-CHANCHO-Z3-C-L-L",
+    "nombre_punto": "DOÑA YOLY PATITAS DE CHANCHO"
   }
 ]
