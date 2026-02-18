@@ -5263,5 +5263,14 @@
     "subcircuito": "LASSO 1",
     "id": "DOÑA-YOLY-PATITAS-DE-CHANCHO-Z3-C-L-L",
     "nombre_punto": "DOÑA YOLY PATITAS DE CHANCHO"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LATACUNGA",
+    "circuito": "NUEVA VIDA",
+    "subcircuito": "NUEVA VIDA 1",
+    "id": "0550511513-Z3-C-L-N",
+    "nombre_punto": 550511513
   }
 ]
