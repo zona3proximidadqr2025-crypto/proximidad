@@ -5272,5 +5272,14 @@
     "subcircuito": "NUEVA VIDA 1",
     "id": "0550511513-Z3-C-L-N",
     "nombre_punto": 550511513
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "PASTAZA",
+    "distrito": "PASTAZA",
+    "circuito": "PUYO NORTE",
+    "subcircuito": "PUYO NORTE 2",
+    "id": "CESLAO-MARIN-Y-PADRE-JUAN-VELASCO-(FARMACIAS-ECONÓMICAS-Y-DISTRIBUIDORA-ECONÓMICA))-Z3-P-P-P",
+    "nombre_punto": "CESLAO MARIN Y PADRE JUAN VELASCO (FARMACIAS ECONÓMICAS Y DISTRIBUIDORA ECONÓMICA))"
   }
 ]
