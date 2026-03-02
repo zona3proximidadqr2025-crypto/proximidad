@@ -5281,5 +5281,14 @@
     "subcircuito": "PUYO NORTE 2",
     "id": "CESLAO-MARIN-Y-PADRE-JUAN-VELASCO-(FARMACIAS-ECONÓMICAS-Y-DISTRIBUIDORA-ECONÓMICA))-Z3-P-P-P",
     "nombre_punto": "CESLAO MARIN Y PADRE JUAN VELASCO (FARMACIAS ECONÓMICAS Y DISTRIBUIDORA ECONÓMICA))"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "PASTAZA",
+    "distrito": "PASTAZA",
+    "circuito": "PUYO NORTE",
+    "subcircuito": "PUYO NORTE 1",
+    "id": "AV.-CESLAO-MARIN-Y-20-DE-JULIO-LA-MOCAWA-Z3-P-P-P",
+    "nombre_punto": "Av. Ceslao Marin y 20 de julio la Mocawa"
   }
 ]
