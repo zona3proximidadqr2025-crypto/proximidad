@@ -5317,5 +5317,14 @@
     "subcircuito": "LASSO 1",
     "id": "CASA-GUILLO-Z3-C-L-L",
     "nombre_punto": "CASA GUILLO"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LATACUNGA",
+    "circuito": "TERMINAL TERRESTRE",
+    "subcircuito": "TERMINAL TERRESTRE 2",
+    "id": "BANCO-PICHINCHA-Z3-C-L-T",
+    "nombre_punto": "BANCO PICHINCHA"
   }
 ]
