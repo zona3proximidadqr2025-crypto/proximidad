@@ -5290,5 +5290,14 @@
     "subcircuito": "PUYO NORTE 1",
     "id": "AV.-CESLAO-MARIN-Y-20-DE-JULIO-LA-MOCAWA-Z3-P-P-P",
     "nombre_punto": "Av. Ceslao Marin y 20 de julio la Mocawa"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LATACUNGA",
+    "circuito": "JOSEGUANGO",
+    "subcircuito": "JOSEGUANGO 1",
+    "id": "GASOLINERA-PETROWORLD-Z3-C-L-J",
+    "nombre_punto": "Gasolinera Petroworld"
   }
 ]
