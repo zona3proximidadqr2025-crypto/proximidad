@@ -5308,5 +5308,14 @@
     "subcircuito": "NUEVA VIDA 1",
     "id": "BANCO-DEL-PICHINCHA-Z3-C-L-N",
     "nombre_punto": "BANCO DEL PICHINCHA"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LATACUNGA",
+    "circuito": "LASSO",
+    "subcircuito": "LASSO 1",
+    "id": "CASA-GUILLO-Z3-C-L-L",
+    "nombre_punto": "CASA GUILLO"
   }
 ]
