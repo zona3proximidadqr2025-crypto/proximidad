@@ -5299,5 +5299,14 @@
     "subcircuito": "JOSEGUANGO 1",
     "id": "GASOLINERA-PETROWORLD-Z3-C-L-J",
     "nombre_punto": "Gasolinera Petroworld"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LATACUNGA",
+    "circuito": "NUEVA VIDA",
+    "subcircuito": "NUEVA VIDA 1",
+    "id": "BANCO-DEL-PICHINCHA-Z3-C-L-N",
+    "nombre_punto": "BANCO DEL PICHINCHA"
   }
 ]
