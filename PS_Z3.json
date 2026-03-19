@@ -5326,5 +5326,14 @@
     "subcircuito": "TERMINAL TERRESTRE 2",
     "id": "BANCO-PICHINCHA-Z3-C-L-T",
     "nombre_punto": "BANCO PICHINCHA"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LATACUNGA",
+    "circuito": "LASSO",
+    "subcircuito": "LASSO 2",
+    "id": "FABRICA-TANILACT-Z3-C-L-L",
+    "nombre_punto": "FABRICA TANILACT"
   }
 ]
