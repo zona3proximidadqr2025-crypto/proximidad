@@ -5335,5 +5335,14 @@
     "subcircuito": "LASSO 2",
     "id": "FABRICA-TANILACT-Z3-C-L-L",
     "nombre_punto": "FABRICA TANILACT"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "AMBATO NORTE",
+    "circuito": "ATOCHA FICOA",
+    "subcircuito": "ATOCHA FICOA 1",
+    "id": "MI-MASCOTA-ONLINE-Z3-T-A-A",
+    "nombre_punto": "MI MASCOTA ONLINE"
   }
 ]
