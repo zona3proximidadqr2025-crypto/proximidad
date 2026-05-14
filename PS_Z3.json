@@ -5344,5 +5344,14 @@
     "subcircuito": "ATOCHA FICOA 1",
     "id": "MI-MASCOTA-ONLINE-Z3-T-A-A",
     "nombre_punto": "MI MASCOTA ONLINE"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "PATATE",
+    "circuito": "EL TAMBO",
+    "subcircuito": "EL TAMBO 1",
+    "id": "ESTACIÓN-DE-SERVICIO-PANAMERICANA-PRIMAX-Z3-T-P-E",
+    "nombre_punto": "Estación de Servicio PANAMERICANA PRIMAX"
   }
 ]
