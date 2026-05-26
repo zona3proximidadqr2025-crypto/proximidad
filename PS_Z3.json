@@ -5362,5 +5362,14 @@
     "subcircuito": "LA MATRIZ 1",
     "id": "KFC-Z3-T-A-L",
     "nombre_punto": "KFC"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "AMBATO NORTE",
+    "circuito": "LA MATRIZ",
+    "subcircuito": "LA MATRIZ 1",
+    "id": "TROPIBURGER-Z3-T-A-L",
+    "nombre_punto": "TROPIBURGER"
   }
 ]
