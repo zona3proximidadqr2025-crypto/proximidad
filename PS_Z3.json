@@ -5353,5 +5353,14 @@
     "subcircuito": "EL TAMBO 1",
     "id": "ESTACIÓN-DE-SERVICIO-PANAMERICANA-PRIMAX-Z3-T-P-E",
     "nombre_punto": "Estación de Servicio PANAMERICANA PRIMAX"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "AMBATO NORTE",
+    "circuito": "LA MATRIZ",
+    "subcircuito": "LA MATRIZ 1",
+    "id": "KFC-Z3-T-A-L",
+    "nombre_punto": "KFC"
   }
 ]
