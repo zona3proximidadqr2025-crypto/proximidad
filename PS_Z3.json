@@ -5371,5 +5371,14 @@
     "subcircuito": "LA MATRIZ 1",
     "id": "TROPIBURGER-Z3-T-A-L",
     "nombre_punto": "TROPIBURGER"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "AMBATO SUR",
+    "circuito": "HUACHI GRANDE",
+    "subcircuito": "HUACHI GRANDE 1",
+    "id": "KFC-VIA-BAÑOS-Z3-T-A-H",
+    "nombre_punto": "KFC VIA BAÑOS"
   }
 ]
