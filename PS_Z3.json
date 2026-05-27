@@ -5380,5 +5380,14 @@
     "subcircuito": "HUACHI GRANDE 1",
     "id": "KFC-VIA-BAÑOS-Z3-T-A-H",
     "nombre_punto": "KFC VIA BAÑOS"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "BAÑOS",
+    "circuito": "BAÑOS",
+    "subcircuito": "BAÑOS 2",
+    "id": "KFC-BAÑOS-Z3-T-B-B",
+    "nombre_punto": "KFC BAÑOS"
   }
 ]
