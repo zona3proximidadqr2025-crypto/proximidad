@@ -5389,5 +5389,14 @@
     "subcircuito": "BAÑOS 2",
     "id": "KFC-BAÑOS-Z3-T-B-B",
     "nombre_punto": "KFC BAÑOS"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "BAÑOS",
+    "circuito": "BAÑOS",
+    "subcircuito": "BAÑOS 1",
+    "id": "LOS-JUANES-Z3-T-B-B",
+    "nombre_punto": "los juanes"
   }
 ]
