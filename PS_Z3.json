@@ -5398,5 +5398,14 @@
     "subcircuito": "BAÑOS 1",
     "id": "LOS-JUANES-Z3-T-B-B",
     "nombre_punto": "los juanes"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "PASTAZA",
+    "distrito": "PASTAZA",
+    "circuito": "PUYO SUR",
+    "subcircuito": "PUYO SUR 3",
+    "id": "CONSEJO-DE-LA-JUDICATURA-Z3-P-P-P",
+    "nombre_punto": "CONSEJO DE LA JUDICATURA"
   }
 ]
